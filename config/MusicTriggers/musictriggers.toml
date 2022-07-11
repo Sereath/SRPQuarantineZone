@@ -1,0 +1,13 @@
+# Sereath's triggers
+# Credits: suonho, yewbic, klankbeeld, Trebblofang, PatrickLieberkind, TheDweebMan
+# More info in the credits.txt file
+
+[universal]
+	fade_in = "100"
+    fade_out = "100"
+	delay = "100"
+
+# Menu
+[p_cpa_415330]
+    [p_cpa_415330.trigger]
+        name = "menu"

@@ -1,0 +1,10 @@
+{
+    "dimensions": [
+        {
+            "dimId": 10,
+            "haze": true,
+            "weather": true,
+            "fog": true
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "renderPlayerNameTag": true,
+  "visibility": "FULL",
+  "overrideBrightness": false,
+  "brightness": 0.0,
+  "overrideDayNightRenderedBrightness": true,
+  "dayBrightnessRendered": 1.0,
+  "nightBrightnessRendered": 0.2
+}

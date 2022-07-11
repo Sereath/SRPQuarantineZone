@@ -1,0 +1,14 @@
+{
+  "inventory": {
+    "0:3": "techguns:pistol,1,0,{camo:0b,ammovariant:\"default\",ammo:5s}",
+    "0:2": "improvedbackpacks:backpack,1,0,{Quality:{},Items:[{Slot:0b,id:\"techguns:t1_scout_helmet\",Count:1b,Damage:0s},{Slot:2b,id:\"minecraft:bread\",Count:1b,Damage:0s},{Slot:3b,id:\"minecraft:apple\",Count:1b,Damage:0s},{Slot:5b,id:\"techguns:itemshared\",Count:1b,Damage:11s},{Slot:6b,id:\"vc:item_guidebook_main\",Count:1b,Damage:0s},{Slot:7b,id:\"techguns:revolver\",Count:1b,Damage:0s,tag:{camo:0b,ammovariant:\"default\",ammo:1s}},{Slot:8b,id:\"solcarrot:food_book\",Count:1b,Damage:0s},{Slot:10b,id:\"techguns:crowbar\",Count:1b,Damage:0s},{Slot:11b,id:\"techguns:fraggrenade\",Count:1b,Damage:0s},{Slot:13b,id:\"xlfoodmod:chocolate\",Count:1b,Damage:0s},{Slot:14b,id:\"xlfoodmod:empty_can\",Count:1b,Damage:0s},{Slot:15b,id:\"xlfoodmod:speedy_energy_drink\",Count:1b,Damage:0s},{Slot:16b,id:\"cookingforblockheads:recipe_book\",Count:1b,Damage:0s},{Slot:17b,id:\"techguns:itemshared\",Count:1b,Damage:12s}],UUIDMost:-4932614079171311545L,UUIDLeast:-6594978880963041181L}",
+    "0:7": "techguns:itemshared,1,11"
+  },
+  "kits": {
+    "srp_starter_01": {
+      "0:7": "techguns:itemshared,1,11",
+      "0:2": "improvedbackpacks:backpack,1,0,{Quality:{},Items:[{Slot:0b,id:\"techguns:t1_scout_helmet\",Count:1b,Damage:0s},{Slot:2b,id:\"minecraft:bread\",Count:1b,Damage:0s},{Slot:3b,id:\"minecraft:apple\",Count:1b,Damage:0s},{Slot:5b,id:\"techguns:itemshared\",Count:1b,Damage:11s},{Slot:6b,id:\"vc:item_guidebook_main\",Count:1b,Damage:0s},{Slot:7b,id:\"techguns:revolver\",Count:1b,Damage:0s,tag:{camo:0b,ammovariant:\"default\",ammo:1s}},{Slot:8b,id:\"solcarrot:food_book\",Count:1b,Damage:0s},{Slot:10b,id:\"techguns:crowbar\",Count:1b,Damage:0s},{Slot:11b,id:\"techguns:fraggrenade\",Count:1b,Damage:0s},{Slot:13b,id:\"xlfoodmod:chocolate\",Count:1b,Damage:0s},{Slot:14b,id:\"xlfoodmod:empty_can\",Count:1b,Damage:0s},{Slot:15b,id:\"xlfoodmod:speedy_energy_drink\",Count:1b,Damage:0s},{Slot:16b,id:\"cookingforblockheads:recipe_book\",Count:1b,Damage:0s},{Slot:17b,id:\"techguns:itemshared\",Count:1b,Damage:12s}],UUIDMost:-4932614079171311545L,UUIDLeast:-6594978880963041181L}",
+      "0:3": "techguns:pistol,1,0,{camo:0b,ammovariant:\"default\",ammo:5s}"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "packName": "SRP:QZ",
+    "icon": {
+        "path": "resources/srpqz/textures/qz.png",
+        "width": 64,
+        "height": 64
+   }
+}

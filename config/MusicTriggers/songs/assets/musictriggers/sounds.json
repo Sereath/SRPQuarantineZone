@@ -1,0 +1,9 @@
+{
+  "music.p_cpa_415330": {
+		"category": "music",
+		"sounds": [{
+			"name": "musictriggers:music/p_cpa_415330",
+			"stream": true
+		}]
+	}
+}

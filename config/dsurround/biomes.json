@@ -1,0 +1,12 @@
+{
+    "biomes": [
+        {
+            "conditions": "biome.name == 'The Beneath'",
+            "dust": true,
+            "dustColor": "38,35,32",
+            "fog": true,
+            "fogColor": "190,157,67",
+            "fogDensity": 0.2
+        }
+    ]
+}
