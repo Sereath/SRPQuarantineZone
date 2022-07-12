@@ -1,1 +1,145 @@
-[]
+[
+    //SRP
+	{
+		"dimension": 0,
+		"mob": "srparasites:carrier_heavy",
+		"random": 0.000625,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:carrier_heavy",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "srparasites:rupter",
+		"random": 0.000875,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 150,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:rupter",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "srparasites:sim_human",
+		"random": 0.00075,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 30,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:sim_human",
+		"result": "deny"
+	},
+
+    //TG
+	{
+		"dimension": 0,
+		"mob": "techguns:outcast",
+		"random": 0.000625,
+		"maxlight": 15,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 30,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:outcast",
+		"result": "deny"
+	},
+    
+    //roughmobsbossesskycheck
+	{
+		"dimension": 0,
+		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton"],
+		"onjoin": true,
+		"seesky": false,
+		"result": "deny"
+	},
+    
+    //fishundeadmobcounter
+
+	{
+		"mob": "mod_lavacow:raven",
+		"mincount": {
+			"amount": 15,
+			"mob": "mod_lavacow:raven",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "mod_lavacow:mimic",
+		"mincount": {
+			"amount": 10,
+			"mob": "mod_lavacow:mimic",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "mod_lavacow:piranha",
+		"mincount": {
+			"amount": 15,
+			"mob": "mod_lavacow:piranha",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "mod_lavacow:zombiepiranha",
+		"mincount": {
+			"amount": 15,
+			"mob": "mod_lavacow:zombiepiranha",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	//vanillamobcounter
+
+	{
+		"mob": "minecraft:bat",
+		"mincount": {
+			"amount": 15,
+			"mob": "minecraft:bat",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	{
+		"mob": "minecraft:slime",
+		"mincount": {
+			"amount": 90,
+			"mob": "minecraft:slime",
+			"perchunk": true
+		},
+		"result": "deny"
+	}
+]

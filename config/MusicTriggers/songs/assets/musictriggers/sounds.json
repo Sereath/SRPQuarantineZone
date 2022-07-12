@@ -1,8 +1,64 @@
 {
+  "music.k_ha41h13022800_180964": {
+		"category": "music",
+		"sounds": [{
+			"name": "musictriggers:music/k_ha41h13022800_180964",
+			"stream": true
+		}]
+	},
+  "music.k_ha42178043_182115": {
+		"category": "music",
+		"sounds": [{
+			"name": "musictriggers:music/k_ha42178043_182115",
+			"stream": true
+		}]
+	},
+  "music.k_ha49182111_190687": {
+		"category": "music",
+		"sounds": [{
+			"name": "musictriggers:music/k_ha49182111_190687",
+			"stream": true
+		}]
+	},
+  "music.k_hev1609250978_367197": {
+		"category": "music",
+		"sounds": [{
+			"name": "musictriggers:music/k_hev1609250978_367197",
+			"stream": true
+		}]
+	},
   "music.p_cpa_415330": {
 		"category": "music",
 		"sounds": [{
 			"name": "musictriggers:music/p_cpa_415330",
+			"stream": true
+		}]
+	},
+  "music.s_asmd_54921": {
+		"category": "music",
+		"sounds": [{
+			"name": "musictriggers:music/s_asmd_54921",
+			"stream": true
+		}]
+	},
+  "music.s_sv_58962": {
+		"category": "music",
+		"sounds": [{
+			"name": "musictriggers:music/s_sv_58962",
+			"stream": true
+		}]
+	},
+  "music.t_ct_172641": {
+		"category": "music",
+		"sounds": [{
+			"name": "musictriggers:music/t_ct_172641",
+			"stream": true
+		}]
+	},
+  "music.t_p_173917": {
+		"category": "music",
+		"sounds": [{
+			"name": "musictriggers:music/t_p_173917",
 			"stream": true
 		}]
 	}

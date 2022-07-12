@@ -1,1 +1,47 @@
-[]
+[
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srparasites:carrier_heavy",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srparasites:rupter",
+				"weight": 3,
+				"groupcountmin": 1,
+				"groupcountmax": 15
+			}
+		]
+	},
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srparasites:sim_human",
+				"weight": 2,
+				"groupcountmin": 1,
+				"groupcountmax": 9
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:outcast",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 3
+			}
+		]
+	}
+]

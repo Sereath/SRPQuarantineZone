@@ -4,7 +4,7 @@ mouseSensitivity:0.35211268
 fov:0.5
 gamma:0.0
 saturation:0.0
-renderDistance:8
+renderDistance:10
 guiScale:3
 particles:0
 bobView:true
@@ -86,12 +86,11 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_of.key.zoom:46
 key_key.craftpresence.config_keycode.name:0
-key_Reload Menu | CTRL + ALT + :19
+key_Reload Menu | CTRL + ALT + :0
 key_Toggle Customization Overlay | CTRL + ALT + :0
 key_Toggle Slot Lock:82
-key_Take Panorama Screenshot:19:ALT
+key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
-key_quark.keybind.toggleAutojump:40
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -110,7 +109,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:76
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -118,6 +116,8 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:76
+key_quark.keybind.toggleAutojump:40
 key_key.spartanweaponry.access_quiver:23
 key_cos.key.opencosarmorinventory:0
 key_Toggle Magnetism Suppressor:49
@@ -130,22 +130,12 @@ key_key.jetpack_hud:22
 key_key.fsb_flashlight:77
 key_key.categories.hbm.toggleBack:0
 key_key.categories.hbm.toggleHUD:47
-key_key.categories.hbm.reload:19
+key_key.categories.hbm.reload:19:CONTROL
 key_neat.keybind.toggle:0
 key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
 key_key.toggleTimeOfDayOverlay:43:CONTROL
 key_key.togglePotionParticles:66:CONTROL
-key_schematica.key.load:73
-key_schematica.key.save:72
-key_schematica.key.control:77
-key_schematica.key.layerInc:81
-key_schematica.key.layerDec:79
-key_schematica.key.layerToggle:0
-key_schematica.key.renderToggle:0
-key_schematica.key.printerToggle:0
-key_schematica.key.moveHere:80
-key_schematica.key.pickBlock:-98:SHIFT
 key_Camera left:203
 key_Camera right:205
 key_Camera closer:200
@@ -161,7 +151,7 @@ key_vc.key.moveLeft:30
 key_vc.key.moveRight:32
 key_vc.key.moveUp:57
 key_vc.key.moveDown:45
-key_vc.key.openInventory:19
+key_vc.key.openInventory:47:ALT
 key_vc.key.dropbomb:0
 key_key.pickup.item:0
 key_key.dismount:42
@@ -182,10 +172,8 @@ key_key.aquaacrobatics.toggle_crawling:0
 key_key.astikorcarts.desc:0
 key_atlasextras.keybind.togglehud:0
 key_atlasextras.keybind.openatlas:50
-key_bbw.key.mode:27
-key_bbw.key.fluidmode:26
 key_key.settings_menu:34
-key_key.range:19
+key_key.range:0
 key_key.undo:22
 key_key.anchor:35
 key_key.fuzzy:0
@@ -251,6 +239,9 @@ key_key.toolbelt.open:55
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_key.toolbelt.slot:47
+key_key.travelersbackpack.inventory:16:ALT
+key_key.travelersbackpack.toggle_tank:49
+key_key.travelersbackpack.cycle_tool:44
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:78
 key_gui.xaero_toggle_slime:0

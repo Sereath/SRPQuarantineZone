@@ -56,7 +56,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 33
 			},
-			"cluster-count": 4,
+			"cluster-count": 6,
 			"min-height": 0,
 			"max-height": 80,
 			"retrogen": false,
@@ -82,7 +82,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 33
 			},
-			"cluster-count": 4,
+			"cluster-count": 6,
 			"min-height": 0,
 			"max-height": 80,
 			"retrogen": false,
@@ -108,7 +108,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 33
 			},
-			"cluster-count": 4,
+			"cluster-count": 6,
 			"min-height": 0,
 			"max-height": 80,
 			"retrogen": false,
@@ -127,9 +127,9 @@
 			"generator": {
 				"block": "coal_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 17
+				"cluster-size": 24
 			},
-			"cluster-count": 20,
+			"cluster-count": 30,
 			"min-height": 16,
 			"max-height": 128,
 			"retrogen": false,
@@ -148,9 +148,9 @@
 			"generator": {
 				"block": "iron_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 9
+				"cluster-size": 13
 			},
-			"cluster-count": 16,
+			"cluster-count": 24,
 			"min-height": 4,
 			"max-height": 64,
 			"retrogen": false,
@@ -169,9 +169,9 @@
 			"generator": {
 				"block": "gold_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 9
+				"cluster-size": 13
 			},
-			"cluster-count": 2,
+			"cluster-count": 3,
 			"min-height": 4,
 			"max-height": 32,
 			"retrogen": false,
@@ -211,9 +211,9 @@
 			"generator": {
 				"block": "diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 12
 			},
-			"cluster-count": 2,
+			"cluster-count": 3,
 			"min-height": 0,
 			"max-height": 16,
 			"retrogen": false,
@@ -232,9 +232,9 @@
 			"generator": {
 				"block": "lapis_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 7
+				"cluster-size": 9
 			},
-			"cluster-count": 2,
+			"cluster-count": 3,
 			"center-height": 16,
 			"spread": 16,
 			"retrogen": false,
@@ -256,9 +256,9 @@
 					"name": "gold_ore"
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 9
+				"cluster-size": 13
 			},
-			"cluster-count": 20,
+			"cluster-count": 30,
 			"min-height": 20,
 			"max-height": 80,
 			"retrogen": false,

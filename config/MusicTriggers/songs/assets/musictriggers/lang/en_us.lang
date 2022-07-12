@@ -1,4 +1,20 @@
 {
+item.musictriggers:k_ha41h13022800_180964.name=Music Disc
+item.record.k_ha41h13022800_180964.desc=Music Triggers - k_ha41h13022800_180964
+item.musictriggers:k_ha42178043_182115.name=Music Disc
+item.record.k_ha42178043_182115.desc=Music Triggers - k_ha42178043_182115
+item.musictriggers:k_ha49182111_190687.name=Music Disc
+item.record.k_ha49182111_190687.desc=Music Triggers - k_ha49182111_190687
+item.musictriggers:k_hev1609250978_367197.name=Music Disc
+item.record.k_hev1609250978_367197.desc=Music Triggers - k_hev1609250978_367197
 item.musictriggers:p_cpa_415330.name=Music Disc
 item.record.p_cpa_415330.desc=Music Triggers - p_cpa_415330
+item.musictriggers:s_asmd_54921.name=Music Disc
+item.record.s_asmd_54921.desc=Music Triggers - s_asmd_54921
+item.musictriggers:s_sv_58962.name=Music Disc
+item.record.s_sv_58962.desc=Music Triggers - s_sv_58962
+item.musictriggers:t_ct_172641.name=Music Disc
+item.record.t_ct_172641.desc=Music Triggers - t_ct_172641
+item.musictriggers:t_p_173917.name=Music Disc
+item.record.t_p_173917.desc=Music Triggers - t_p_173917
 }
