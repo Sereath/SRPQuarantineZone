@@ -91,6 +91,15 @@ key_Toggle Customization Overlay | CTRL + ALT + :0
 key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
+key_quark.keybind.toggleAutojump:40
+key_quark.keybind.lockBuilding:76
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -109,15 +118,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:76
-key_quark.keybind.toggleAutojump:40
 key_key.spartanweaponry.access_quiver:23
 key_cos.key.opencosarmorinventory:0
 key_Toggle Magnetism Suppressor:49
@@ -132,6 +132,9 @@ key_key.categories.hbm.toggleBack:0
 key_key.categories.hbm.toggleHUD:47
 key_key.categories.hbm.reload:19:CONTROL
 key_neat.keybind.toggle:0
+key_openblocks.keybind.vario_switch:47
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
 key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
 key_key.toggleTimeOfDayOverlay:43:CONTROL
@@ -173,7 +176,7 @@ key_key.astikorcarts.desc:0
 key_atlasextras.keybind.togglehud:0
 key_atlasextras.keybind.openatlas:50
 key_key.settings_menu:34
-key_key.range:0
+key_key.range:19
 key_key.undo:22
 key_key.anchor:35
 key_key.fuzzy:0
@@ -239,7 +242,7 @@ key_key.toolbelt.open:55
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_key.toolbelt.slot:47
-key_key.travelersbackpack.inventory:16:ALT
+key_key.travelersbackpack.inventory:48
 key_key.travelersbackpack.toggle_tank:49
 key_key.travelersbackpack.cycle_tool:44
 key_gui.xaero_switch_waypoint_set:0

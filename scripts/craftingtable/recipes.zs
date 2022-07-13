@@ -55,6 +55,8 @@ recipes.remove(<randomthings:diviningrod>);
 
 recipes.remove(<waystones:waystone>);
 
+recipes.remove(<openblocks:generic>);
+
 recipes.removeByRecipeName("techguns:m4_alt");
 recipes.removeByRecipeName("techguns:m4");
 //recipes.removeByRecipeName("techguns:m4_ammo_incendiary");

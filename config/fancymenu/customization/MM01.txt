@@ -136,7 +136,7 @@ customization {
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = dfe8d6d3-dc8e-4835-9ced-8135ebe153a41657495946313
-  y = 340
+  y = 319
   height = 9
 }
 
@@ -173,16 +173,5 @@ customization {
   actionid = 9cdea510-1839-4cd0-aba6-fc2c1da939571657495946314
   y = 0
   height = 30
-}
-
-customization {
-  path = resources/srpqz/textures/desolation.png
-  orientation = bottom-centered
-  x = -186
-  width = 373
-  actionid = 971ec87b-bde5-4474-ad44-cb1d7c288c671657505193610
-  action = addtexture
-  y = -86
-  height = 57
 }
 
