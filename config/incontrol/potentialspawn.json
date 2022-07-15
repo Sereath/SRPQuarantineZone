@@ -6,7 +6,7 @@
 				"mob": "srparasites:carrier_heavy",
 				"weight": 1,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -17,7 +17,7 @@
 				"mob": "srparasites:rupter",
 				"weight": 3,
 				"groupcountmin": 1,
-				"groupcountmax": 15
+				"groupcountmax": 18
 			}
 		]
 	},
@@ -28,7 +28,7 @@
 				"mob": "srparasites:sim_human",
 				"weight": 2,
 				"groupcountmin": 1,
-				"groupcountmax": 9
+				"groupcountmax": 12
 			}
 		]
 	},

@@ -205,226 +205,6 @@
       }
     },
     {
-      "weight": 0.05511390045285225,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "techguns:t3_power_helmet",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "power": {
-              "nbtType": "int",
-              "nbt": 0
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
-            }
-          }
-        }
-      }
-    },
-    {
-      "weight": 0.05511390045285225,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "techguns:t3_power_chestplate",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "power": {
-              "nbtType": "int",
-              "nbt": 0
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
-            }
-          }
-        }
-      }
-    },
-    {
-      "weight": 0.05511390045285225,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "techguns:t3_power_leggings",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "power": {
-              "nbtType": "int",
-              "nbt": 0
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {
-                "Name": {
-                  "nbtType": "string",
-                  "nbt": "quality.protective.name"
-                },
-                "Color": {
-                  "nbtType": "string",
-                  "nbt": "blue"
-                },
-                "Slots": {
-                  "nbtType": "list",
-                  "nbt": [
-                    {
-                      "nbtType": "string",
-                      "nbt": "legs"
-                    }
-                  ]
-                },
-                "AttributeModifiers": {
-                  "nbtType": "list",
-                  "nbt": [
-                    {
-                      "nbtType": "compound",
-                      "nbt": {
-                        "Name": {
-                          "nbtType": "string",
-                          "nbt": "qualitytools"
-                        },
-                        "Amount": {
-                          "nbtType": "double",
-                          "nbt": 0.5
-                        },
-                        "Operation": {
-                          "nbtType": "int",
-                          "nbt": 0
-                        },
-                        "UUIDMost": {
-                          "nbtType": "long",
-                          "nbt": -7372533760526368362
-                        },
-                        "UUIDLeast": {
-                          "nbtType": "long",
-                          "nbt": -8392376166922980618
-                        },
-                        "AttributeName": {
-                          "nbtType": "string",
-                          "nbt": "generic.armor"
-                        }
-                      }
-                    }
-                  ]
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    {
-      "weight": 0.05511390045285225,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "techguns:t3_power_boots",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "power": {
-              "nbtType": "int",
-              "nbt": 0
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
-            }
-          }
-        }
-      }
-    },
-    {
-      "weight": 0.05511390045285225,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "techguns:t3_miner_helmet",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "power": {
-              "nbtType": "int",
-              "nbt": 0
-            }
-          }
-        }
-      }
-    },
-    {
-      "weight": 0.05511390045285225,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "techguns:t3_miner_chestplate",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "power": {
-              "nbtType": "int",
-              "nbt": 0
-            }
-          }
-        }
-      }
-    },
-    {
-      "weight": 0.05511390045285225,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "techguns:t3_miner_leggings",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "power": {
-              "nbtType": "int",
-              "nbt": 0
-            }
-          }
-        }
-      }
-    },
-    {
-      "weight": 0.05511390045285225,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "techguns:t3_miner_boots",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "power": {
-              "nbtType": "int",
-              "nbt": 0
-            }
-          }
-        }
-      }
-    },
-    {
       "weight": 0.1442086547613144,
       "min": 1,
       "max": 6,
@@ -480,6 +260,126 @@
       "max": 2,
       "item": {
         "id": "eplus:table_upgrade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_light_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_light_vest",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_light_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_light_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_chestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_boots",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_heavy_helmet",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_heavy_chestplate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_heavy_leggings",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "compositegear:composite_heavy_boots",
         "damage": 0,
         "count": 1
       }

@@ -255,10 +255,6 @@
             "Potion": {
               "nbtType": "string",
               "nbt": "extraalchemy:leech_normal"
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
             }
           }
         }
@@ -278,10 +274,6 @@
             "Potion": {
               "nbtType": "string",
               "nbt": "extraalchemy:learning_normal"
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
             }
           }
         }
@@ -301,10 +293,6 @@
             "Potion": {
               "nbtType": "string",
               "nbt": "minecraft:regeneration"
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
             }
           }
         }
@@ -324,10 +312,6 @@
             "Potion": {
               "nbtType": "string",
               "nbt": "minecraft:strength"
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
             }
           }
         }
@@ -347,10 +331,6 @@
             "Potion": {
               "nbtType": "string",
               "nbt": "extraalchemy:photosynthesis_normal"
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
             }
           }
         }
@@ -370,10 +350,6 @@
             "Potion": {
               "nbtType": "string",
               "nbt": "minecraft:swiftness"
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
             }
           }
         }
@@ -393,10 +369,6 @@
             "Potion": {
               "nbtType": "string",
               "nbt": "minecraft:leaping"
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
             }
           }
         }
@@ -416,10 +388,6 @@
             "Potion": {
               "nbtType": "string",
               "nbt": "minecraft:water_breathing"
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
             }
           }
         }
@@ -439,10 +407,6 @@
             "Potion": {
               "nbtType": "string",
               "nbt": "extraalchemy:sails_normal"
-            },
-            "Quality": {
-              "nbtType": "compound",
-              "nbt": {}
             }
           }
         }
