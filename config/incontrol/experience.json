@@ -1,1 +1,7 @@
-[]
+[
+	{
+      "dimension": "1",
+      "player": true,
+      "multxp": 1.25
+    }
+]

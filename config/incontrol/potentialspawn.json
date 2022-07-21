@@ -1,10 +1,159 @@
 [
+
+	//techguns
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:zombiepoliceman",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:zombiesoldier",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:zombiefarmer",
+				"weight": 60,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:zombieminer",
+				"weight": 60,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+
+	{
+		"dimension": -1,
+		"mobs":	[
+			{
+				"mob": "techguns:zombiepigmansoldier",
+				"weight": 20,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+
+	{
+		"dimension": -1,
+		"mobs":	[
+			{
+				"mob": "techguns:cyberdemon",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 3
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:skeletonsoldier",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:psychosteve",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:supermutantbasic",
+				"weight": 10,
+				"groupcountmin": 2,
+				"groupcountmax": 4
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:supermutantheavy",
+				"weight": 5,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:supermutantelite",
+				"weight": 3,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:outcast",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 3
+			}
+		]
+	},
+	
+	//srp
+
 	{
 		"dimension": 1,
 		"mobs":	[
 			{
 				"mob": "srparasites:warden",
-				"weight": 1,
+				"weight": 3,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}
@@ -15,7 +164,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:marauder",
-				"weight": 1,
+				"weight": 2,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}
@@ -26,7 +175,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:carrier_heavy",
-				"weight": 1,
+				"weight": 15,
 				"groupcountmin": 1,
 				"groupcountmax": 2
 			}
@@ -37,7 +186,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:rupter",
-				"weight": 3,
+				"weight": 45,
 				"groupcountmin": 1,
 				"groupcountmax": 18
 			}
@@ -48,21 +197,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:sim_human",
-				"weight": 2,
+				"weight": 30,
 				"groupcountmin": 1,
 				"groupcountmax": 12
-			}
-		]
-	},
-
-	{
-		"dimension": 0,
-		"mobs":	[
-			{
-				"mob": "techguns:outcast",
-				"weight": 1,
-				"groupcountmin": 1,
-				"groupcountmax": 3
 			}
 		]
 	}
