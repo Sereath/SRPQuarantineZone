@@ -199,6 +199,7 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:outcast",
+		"block": ["minecraft:sand","minecraft:stone","minecraft:cobblestone","minecraft:stone_slab","minecraft:stonebrick","chisel:concrete_lightgray"],
 		"random": 0.000625,
 		"maxlight": 15,
 		"minlight": 0,

@@ -1,7 +1,6 @@
 {
   "version": 2,
   "data": {
-    "beneath:the_beneath": "PLAINS",
     "minecraft:beaches": "SHORE",
     "minecraft:birch_forest": "BIRCH",
     "minecraft:birch_forest_hills": "BIRCH_HILLS",
