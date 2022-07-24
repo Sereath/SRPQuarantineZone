@@ -175,7 +175,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:carrier_heavy",
-				"weight": 15,
+				"weight": 9,
 				"groupcountmin": 1,
 				"groupcountmax": 2
 			}
@@ -186,7 +186,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:rupter",
-				"weight": 45,
+				"weight": 9,
 				"groupcountmin": 1,
 				"groupcountmax": 18
 			}
@@ -197,7 +197,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:sim_human",
-				"weight": 30,
+				"weight": 9,
 				"groupcountmin": 1,
 				"groupcountmax": 12
 			}

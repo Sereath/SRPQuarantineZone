@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "mob": "techguns:outcast",
+        "player": true,
+        "item": "randomthings:chunkanalyzer",
+        "itemcount": "1",
+        "random": "0.06"
+    },
+    {
+        "mob": "techguns:outcast",
+        "player": true,
+        "item": "techguns:grimreaper",
+        "itemcount": "1",
+        "random": "0.06"
+    }
+]

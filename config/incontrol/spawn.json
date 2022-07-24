@@ -305,6 +305,16 @@
 		"mob": "srparasites:sim_human",
 		"result": "deny"
 	},
+
+	{
+		"mob": "srparasites:sim_enderman",
+		"mincount": {
+			"amount": 1,
+			"mob": "srparasites:sim_enderman",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
     
     //roughmobsbossesskycheck
 	{
