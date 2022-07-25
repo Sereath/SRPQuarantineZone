@@ -4,13 +4,63 @@
         "player": true,
         "item": "randomthings:chunkanalyzer",
         "itemcount": "1",
-        "random": "0.06"
+        "random": "0.0625"
     },
     {
         "mob": "techguns:outcast",
         "player": true,
         "item": "techguns:grimreaper",
         "itemcount": "1",
-        "random": "0.06"
+        "random": "0.0625"
+    },
+    {
+        "mob": "techguns:outcast",
+        "player": true,
+        "item": "srparasites:evolutionlure",
+        "itemcount": "1",
+        "random": "0.5"
+    },
+    {
+        "mob": "techguns:outcast",
+        "player": true,
+        "item": "srparasites:evolutionlure@1",
+        "itemcount": "1",
+        "random": "0.25"
+    },
+    {
+        "mob": "techguns:outcast",
+        "player": true,
+        "item": "srparasites:evolutionlure@2",
+        "itemcount": "1",
+        "random": "0.125"
+    },
+    {
+        "mob": "techguns:outcast",
+        "player": true,
+        "item": "srparasites:evolutionlure@3",
+        "itemcount": "1",
+        "random": "0.0625"
+    },
+    {
+        "mob": "techguns:outcast",
+        "player": true,
+        "item": "srparasites:evolutionlure@4",
+        "itemcount": "1",
+        "random": "0.03125"
+    },
+
+    {
+        "mob": "techguns:supermutantelite",
+        "player": true,
+        "item": "srparasites:evolutionlure@3",
+        "itemcount": "1",
+        "random": "0.125"
+    },
+    {
+        "mob": "techguns:supermutantelite",
+        "player": true,
+        "item": "srparasites:evolutionlure@4",
+        "itemcount": "1",
+        "random": "0.0625"
     }
 ]

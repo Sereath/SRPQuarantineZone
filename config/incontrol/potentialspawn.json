@@ -103,7 +103,7 @@
 		"mobs":	[
 			{
 				"mob": "techguns:supermutantbasic",
-				"weight": 10,
+				"weight": 15,
 				"groupcountmin": 2,
 				"groupcountmax": 4
 			}
@@ -115,7 +115,7 @@
 		"mobs":	[
 			{
 				"mob": "techguns:supermutantheavy",
-				"weight": 5,
+				"weight": 10,
 				"groupcountmin": 1,
 				"groupcountmax": 2
 			}
@@ -127,7 +127,7 @@
 		"mobs":	[
 			{
 				"mob": "techguns:supermutantelite",
-				"weight": 3,
+				"weight": 5,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}
@@ -160,7 +160,7 @@
 		]
 	},
 	{
-		"dimension": 1,
+		"dimension": [0,1],
 		"mobs":	[
 			{
 				"mob": "srparasites:marauder",
