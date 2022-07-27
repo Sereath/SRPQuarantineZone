@@ -131,7 +131,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 2,
+			"amount": 3,
 			"perplayer": true
 		},
 		"result": "allow"
@@ -165,7 +165,7 @@
 		"dimension": 0,
 		"mob": "techguns:supermutantheavy",
 		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
-		"random": 0.000625,
+		"random": 0.000875,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -184,7 +184,7 @@
 		"dimension": 0,
 		"mob": "techguns:supermutantelite",
 		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
-		"random": 0.000375,
+		"random": 0.000625,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -202,8 +202,8 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:outcast",
-		"block": ["minecraft:sand","minecraft:stone","minecraft:cobblestone","minecraft:stone_slab","minecraft:stonebrick","chisel:concrete_lightgray"],
-		"random": 0.000625,
+		"seesky": true,
+		"random": 0.000875,
 		"maxlight": 15,
 		"minlight": 0,
 		"maxcount":	{
@@ -281,7 +281,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 3,
+			"amount": 12,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -299,7 +299,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 120,
+			"amount": 48,
 			"perchunk": true
 		},
 		"result": "allow"

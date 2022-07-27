@@ -22,9 +22,9 @@ recipes.remove(<bountifulbaubles:ringiron>);
 //recipes.remove(<bountifulbaubles:reforger>);
 
 recipes.remove(<buildinggadgets:destructiontool>);
-recipes.remove(<buildinggadgets:buildingtool>);
-recipes.remove(<buildinggadgets:exchangertool>);
-recipes.remove(<buildinggadgets:copypastetool>);
+//recipes.remove(<buildinggadgets:buildingtool>);
+//recipes.remove(<buildinggadgets:exchangertool>);
+//recipes.remove(<buildinggadgets:copypastetool>);
 
 recipes.remove(<randomthings:spectreanchor>);
 recipes.remove(<randomthings:chunkanalyzer>);
@@ -94,21 +94,21 @@ recipes.removeByRecipeName("techguns:pdw_alt");
 recipes.removeByRecipeName("techguns:pdw");
 recipes.removeByRecipeName("techguns:pulserifle_alt");
 recipes.removeByRecipeName("techguns:pulserifle");
-//recipes.removeByRecipeName("techguns:gaussrifle_alt");
-//recipes.removeByRecipeName("techguns:gaussrifle");
+recipes.removeByRecipeName("techguns:gaussrifle_alt");
+recipes.removeByRecipeName("techguns:gaussrifle");
 recipes.removeByRecipeName("techguns:goldenrevolver");
 recipes.removeByRecipeName("techguns:blasterrifle_alt");
 recipes.removeByRecipeName("techguns:blasterrifle");
 recipes.removeByRecipeName("techguns:mibgun_alt");
 recipes.removeByRecipeName("techguns:mibgun");
 
-recipes.removeByRecipeName("techguns:itemshared_20_as50magazineempty");
-recipes.removeByRecipeName("techguns:itemshared_19_as50magazine");
-recipes.removeByRecipeName("techguns:itemshared_107_as50magazine_incendiary");
-recipes.removeByRecipeName("techguns:itemshared_143_as50magazine_explosive");
-//recipes.removeByRecipeName("techguns:itemshared_128_gaussbarrel");
-recipes.removeByRecipeName("techguns:itemshared_22_advancedmagazineempty");
-recipes.removeByRecipeName("techguns:itemshared_21_advancedmagazine");
+//recipes.removeByRecipeName("techguns:itemshared_20_as50magazineempty");
+//recipes.removeByRecipeName("techguns:itemshared_19_as50magazine");
+//recipes.removeByRecipeName("techguns:itemshared_107_as50magazine_incendiary");
+//recipes.removeByRecipeName("techguns:itemshared_143_as50magazine_explosive");
+recipes.removeByRecipeName("techguns:itemshared_128_gaussbarrel");
+//recipes.removeByRecipeName("techguns:itemshared_22_advancedmagazineempty");
+//recipes.removeByRecipeName("techguns:itemshared_21_advancedmagazine");
 
 recipes.removeByRecipeName("techguns:jetpack");
 recipes.removeByRecipeName("techguns:jetpack_alt");

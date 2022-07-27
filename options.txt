@@ -91,6 +91,7 @@ key_Toggle Customization Overlay | CTRL + ALT + :0
 key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
+key_quark.keybind.lockBuilding:76
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -109,7 +110,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.toggleAutojump:40
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -117,7 +117,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:76
+key_quark.keybind.toggleAutojump:40
 key_key.spartanweaponry.access_quiver:23
 key_cos.key.opencosarmorinventory:0
 key_Toggle Magnetism Suppressor:49
@@ -126,11 +126,13 @@ key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:36
 key_key.jetpack_activate:36:ALT
 key_key.jetpack_hover:35
-key_key.jetpack_hud:22
+key_key.jetpack_hud:22:CONTROL
 key_key.fsb_flashlight:77
 key_key.categories.hbm.toggleBack:0
 key_key.categories.hbm.toggleHUD:47
 key_key.categories.hbm.reload:19:CONTROL
+key_key.moreoverlays.lightoverlay.desc:65
+key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
@@ -241,12 +243,12 @@ key_techguns.key.toggleNightvision:49
 key_techguns.key.toggleSafemode:48
 key_techguns.key.toggleStepassist:0
 key_techguns.key.forceReload:19
-key_techguns.key.toggleJetpack:0
+key_techguns.key.toggleJetpack:26
 key_key.toolbelt.open:55
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_key.toolbelt.slot:47
-key_key.travelersbackpack.inventory:48
+key_key.travelersbackpack.inventory:51
 key_key.travelersbackpack.toggle_tank:49
 key_key.travelersbackpack.cycle_tool:44
 key_gui.xaero_switch_waypoint_set:0

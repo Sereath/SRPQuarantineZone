@@ -7,7 +7,7 @@
 		"mobs":	[
 			{
 				"mob": "techguns:zombiepoliceman",
-				"weight": 40,
+				"weight": 30,
 				"groupcountmin": 1,
 				"groupcountmax": 5
 			}
@@ -19,7 +19,7 @@
 		"mobs":	[
 			{
 				"mob": "techguns:zombiesoldier",
-				"weight": 40,
+				"weight": 30,
 				"groupcountmin": 1,
 				"groupcountmax": 5
 			}
@@ -79,7 +79,7 @@
 		"mobs":	[
 			{
 				"mob": "techguns:skeletonsoldier",
-				"weight": 40,
+				"weight": 30,
 				"groupcountmin": 1,
 				"groupcountmax": 5
 			}
@@ -93,7 +93,7 @@
 				"mob": "techguns:psychosteve",
 				"weight": 10,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
