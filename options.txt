@@ -91,13 +91,6 @@ key_Toggle Customization Overlay | CTRL + ALT + :0
 key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.keybind.toggleAutojump:40
 key_quark.emote.no:0
 key_quark.emote.yes:0
@@ -117,6 +110,13 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.lockBuilding:76
 key_key.betterfoliage.gui:66
 key_key.spartanweaponry.access_quiver:23
@@ -130,7 +130,7 @@ key_key.jetpack_hover:35
 key_key.jetpack_hud:22:CONTROL
 key_key.fsb_flashlight:77
 key_key.categories.hbm.toggleBack:0
-key_key.categories.hbm.toggleHUD:47
+key_key.categories.hbm.toggleHUD:47:CONTROL
 key_key.categories.hbm.reload:19:CONTROL
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
