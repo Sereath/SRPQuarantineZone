@@ -6,7 +6,7 @@ gamma:0.0
 saturation:0.0
 renderDistance:10
 guiScale:3
-particles:0
+particles:1
 bobView:true
 anaglyph3d:false
 maxFps:260
@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["ctp_1.2_MCv3.zip","Vanilla_Future_Texture_optifine.zip","Modernity-format3-v3.6.0.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip"]
+resourcePacks:["Vanilla_Future_Texture_optifine.zip","Modernity-format3-v3.7.0.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -53,10 +53,10 @@ autoJump:false
 narrator:0
 tutorialStep:none
 soundCategory_master:0.90140843
-soundCategory_music:0.85915494
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
-soundCategory_block:1.0
+soundCategory_block:0.6056338
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0

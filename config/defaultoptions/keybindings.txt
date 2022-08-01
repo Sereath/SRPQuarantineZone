@@ -31,21 +31,12 @@ key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
 key_of.key.zoom:46:NONE
-key_key.craftpresence.config_keycode.name:0:NONE
 key_Reload Menu | CTRL + ALT + :0:NONE
 key_Toggle Customization Overlay | CTRL + ALT + :0:NONE
 key_Toggle Slot Lock:82:NONE
 key_Take Panorama Screenshot:25:ALT
+key_key.craftpresence.config_keycode.name:0:NONE
 key_keybind.baublesinventory:18:ALT
-key_quark.keybind.toggleAutojump:40:NONE
-key_quark.keybind.lockBuilding:76:NONE
-key_quark.keybind.dropoff:0:NONE
-key_quark.keybind.changeHotbar:0:NONE
-key_quark.keybind.chestSort:0:NONE
-key_quark.keybind.chestDropoff:0:NONE
-key_quark.keybind.chestMerge:0:NONE
-key_quark.keybind.chestRestock:0:NONE
-key_quark.keybind.chestExtract:0:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -64,19 +55,30 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
+key_quark.keybind.toggleAutojump:40:NONE
+key_quark.keybind.dropoff:0:NONE
+key_quark.keybind.changeHotbar:0:NONE
+key_quark.keybind.chestSort:0:NONE
+key_quark.keybind.chestDropoff:0:NONE
+key_quark.keybind.chestMerge:0:NONE
+key_quark.keybind.chestRestock:0:NONE
+key_quark.keybind.chestExtract:0:NONE
+key_quark.keybind.lockBuilding:76:NONE
 key_key.spartanweaponry.access_quiver:23:NONE
 key_cos.key.opencosarmorinventory:0:NONE
 key_Toggle Magnetism Suppressor:49:NONE
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211:NONE
 key_key.ftbquests.quests:36:NONE
-key_key.jetpack_activate:36:NONE
+key_key.jetpack_activate:36:ALT
 key_key.jetpack_hover:35:NONE
-key_key.jetpack_hud:22:NONE
+key_key.jetpack_hud:22:CONTROL
 key_key.fsb_flashlight:77:NONE
 key_key.categories.hbm.toggleBack:0:NONE
-key_key.categories.hbm.toggleHUD:47:NONE
+key_key.categories.hbm.toggleHUD:47:CONTROL
 key_key.categories.hbm.reload:19:CONTROL
+key_key.moreoverlays.lightoverlay.desc:65:NONE
+key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_neat.keybind.toggle:0:NONE
 key_openblocks.keybind.vario_switch:47:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
@@ -91,7 +93,11 @@ key_Camera closer:200:NONE
 key_Camera farther:208:NONE
 key_Swap shoulder:24:NONE
 key_key.toastcontrol.clear:0:NONE
-key_Enchantment Gui:56:NONE
+key_treechop.key.toggle_chopping:0:NONE
+key_treechop.key.toggle_felling:0:NONE
+key_treechop.key.cycle_sneak_behavior:0:NONE
+key_treechop.key.open_settings_overlay:43:NONE
+key_Enchantment Gui:45:NONE
 key_Granis Soul Dash:0:NONE
 key_Pegasus Soul Key:29:NONE
 key_vc.key.moveForward:17:NONE
@@ -121,6 +127,7 @@ key_key.aquaacrobatics.toggle_crawling:0:NONE
 key_key.astikorcarts.desc:0:NONE
 key_atlasextras.keybind.togglehud:0:NONE
 key_atlasextras.keybind.openatlas:50:NONE
+key_tombstone.message.knowledge_of_death:0:NONE
 key_key.settings_menu:34:NONE
 key_key.range:19:NONE
 key_key.undo:22:NONE
@@ -177,18 +184,18 @@ key_key.music_player_previous:79:NONE
 key_key.reload_musictriggers:0:NONE
 key_key.nutrition:49:NONE
 key_key.arms.desc:0:NONE
-key_key.mod.desc:0:NONE
+key_key.mod.desc:73:NONE
 key_key.head.desc:0:NONE
 key_techguns.key.toggleNightvision:49:NONE
 key_techguns.key.toggleSafemode:48:NONE
 key_techguns.key.toggleStepassist:0:NONE
 key_techguns.key.forceReload:19:NONE
-key_techguns.key.toggleJetpack:0:NONE
+key_techguns.key.toggleJetpack:26:NONE
 key_key.toolbelt.open:55:NONE
 key_key.toolbelt.cycle.left:0:NONE
 key_key.toolbelt.cycle.right:0:NONE
 key_key.toolbelt.slot:47:NONE
-key_key.travelersbackpack.inventory:48:NONE
+key_key.travelersbackpack.inventory:51:NONE
 key_key.travelersbackpack.toggle_tank:49:NONE
 key_key.travelersbackpack.cycle_tool:44:NONE
 key_gui.xaero_switch_waypoint_set:0:NONE
@@ -198,7 +205,7 @@ key_gui.xaero_toggle_grid:0:NONE
 key_gui.xaero_toggle_waypoints:0:NONE
 key_gui.xaero_toggle_map_waypoints:0:NONE
 key_gui.xaero_toggle_map:0:NONE
-key_gui.xaero_enlarge_map:44:NONE
+key_gui.xaero_enlarge_map:0:NONE
 key_gui.xaero_waypoints_key:22:NONE
 key_gui.xaero_zoom_in:0:NONE
 key_gui.xaero_zoom_out:0:NONE
@@ -215,4 +222,5 @@ key_gui.xaero_map_zoom_in:0:NONE
 key_gui.xaero_map_zoom_out:0:NONE
 key_gui.xaero_quick_confirm:54:NONE
 key_key.sort_config:0:NONE
+key_key.sort:41:NONE
 key_key.drop:16:NONE

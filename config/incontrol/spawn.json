@@ -203,7 +203,7 @@
 		"dimension": 0,
 		"mob": "techguns:outcast",
 		"seesky": true,
-		"random": 0.000875,
+		"random": 0.00075,
 		"maxlight": 15,
 		"minlight": 0,
 		"maxcount":	{
