@@ -4,14 +4,14 @@
         "player": true,
         "item": "randomthings:chunkanalyzer",
         "itemcount": "1",
-        "random": "0.0625"
+        "random": "0.03125"
     },
     {
         "mob": "techguns:outcast",
         "player": true,
         "item": "techguns:grimreaper",
         "itemcount": "1",
-        "random": "0.0625"
+        "random": "0.03125"
     },
     {
         "mob": "techguns:outcast",

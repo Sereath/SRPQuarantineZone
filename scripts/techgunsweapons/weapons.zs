@@ -6,9 +6,9 @@ import mods.techguns.ArmorStats;
 GunStats.setWeaponStat("sawedoff","DAMAGE",5.0);
 
 GunStats.setWeaponStat("goldenrevolver","DAMAGE",24.0);
-GunStats.setWeaponStat("goldenrevolver","DAMAGE_MIN",18.0);
+GunStats.setWeaponStat("goldenrevolver","DAMAGE_MIN",12.0);
 
-GunStats.setWeaponStat("boltaction","DAMAGE",24.0);
+GunStats.setWeaponStat("boltaction","DAMAGE",18.0);
 GunStats.setWeaponStat("boltaction","DAMAGE_MIN",12.0);
 
 GunStats.setWeaponStat("flamethrower","DAMAGE",7.0);
@@ -54,8 +54,8 @@ GunStats.setWeaponStat("laserpistol","DAMAGE",7.0);
 GunStats.setWeaponStat("as50","DAMAGE",48.0);
 GunStats.setWeaponStat("as50","DAMAGE_MIN",24.0);
 
-GunStats.setWeaponStat("gaussrifle","DAMAGE",50.0);
-GunStats.setWeaponStat("gaussrifle","DAMAGE_MIN",50.0);
+GunStats.setWeaponStat("gaussrifle","DAMAGE",44.0);
+GunStats.setWeaponStat("gaussrifle","DAMAGE_MIN",44.0);
 
 GunStats.setWeaponStat("guidedmissilelauncher","DAMAGE",50.0);
 GunStats.setWeaponStat("guidedmissilelauncher","DAMAGE_MIN",30.0);

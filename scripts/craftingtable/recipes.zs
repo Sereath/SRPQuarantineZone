@@ -106,9 +106,18 @@ recipes.removeByRecipeName("techguns:mibgun");
 //recipes.removeByRecipeName("techguns:itemshared_19_as50magazine");
 //recipes.removeByRecipeName("techguns:itemshared_107_as50magazine_incendiary");
 //recipes.removeByRecipeName("techguns:itemshared_143_as50magazine_explosive");
-recipes.removeByRecipeName("techguns:itemshared_128_gaussbarrel");
+//recipes.removeByRecipeName("techguns:itemshared_128_gaussbarrel");
 //recipes.removeByRecipeName("techguns:itemshared_22_advancedmagazineempty");
 //recipes.removeByRecipeName("techguns:itemshared_21_advancedmagazine");
+
+recipes.removeByRecipeName("techguns:teslagun_alt");
+recipes.removeByRecipeName("techguns:teslagun");
+recipes.removeByRecipeName("techguns:sonicshotgun_alt");
+recipes.removeByRecipeName("techguns:sonicshotgun");
+recipes.removeByRecipeName("techguns:nucleardeathray_alt");
+recipes.removeByRecipeName("techguns:nucleardeathray");
+recipes.removeByRecipeName("techguns:tfg_alt");
+recipes.removeByRecipeName("techguns:tfg");
 
 recipes.removeByRecipeName("techguns:jetpack");
 recipes.removeByRecipeName("techguns:jetpack_alt");
@@ -136,6 +145,8 @@ recipes.removeByRecipeName("techguns:tacticalmask");
 
 recipes.removeByRecipeName("eplus:table");
 
+recipes.removeByRecipeName("tombstone:enchanted_grave_key");
+
 recipes.remove(<pickletweaks:emerald_apple>);
 recipes.remove(<pickletweaks:diamond_apple>);
 recipes.remove(<pickletweaks:constantan_paxel>);
@@ -152,6 +163,10 @@ recipes.remove(<vc:airship_workbench>);
 
 recipes.remove(<pickletweaks:nightvision_goggles>);
 
+recipes.remove(<corpsecomplex:scroll>);
+
+recipes.remove(<apotheosis:prismatic_web>);
+
 //recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 //recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 //recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemVibrantCrystal>, <ore:crystalRestonia>, <ore:itemVibrantCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
@@ -159,7 +174,7 @@ recipes.remove(<pickletweaks:nightvision_goggles>);
 recipes.addShaped(<minecraft:nether_star> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <minecraft:nether_star>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
 
 //recipes.addShaped(<randomthings:timeinabottle>, [[<ore:gemAmber>, <ore:gemAmber>, <ore:gemAmber>],[<minecraft:diamond_block>, <bountifulbaubles:ringoverclocking>, <minecraft:diamond_block>], [<ore:dustMithril>, <enderio:item_soul_vial>, <ore:dustMithril>]]);
-recipes.addShaped(<randomthings:chunkanalyzer>, [[<bountifulbaubles:ringoverclocking>, <ore:netherStar>, <bountifulbaubles:ringoverclocking>],[<ore:platePlatinum>, <ore:blockGlassHardened>, <ore:platePlatinum>], [<ore:plateAncientDebris>, <ore:platePlatinum>, <ore:plateAncientDebris>]]);
+recipes.addShaped(<randomthings:chunkanalyzer>, [[<ore:netherStar>, <bountifulbaubles:ringoverclocking>, <ore:netherStar>],[<ore:platePlatinum>, <ore:blockGlassHardened>, <ore:platePlatinum>], [<ore:plateAncientDebris>, <ore:platePlatinum>, <ore:plateAncientDebris>]]);
 
 recipes.addShaped(<techguns:itemshared:126>, [[<ore:nuggetCopper>, <ore:wireCopper>, <ore:nuggetCopper>],[<ore:nuggetCopper>, <ore:blockGlassColorless>, <ore:nuggetCopper>], [<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>]]);
 recipes.addShaped(<techguns:itemshared:125>, [[<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>],[<ore:dustRedstone>, <techguns:itemshared:126>, <ore:dustRedstone>], [<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>]]);
@@ -180,3 +195,7 @@ recipes.addShaped(<techguns:jumppack>, [[<ore:nuggetSteel>, null, <ore:nuggetSte
 recipes.addShaped(<malisisdoors:forcefielditem>, [[<ore:netherStar>, <nyx:meteor_block>, <ore:netherStar>],[<nyx:meteor_block>, <techguns:itemshared:131>, <nyx:meteor_block>], [<ore:netherStar>, <nyx:meteor_block>, <ore:netherStar>]]);
 
 recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:netherStar>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
+
+recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:netherStar>, null],[<ore:enderpearl>, <ore:paper>, <ore:enderpearl>], [null, <minecraft:ender_eye>, null]]);
+
+recipes.addShaped(<apotheosis:prismatic_web>, [[null, <ore:netherStar>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
