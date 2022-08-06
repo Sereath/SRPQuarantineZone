@@ -57,7 +57,7 @@
 				"mob": "techguns:zombiepigmansoldier",
 				"weight": 20,
 				"groupcountmin": 1,
-				"groupcountmax": 5
+				"groupcountmax": 3
 			}
 		]
 	},
@@ -69,7 +69,7 @@
 				"mob": "techguns:cyberdemon",
 				"weight": 10,
 				"groupcountmin": 1,
-				"groupcountmax": 3
+				"groupcountmax": 2
 			}
 		]
 	},

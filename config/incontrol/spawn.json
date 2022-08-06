@@ -79,7 +79,7 @@
 		"mob": "techguns:zombiepigmansoldier",
 		"random": 0.00125,
 		"maxcount":	{
-			"amount": 20,
+			"amount": 12,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -95,7 +95,7 @@
 		"mob": "techguns:cyberdemon",
 		"random": 0.000625,
 		"maxcount":	{
-			"amount": 10,
+			"amount": 6,
 			"perchunk": true
 		},
 		"result": "allow"
