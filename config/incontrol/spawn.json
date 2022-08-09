@@ -199,25 +199,6 @@
 		"result": "deny"
 	},
 
-	{
-		"dimension": 0,
-		"mob": "techguns:outcast",
-		"seesky": true,
-		"random": 0.00075,
-		"maxlight": 15,
-		"minlight": 0,
-		"maxcount":	{
-			"amount": 6,
-			"perchunk": true
-		},
-		"result": "allow"
-	},
-	{
-		"dimension": 0,
-		"mob": "techguns:outcast",
-		"result": "deny"
-	},
-
     //srp
 
 	{

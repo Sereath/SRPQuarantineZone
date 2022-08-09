@@ -134,18 +134,6 @@
 		]
 	},
 
-	{
-		"dimension": 0,
-		"mobs":	[
-			{
-				"mob": "techguns:outcast",
-				"weight": 10,
-				"groupcountmin": 1,
-				"groupcountmax": 3
-			}
-		]
-	},
-	
 	//srp
 
 	{
