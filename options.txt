@@ -253,7 +253,7 @@ key_key.travelersbackpack.inventory:51
 key_key.travelersbackpack.toggle_tank:49
 key_key.travelersbackpack.cycle_tool:44
 key_gui.xaero_switch_waypoint_set:0
-key_gui.xaero_instant_waypoint:78
+key_gui.xaero_instant_waypoint:0
 key_gui.xaero_toggle_slime:0
 key_gui.xaero_toggle_grid:0
 key_gui.xaero_toggle_waypoints:0
@@ -275,8 +275,8 @@ key_gui.xaero_open_settings:27
 key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:54
-key_key.sort_config:0
-key_key.sort:41
+key_key.sort_config:12
+key_key.sort:-98
 key_key.drop:16
 soundCategory_master:0.90140843
 soundCategory_music:1.0

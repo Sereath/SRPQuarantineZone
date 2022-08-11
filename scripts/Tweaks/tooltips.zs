@@ -54,6 +54,7 @@
 <futuremc:netherite_shovel>.displayName = "§4Netherite Shovel";
 <futuremc:netherite_hoe>.displayName = "§4Netherite Hoe";
 
+
 <techguns:goldenrevolver>.displayName = "§6Golden Revolver";
 //<techguns:boltaction>.displayName = "§cBolt Action Rifle";
 //<techguns:m4>.displayName = "§cM4 Assault Rifle";
