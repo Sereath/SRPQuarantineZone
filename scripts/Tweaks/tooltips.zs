@@ -97,4 +97,4 @@
 
 <techguns:itemshared:131>.displayName = "§4Plasma Generator";
 
-<hbm:crucible>.displayName = "§4Crucible";
+//<hbm:crucible>.displayName = "§4Crucible";

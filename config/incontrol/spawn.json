@@ -244,7 +244,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 1,
+			"amount": 2,
 			"perchunk": true
 		},
 		"result": "allow"

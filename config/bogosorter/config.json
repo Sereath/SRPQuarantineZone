@@ -1,22 +1,8 @@
 {
   "General": {
-    "enableAutoRefill": true,
+    "enableAutoRefill": false,
     "refillDmgThreshold": 1
   },
-  "ItemSortRules": [
-    "empty",
-    "empty",
-    "empty",
-    "empty",
-    "empty",
-    "empty",
-    "empty"
-  ],
-  "NbtSortRules": [
-    "empty",
-    "empty",
-    "empty",
-    "empty",
-    "empty"
-  ]
+  "ItemSortRules": [],
+  "NbtSortRules": []
 }
