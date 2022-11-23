@@ -23,6 +23,15 @@
 <srparasites:weapon_bow_sentient>.displayName = "§5Sentient greatbow";
 //<srparasites:weapon_bow_sentient>.addTooltip(format.darkRed("..."));
 
+<srparasites:armor_helm>.displayName = "§dLiving Helm";
+<srparasites:armor_chest>.displayName = "§dLiving Chest";
+<srparasites:armor_pants>.displayName = "§dLiving Pants";
+<srparasites:armor_boots>.displayName = "§dLiving Boots";
+<srparasites:armor_helm_sentient>.displayName = "§5Sentient Helm";
+<srparasites:armor_chest_sentient>.displayName = "§5Sentient Chest";
+<srparasites:armor_pants_sentient>.displayName = "§5Sentient Pants";
+<srparasites:armor_boots_sentient>.displayName = "§5Sentient Boots";
+
 <mutantbeasts:mutant_skeleton_skull>.displayName = "§dMutant Skeleton Skull";
 <mutantbeasts:mutant_skeleton_chestplate>.displayName = "§dMutant Skeleton Chestplate";
 <mutantbeasts:mutant_skeleton_leggings>.displayName = "§dMutant Skeleton Leggings";
