@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["Vanilla_Future_Texture_optifine.zip","Modernity-format3-v3.7.1.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip"]
+resourcePacks:["Vanilla_Future_Texture_optifine.zip","Modernity-format3-v3.8.2.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -24,7 +24,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-snooperEnabled:true
+snooperEnabled:false
 fullscreen:false
 enableVsync:false
 useVbo:true
@@ -138,7 +138,6 @@ key_Camera right:205
 key_Camera closer:200
 key_Camera farther:208
 key_Swap shoulder:24
-key_key.toastcontrol.clear:0
 key_treechop.key.toggle_chopping:0
 key_treechop.key.toggle_felling:0
 key_treechop.key.cycle_sneak_behavior:0
