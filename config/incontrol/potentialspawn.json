@@ -133,6 +133,18 @@
 			}
 		]
 	},
+	
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "techguns:stormtrooper",
+				"weight": 5,
+				"groupcountmin": 1,
+				"groupcountmax": 4
+			}
+		]
+	},
 
 	//srp
 
@@ -163,9 +175,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:carrier_heavy",
-				"weight": 9,
+				"weight": 15,
 				"groupcountmin": 1,
-				"groupcountmax": 2
+				"groupcountmax": 3
 			}
 		]
 	},
@@ -174,7 +186,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:rupter",
-				"weight": 9,
+				"weight": 12,
 				"groupcountmin": 1,
 				"groupcountmax": 18
 			}
@@ -185,6 +197,17 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:sim_human",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 12
+			}
+		]
+	},
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srparasites:sim_villager",
 				"weight": 9,
 				"groupcountmin": 1,
 				"groupcountmax": 12

@@ -131,7 +131,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 3,
+			"amount": 4,
 			"perplayer": true
 		},
 		"result": "allow"
@@ -199,6 +199,24 @@
 		"result": "deny"
 	},
 
+	{
+		"dimension": 1,
+		"mob": "techguns:stormtrooper",
+		"random": 0.0025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 24,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 1,
+		"mob": "techguns:stormtrooper",
+		"result": "deny"
+	},
+
     //srp
 
 	{
@@ -258,7 +276,7 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:carrier_heavy",
-		"random": 0.000625,
+		"random": 0.005,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -276,11 +294,11 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:rupter",
-		"random": 0.000875,
+		"random": 0.00375,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 48,
+			"amount": 36,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -294,7 +312,7 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:sim_human",
-		"random": 0.00075,
+		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -310,12 +328,20 @@
 	},
 
 	{
-		"mob": "srparasites:sim_enderman",
-		"mincount": {
-			"amount": 6,
-			"mob": "srparasites:sim_enderman",
+		"dimension": 0,
+		"mob": "srparasites:sim_villager",
+		"random": 0.0025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 24,
 			"perchunk": true
 		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:sim_villager",
 		"result": "deny"
 	},
     
@@ -367,6 +393,18 @@
 		"result": "deny"
 	},
 
+	//mutantbeasts
+
+	{
+		"mob": "mutantbeasts:mutant_enderman",
+		"mincount": {
+			"amount": 3,
+			"mob": "mutantbeasts:mutant_enderman",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
 	//vanillamobcounter
 
 	{
@@ -382,8 +420,18 @@
 	{
 		"mob": "minecraft:slime",
 		"mincount": {
-			"amount": 45,
+			"amount": 30,
 			"mob": "minecraft:slime",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	{
+		"mob": "minecraft:enderman",
+		"mincount": {
+			"amount": 6,
+			"mob": "minecraft:enderman",
 			"perchunk": true
 		},
 		"result": "deny"
