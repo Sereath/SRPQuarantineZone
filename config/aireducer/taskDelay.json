@@ -1,3 +1,8 @@
 {
-  "minecraft:rabbit": 6
+  "minecraft:pig": 10,
+  "minecraft:villager": 10,
+  "minecraft:rabbit": 6,
+  "minecraft:sheep": 10,
+  "minecraft:cow": 10,
+  "minecraft:chicken": 10
 }

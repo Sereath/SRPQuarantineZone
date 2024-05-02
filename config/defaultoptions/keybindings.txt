@@ -32,7 +32,7 @@ key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
 key_of.key.zoom:46:NONE
 key_Reload Menu | CTRL + ALT + :0:NONE
-key_Toggle Customization Overlay | CTRL + ALT + :0:NONE
+key_Toggle Customization Overlay | CTRL + ALT + :50:NONE
 key_Toggle Slot Lock:82:NONE
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
@@ -43,27 +43,9 @@ key_quark.keybind.chestDropoff:0:NONE
 key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.toggleAutojump:40:NONE
-key_quark.emote.no:0:NONE
-key_quark.emote.yes:0:NONE
-key_quark.emote.wave:0:NONE
-key_quark.emote.salute:0:NONE
-key_quark.emote.cheer:0:NONE
-key_quark.emote.clap:0:NONE
-key_quark.emote.think:0:NONE
-key_quark.emote.point:0:NONE
-key_quark.emote.shrug:0:NONE
-key_quark.emote.headbang:0:NONE
-key_quark.emote.weep:0:NONE
-key_quark.emote.facepalm:0:NONE
-key_quark.emote.dance:0:NONE
-key_quark.emote.tpose:0:NONE
-key_quark.emote.dab:0:NONE
-key_quark.emote.jet:0:NONE
-key_quark.emote.exorcist:0:NONE
-key_quark.emote.zombie:0:NONE
 key_quark.keybind.lockBuilding:76:NONE
 key_key.spartanweaponry.access_quiver:23:NONE
+key_ChatFlow:88:NONE
 key_cos.key.opencosarmorinventory:0:NONE
 key_Toggle Magnetism Suppressor:49:NONE
 key_key.ftbutilities.nbt:49:ALT
@@ -84,7 +66,6 @@ key_Camera right:205:NONE
 key_Camera closer:200:NONE
 key_Camera farther:208:NONE
 key_Swap shoulder:24:NONE
-key_key.toastcontrol.clear:0:NONE
 key_treechop.key.toggle_chopping:0:NONE
 key_treechop.key.toggle_felling:0:NONE
 key_treechop.key.cycle_sneak_behavior:0:NONE
@@ -134,10 +115,6 @@ key_Options Gui:23:NONE
 key_key.clienttweaks.disable_step_assist:0:NONE
 key_key.clienttweaks.hide_offhand_item:0:NONE
 key_key.cofh.multimode:47:NONE
-key_key.toggleLiquids:75:NONE
-key_key.toggleVisible:71:NONE
-key_key.immersiveengineering.magnetEquip:31:NONE
-key_key.immersiveengineering.chemthrowerSwitch:0:NONE
 key_key.craftingtweaks.rotate:0:NONE
 key_key.craftingtweaks.rotate_counter_clockwise:0:NONE
 key_key.craftingtweaks.balance:0:NONE
@@ -167,14 +144,16 @@ key_key.itemzoom.toggle:0:NONE
 key_key.itemzoom.hold:0:NONE
 key_key.itemzoom.zoom.in:0:NONE
 key_key.itemzoom.zoom.out:0:NONE
+key_key.toggleLiquids:75:NONE
+key_key.toggleVisible:71:NONE
 key_key.music_player_gui:82:NONE
 key_key.music_player_toggle:80:NONE
 key_key.music_player_next:81:NONE
 key_key.music_player_previous:79:NONE
-key_key.reload_musictriggers:0:NONE
+key_key.musictriggers.gui:19:ALT
 key_key.nutrition:49:NONE
 key_key.arms.desc:0:NONE
-key_key.mod.desc:73:NONE
+key_key.mod.desc:62:NONE
 key_key.head.desc:0:NONE
 key_techguns.key.toggleNightvision:49:NONE
 key_techguns.key.toggleSafemode:48:NONE
@@ -206,12 +185,15 @@ key_gui.xaero_toggle_entity_radar:0:NONE
 key_gui.xaero_reverse_entity_radar:0:NONE
 key_gui.xaero_toggle_manual_cave_mode:0:NONE
 key_gui.xaero_alternative_list_players:0:NONE
+key_gui.xaero_toggle_tracked_players:0:NONE
 key_gui.xaero_minimap_settings:21:NONE
 key_gui.xaero_open_map:50:NONE
 key_gui.xaero_open_settings:27:NONE
 key_gui.xaero_map_zoom_in:0:NONE
 key_gui.xaero_map_zoom_out:0:NONE
 key_gui.xaero_quick_confirm:54:NONE
+key_gui.xaero_toggle_dimension:0:NONE
 key_key.sort_config:12:NONE
 key_key.sort:-98:NONE
 key_key.drop:16:NONE
+key_key.craftpresence.config_keycode.name:0:NONE

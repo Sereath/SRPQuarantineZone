@@ -23,14 +23,16 @@
 <srparasites:weapon_bow_sentient>.displayName = "§5Sentient greatbow";
 //<srparasites:weapon_bow_sentient>.addTooltip(format.darkRed("..."));
 
-<srparasites:armor_helm>.displayName = "§dLiving Helm";
-<srparasites:armor_chest>.displayName = "§dLiving Chest";
-<srparasites:armor_pants>.displayName = "§dLiving Pants";
+<srparasites:armor_helm>.displayName = "§dLiving Helmet";
+<srparasites:armor_chest>.displayName = "§dLiving Chestplate";
+<srparasites:armor_pants>.displayName = "§dLiving Leggings";
 <srparasites:armor_boots>.displayName = "§dLiving Boots";
-<srparasites:armor_helm_sentient>.displayName = "§5Sentient Helm";
-<srparasites:armor_chest_sentient>.displayName = "§5Sentient Chest";
-<srparasites:armor_pants_sentient>.displayName = "§5Sentient Pants";
+
+<srparasites:armor_helm_sentient>.displayName = "§5Sentient Helmet";
+<srparasites:armor_chest_sentient>.displayName = "§5Sentient Chestplate";
+<srparasites:armor_pants_sentient>.displayName = "§5Sentient Leggings";
 <srparasites:armor_boots_sentient>.displayName = "§5Sentient Boots";
+
 
 <mutantbeasts:mutant_skeleton_skull>.displayName = "§dMutant Skeleton Skull";
 <mutantbeasts:mutant_skeleton_chestplate>.displayName = "§dMutant Skeleton Chestplate";
@@ -73,7 +75,7 @@
 <techguns:grimreaper>.displayName = "§5Grim Reaper";
 //<techguns:grenadelauncher>.displayName = "§cGrenade Launcher";
 //<techguns:netherblaster>.displayName = "§cNether Blaster";
-<techguns:biogun>.displayName = "§aBiogun";
+//<techguns:biogun>.displayName = "§aBiogun";
 <techguns:teslagun>.displayName = "§9Tesla Gun";
 //<techguns:lmg>.displayName = "§cLight Machine Gun";
 //<techguns:minigun>.displayName = "§cMinigun";
@@ -92,17 +94,38 @@
 <techguns:gaussrifle>.displayName = "§3Gauss Rifle";
 <techguns:guidedmissilelauncher>.displayName = "§4Guided Missile-Launcher";
 //<techguns:miningdrill>.displayName = "§cMining Drill";
-<techguns:tfg>.displayName = "§5TFG-10000";
+<techguns:tfg>.displayName = "§aTFG-10000";
 //<techguns:laserpistol>.displayName = "§cLaser Pistol";
+
+<techguns:t3_combat_helmet>.displayName = "§9Advanced Combat Helmet";
+<techguns:t3_combat_chestplate>.displayName = "§9Advanced Combat Chestplate";
+<techguns:t3_combat_leggings>.displayName = "§9Advanced Combat Leggings";
+<techguns:t3_combat_boots>.displayName = "§9Advanced Combat Boots";
+
+<techguns:t3_power_helmet>.displayName = "§bPower Armor Helmet";
+<techguns:t3_power_chestplate>.displayName = "§bPower Armor Chestplate";
+<techguns:t3_power_leggings>.displayName = "§bPower Armor Leggings";
+<techguns:t3_power_boots>.displayName = "§bPower Armor Boots";
+
+<techguns:t3_miner_helmet>.displayName = "§6HEV Suit Helmet";
+<techguns:t3_miner_chestplate>.displayName = "§6HEV Suit Chestplate";
+<techguns:t3_miner_leggings>.displayName = "§6HEV Suit Leggings";
+<techguns:t3_miner_boots>.displayName = "§6HEV Suit Boots";
+
+<techguns:t3_exo_helmet>.displayName = "§1Exo Suit Helmet";
+<techguns:t3_exo_chestplate>.displayName = "§1Exo Suit Chestplate";
+<techguns:t3_exo_leggings>.displayName = "§1Exo Suit Leggings";
+<techguns:t3_exo_boots>.displayName = "§1Exo Suit Boots";
 
 <techguns:t4_praetor_helmet>.displayName = "§4Nether Combat Helmet";
 <techguns:t4_praetor_chestplate>.displayName = "§4Nether Combat Chestplate";
 <techguns:t4_praetor_leggings>.displayName = "§4Nether Combat Leggings";
 <techguns:t4_praetor_boots>.displayName = "§4Nether Combat Boots";
-<techguns:t4_power_helmet>.displayName = "§4Power Armor Mk2 Helmet";
-<techguns:t4_power_chestplate>.displayName = "§4Power Armor Mk2 Chestplate";
-<techguns:t4_power_leggings>.displayName = "§4Power Armor Mk2 Leggings";
-<techguns:t4_power_boots>.displayName = "§4Power Armor Mk2 Boots";
+
+<techguns:t4_power_helmet>.displayName = "§3Power Armor Mk2 Helmet";
+<techguns:t4_power_chestplate>.displayName = "§3Power Armor Mk2 Chestplate";
+<techguns:t4_power_leggings>.displayName = "§3Power Armor Mk2 Leggings";
+<techguns:t4_power_boots>.displayName = "§3Power Armor Mk2 Boots";
 
 <techguns:itemshared:131>.displayName = "§4Plasma Generator";
 
