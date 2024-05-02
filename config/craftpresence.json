@@ -132,7 +132,7 @@
       },
       "texLocation": "minecraft:textures/gui/options_background.png"
     },
-    "worldGuiBackground": {
+    "altGuiBackground": {
       "start": {
         "red": 16,
         "green": 16,
@@ -148,6 +148,7 @@
     },
     "languageId": "en_us",
     "stripTranslationColors": false,
+    "stripTranslationFormatting": false,
     "stripExtraGuiElements": false,
     "renderTooltips": true,
     "configKeyCode": 0
