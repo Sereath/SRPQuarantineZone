@@ -90,8 +90,15 @@ key_Toggle Customization Overlay | CTRL + ALT + :0
 key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
-key_quark.keybind.toggleAutojump:40
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.lockBuilding:76
+key_quark.keybind.toggleAutojump:40
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -110,16 +117,8 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_key.spartanweaponry.access_quiver:23
 key_cos.key.opencosarmorinventory:0
-key_equipmentcompare.key.showTooltips:42
 key_Toggle Magnetism Suppressor:49
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
@@ -188,10 +187,6 @@ key_Options Gui:23
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
 key_key.cofh.multimode:47
-key_key.toggleLiquids:75
-key_key.toggleVisible:71
-key_key.immersiveengineering.magnetEquip:31
-key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.craftingtweaks.rotate:0
 key_key.craftingtweaks.rotate_counter_clockwise:0
 key_key.craftingtweaks.balance:0
@@ -221,11 +216,13 @@ key_key.itemzoom.toggle:0
 key_key.itemzoom.hold:0
 key_key.itemzoom.zoom.in:0
 key_key.itemzoom.zoom.out:0
+key_key.toggleLiquids:75
+key_key.toggleVisible:71
 key_key.music_player_gui:82
 key_key.music_player_toggle:80
 key_key.music_player_next:81
 key_key.music_player_previous:79
-key_key.reload_musictriggers:0
+key_key.musictriggers.gui:19
 key_key.nutrition:49
 key_key.arms.desc:0
 key_key.mod.desc:73
@@ -260,12 +257,14 @@ key_gui.xaero_toggle_entity_radar:0
 key_gui.xaero_reverse_entity_radar:0
 key_gui.xaero_toggle_manual_cave_mode:0
 key_gui.xaero_alternative_list_players:0
+key_gui.xaero_toggle_tracked_players:0
 key_gui.xaero_minimap_settings:21
 key_gui.xaero_open_map:50
 key_gui.xaero_open_settings:27
 key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:54
+key_gui.xaero_toggle_dimension:0
 key_key.sort_config:12
 key_key.sort:-98
 key_key.drop:16
