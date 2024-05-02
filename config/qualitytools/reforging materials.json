@@ -8,8 +8,8 @@
                 https://bitbucket.org/Tmtravlr/qualitytools/wiki/Home",
     "tool": "any",
     "material": {
-        "item": "extendedcrafting:material",
-        "meta": 48
+        "item": "thermalfoundation:material",
+        "meta": 136
     }
   },
   {

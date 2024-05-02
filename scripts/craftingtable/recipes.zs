@@ -1,4 +1,5 @@
 #priority 500
+#reloadable
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;
@@ -78,8 +79,8 @@ recipes.removeByRecipeName("techguns:antigravpack");
 //recipes.removeByRecipeName("techguns:aug");
 //recipes.removeByRecipeName("techguns:aug_ammo_incendiary");
 //recipes.removeByRecipeName("techguns:aug_ammo_default");
-recipes.removeByRecipeName("techguns:guidedmissilelauncher_alt");
-recipes.removeByRecipeName("techguns:guidedmissilelauncher");
+//recipes.removeByRecipeName("techguns:guidedmissilelauncher_alt");
+//recipes.removeByRecipeName("techguns:guidedmissilelauncher");
 //recipes.removeByRecipeName("techguns:guidedmissilelauncher_ammo_default");
 //recipes.removeByRecipeName("techguns:guidedmissilelauncher_ammo_high_velocity");
 recipes.removeByRecipeName("techguns:scar_alt");
@@ -90,12 +91,12 @@ recipes.removeByRecipeName("techguns:vector_alt");
 recipes.removeByRecipeName("techguns:vector");
 //recipes.removeByRecipeName("techguns:vector_ammo_incendiary");
 //recipes.removeByRecipeName("techguns:vector_ammo_default");
-recipes.removeByRecipeName("techguns:pdw_alt");
-recipes.removeByRecipeName("techguns:pdw");
-recipes.removeByRecipeName("techguns:pulserifle_alt");
-recipes.removeByRecipeName("techguns:pulserifle");
-recipes.removeByRecipeName("techguns:gaussrifle_alt");
-recipes.removeByRecipeName("techguns:gaussrifle");
+//recipes.removeByRecipeName("techguns:pdw_alt");
+//recipes.removeByRecipeName("techguns:pdw");
+//recipes.removeByRecipeName("techguns:pulserifle_alt");
+//recipes.removeByRecipeName("techguns:pulserifle");
+//recipes.removeByRecipeName("techguns:gaussrifle_alt");
+//recipes.removeByRecipeName("techguns:gaussrifle");
 recipes.removeByRecipeName("techguns:goldenrevolver");
 recipes.removeByRecipeName("techguns:blasterrifle_alt");
 recipes.removeByRecipeName("techguns:blasterrifle");
@@ -110,14 +111,14 @@ recipes.removeByRecipeName("techguns:mibgun");
 //recipes.removeByRecipeName("techguns:itemshared_22_advancedmagazineempty");
 //recipes.removeByRecipeName("techguns:itemshared_21_advancedmagazine");
 
-recipes.removeByRecipeName("techguns:teslagun_alt");
-recipes.removeByRecipeName("techguns:teslagun");
-recipes.removeByRecipeName("techguns:sonicshotgun_alt");
-recipes.removeByRecipeName("techguns:sonicshotgun");
-recipes.removeByRecipeName("techguns:nucleardeathray_alt");
-recipes.removeByRecipeName("techguns:nucleardeathray");
-recipes.removeByRecipeName("techguns:tfg_alt");
-recipes.removeByRecipeName("techguns:tfg");
+//recipes.removeByRecipeName("techguns:teslagun_alt");
+//recipes.removeByRecipeName("techguns:teslagun");
+//recipes.removeByRecipeName("techguns:sonicshotgun_alt");
+//recipes.removeByRecipeName("techguns:sonicshotgun");
+//recipes.removeByRecipeName("techguns:nucleardeathray_alt");
+//recipes.removeByRecipeName("techguns:nucleardeathray");
+//recipes.removeByRecipeName("techguns:tfg_alt");
+//recipes.removeByRecipeName("techguns:tfg");
 
 recipes.removeByRecipeName("techguns:jetpack");
 recipes.removeByRecipeName("techguns:jetpack_alt");
@@ -145,14 +146,12 @@ recipes.removeByRecipeName("techguns:tacticalmask");
 
 recipes.removeByRecipeName("eplus:table");
 
-recipes.removeByRecipeName("tombstone:enchanted_grave_key");
+//recipes.removeByRecipeName("tombstone:enchanted_grave_key");
 
-recipes.remove(<pickletweaks:emerald_apple>);
-recipes.remove(<pickletweaks:diamond_apple>);
+//recipes.remove(<pickletweaks:emerald_apple>);
+//recipes.remove(<pickletweaks:diamond_apple>);
 recipes.remove(<pickletweaks:constantan_paxel>);
 recipes.remove(<pickletweaks:aluminum_paxel>);
-
-recipes.remove(<malisisdoors:forcefielditem>);
 
 recipes.remove(<weirdinggadget:weirding_gadget>);
 
@@ -191,8 +190,6 @@ recipes.addShaped(<techguns:jetpack>, [[<techguns:itemshared:27>, null, <techgun
 recipes.addShaped(<techguns:itemshared:90>, [[<techguns:itemshared:60>, <techguns:itemshared:60>, <techguns:itemshared:60>],[<ore:plateElectrum>, <techguns:itemshared:60>, <ore:plateElectrum>], [<techguns:itemshared:60>, <techguns:itemshared:60>, <techguns:itemshared:60>]]);
 recipes.addShaped(<techguns:itemshared:91>, [[<mod_lavacow:curseweave_cloth>, <ore:plateElectrum>, <mod_lavacow:curseweave_cloth>],[<mod_lavacow:curseweave_cloth>, <ore:plateElectrum>, <mod_lavacow:curseweave_cloth>], [<mod_lavacow:curseweave_cloth>, <ore:plateElectrum>, <mod_lavacow:curseweave_cloth>]]);
 recipes.addShaped(<techguns:jumppack>, [[<ore:nuggetSteel>, null, <ore:nuggetSteel>],[<thermalfoundation:material:352>, <techguns:itemshared:90>, <thermalfoundation:material:352>], [<techguns:itemshared:23>, null, <techguns:itemshared:23>]]);
-
-recipes.addShaped(<malisisdoors:forcefielditem>, [[<ore:netherStar>, <nyx:meteor_block>, <ore:netherStar>],[<nyx:meteor_block>, <techguns:itemshared:131>, <nyx:meteor_block>], [<ore:netherStar>, <nyx:meteor_block>, <ore:netherStar>]]);
 
 recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:netherStar>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
 
