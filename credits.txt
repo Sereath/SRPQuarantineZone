@@ -41,6 +41,11 @@ Credits:
 	
 	Visit my account to find everything I've used for this modpack:
 		https://freesound.org/people/aeron216/
+
+
+	Pixelated v1.3 EnhancedVisuals
+		nox_cgt
+	https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals
 		
 		
 	Structures:
@@ -59,3 +64,5 @@ Credits:
 	Kevin MacLeod (incompetech.com)
 	Licensed under Creative Commons: By Attribution 3.0
 	http://creativecommons.org/licenses/by/3.0/
+
+	No changes have been made to any of the tracks used.
