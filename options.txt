@@ -137,6 +137,8 @@ key_key.pickup.item:0
 key_key.dismount:42
 key_key.narrator:0
 key_smoothfont.key.guiOpen:199
+key_key.quit.fastQuit:16
+key_key.quit.bossKey:48
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -198,6 +200,10 @@ key_key.itemzoom.toggle:0
 key_key.itemzoom.hold:0
 key_key.itemzoom.zoom.in:0
 key_key.itemzoom.zoom.out:0
+key_key.jeiutilities.displayRecipe:29
+key_key.jeiutilities.pickBookmark:-98
+key_key.jeiutilities.transferRecipe:17:CONTROL
+key_key.jeiutilities.transferRecipeMax:20:CONTROL
 key_key.toggleLiquids:75
 key_key.toggleVisible:71
 key_key.music_player_gui:82
@@ -249,7 +255,7 @@ key_gui.xaero_quick_confirm:54
 key_gui.xaero_toggle_dimension:0
 key_key.sort_config:12
 key_key.sort:-98
-key_key.drop:16
+key_key.drop:16:ALT
 key_key.craftpresence.config_keycode.name:0
 soundCategory_master:0.90140843
 soundCategory_music:1.0
