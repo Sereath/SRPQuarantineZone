@@ -35,19 +35,19 @@ GunStats.setWeaponStat("blasterrifle","DAMAGE_MIN",21.0);
 GunStats.setWeaponStat("scatterbeamrifle","DAMAGE",5.0);
 GunStats.setWeaponStat("scatterbeamrifle","DAMAGE_MIN",5.0);
 
-GunStats.setWeaponStat("sonicshotgun","DAMAGE",30.0);
-GunStats.setWeaponStat("sonicshotgun","DAMAGE_MIN",10.0);
+GunStats.setWeaponStat("sonicshotgun","DAMAGE",25.0);
+GunStats.setWeaponStat("sonicshotgun","DAMAGE_MIN",5.0);
 
 GunStats.setWeaponStat("mibgun","DAMAGE",32.0);
 GunStats.setWeaponStat("mibgun","DAMAGE_MIN",8.0);
 GunStats.setWeaponStat("alienblaster","DAMAGE",24.0);
 GunStats.setWeaponStat("alienblaster","DAMAGE_MIN",24.0);
 
-GunStats.setWeaponStat("nucleardeathray","DAMAGE",6.0);
-GunStats.setWeaponStat("nucleardeathray","DAMAGE_MIN",6.0);
+GunStats.setWeaponStat("nucleardeathray","DAMAGE",4.0);
+GunStats.setWeaponStat("nucleardeathray","DAMAGE_MIN",4.0);
 
-GunStats.setWeaponStat("tfg","DAMAGE",80.0);
-GunStats.setWeaponStat("tfg","DAMAGE_MIN",80.0);
+GunStats.setWeaponStat("tfg","DAMAGE",55.0);
+GunStats.setWeaponStat("tfg","DAMAGE_MIN",55.0);
 GunStats.setWeaponStat("tfg","BULLET_SPEED",1.25);
 
 GunStats.setWeaponStat("laserpistol","DAMAGE",7.0);

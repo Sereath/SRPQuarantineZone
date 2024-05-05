@@ -15,10 +15,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = top-left
-  x = 8
+  orientation = bottom-centered
+  x = -60
   action = movebutton
-  y = 40
+  y = -106
 }
 
 customization {
@@ -29,11 +29,19 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/srpqz/textures/gui/bgbox1.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = top-left
-  x = 8
+  orientation = bottom-centered
+  x = -45
   action = movebutton
-  y = 66
+  y = -85
 }
 
 customization {
@@ -44,11 +52,25 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/srpqz/textures/gui/bgbox1.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = top-left
-  x = 8
+  orientation = bottom-centered
+  x = -20
   action = movebutton
-  y = 118
+  y = -43
 }
 
 customization {
@@ -65,6 +87,14 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/srpqz/textures/gui/bgbox1.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = bottom-right
   x = -25
@@ -74,10 +104,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = top-left
-  x = 8
+  orientation = bottom-centered
+  x = -60
   action = movebutton
-  y = 14
+  y = -127
 }
 
 customization {
@@ -88,11 +118,19 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/srpqz/textures/gui/bgbox1.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  orientation = top-left
-  x = 8
+  orientation = bottom-centered
+  x = -45
   action = movebutton
-  y = 92
+  y = -64
 }
 
 customization {
@@ -100,6 +138,14 @@ customization {
   width = 90
   action = resizebutton
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/srpqz/textures/gui/bgbox1.png
 }
 
 customization {
