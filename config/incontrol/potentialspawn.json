@@ -139,7 +139,7 @@
 		"mobs":	[
 			{
 				"mob": "techguns:stormtrooper",
-				"weight": 5,
+				"weight": 15,
 				"groupcountmin": 1,
 				"groupcountmax": 4
 			}
@@ -149,7 +149,7 @@
 	//srp
 
 	{
-		"dimension": 1,
+		"dimension": [0,1],
 		"mobs":	[
 			{
 				"mob": "srparasites:warden",
@@ -159,6 +159,7 @@
 			}
 		]
 	},
+
 	{
 		"dimension": [0,1],
 		"mobs":	[
@@ -170,14 +171,51 @@
 			}
 		]
 	},
+
 	{
-		"dimension": 0,
+		"dimension": [0,1],
+		"mobs":	[
+			{
+				"mob": "srparasites:overseer",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": [0,1],
+		"mobs":	[
+			{
+				"mob": "srparasites:bomber_light",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": [0,1],
+		"mobs":	[
+			{
+				"mob": "srparasites:monarch",
+				"weight": 2,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": [0,1],
 		"mobs":	[
 			{
 				"mob": "srparasites:carrier_heavy",
-				"weight": 15,
+				"weight": 10,
 				"groupcountmin": 1,
-				"groupcountmax": 3
+				"groupcountmax": 1
 			}
 		]
 	},
@@ -186,7 +224,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:rupter",
-				"weight": 12,
+				"weight": 15,
 				"groupcountmin": 1,
 				"groupcountmax": 18
 			}
@@ -197,7 +235,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:sim_human",
-				"weight": 9,
+				"weight": 10,
 				"groupcountmin": 1,
 				"groupcountmax": 12
 			}
@@ -208,9 +246,78 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:sim_villager",
-				"weight": 9,
+				"weight": 10,
 				"groupcountmin": 1,
 				"groupcountmax": 12
+			}
+		]
+	},
+
+	//srphack
+
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_longarms",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_manducater",
+				"weight": 12,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_reeker",
+				"weight": 12,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_summoner",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_bolster",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_arachnida",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
 			}
 		]
 	}
