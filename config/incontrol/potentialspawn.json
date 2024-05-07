@@ -253,6 +253,30 @@
 		]
 	},
 
+	{
+		"dimension": [0,1],
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_yelloweye",
+				"weight": 6,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
+	{
+		"dimension": [0,1],
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_vermin",
+				"weight": 6,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
 	//srphack
 
 	{

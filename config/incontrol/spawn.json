@@ -232,7 +232,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": 1,
+		"dimension": [1,0],
 		"mob": "srparasites:warden",
 		"result": "deny"
 	},
@@ -281,7 +281,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": 1,
+		"dimension": [1,0],
 		"mob": "srparasites:overseer",
 		"result": "deny"
 	},
@@ -299,7 +299,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": 1,
+		"dimension": [1,0],
 		"mob": "srparasites:bomber_light",
 		"result": "deny"
 	},
@@ -317,7 +317,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": 1,
+		"dimension": [1,0],
 		"mob": "srparasites:monarch",
 		"result": "deny"
 	},
@@ -403,6 +403,70 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:sim_villager",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 1,
+		"mob": "srparasites:pri_yelloweye",
+		"random": 0.00375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:pri_yelloweye",
+		"random": 0.0375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 254,
+		"minheight": 126,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [1,0],
+		"mob": "srparasites:pri_yelloweye",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 1,
+		"mob": "srparasites:pri_vermin",
+		"random": 0.00375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:pri_vermin",
+		"random": 0.0375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 254,
+		"minheight": 126,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [1,0],
+		"mob": "srparasites:pri_vermin",
 		"result": "deny"
 	},
     
