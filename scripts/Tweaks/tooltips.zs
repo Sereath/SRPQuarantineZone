@@ -129,4 +129,8 @@
 
 <techguns:itemshared:131>.displayName = "§4Plasma Generator";
 
+<techguns:itemshared:92>.displayName = "§1Anti Gravity Core";
+<techguns:antigravpack>.displayName = "§1Anti Gravity Device";
+
+
 //<hbm:crucible>.displayName = "§4Crucible";
