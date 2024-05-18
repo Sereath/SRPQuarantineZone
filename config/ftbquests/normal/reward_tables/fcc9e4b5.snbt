@@ -1,0 +1,17 @@
+{
+	title: "Tips",
+	loot_size: 1,
+	rewards: [{
+		item: "travelersbackpack:travelers_backpack"
+	},
+	{
+		xp_levels: 12,
+		type: "xp_levels"
+	},
+	{
+		item: "thermalfoundation:tool.hammer_copper"
+	},
+	{
+		item: "compositegear:composite_helmet"
+	}]
+}

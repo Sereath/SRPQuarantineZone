@@ -337,7 +337,7 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:carrier_heavy",
-		"random": 0.00375,
+		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
