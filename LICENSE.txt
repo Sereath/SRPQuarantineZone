@@ -1,7 +1,7 @@
-# SRP:QZ Project License
+# SRP: Quarantine Zone Project License
 
 ## 1. Definitions
-- "The Project" refers to the "SRP:QZ" modpack for Minecraft, as available on CurseForge.
+- "The Project" refers to the "SRP: Quarantine Zone" modpack for Minecraft, as available on CurseForge.
 - "Assets" refers to any files included in the Project, including but not limited to code, textures and models.
 - "Royalty Free Music" refers to the music tracks included in the Project that are licensed under a royalty-free attribution license.
 
