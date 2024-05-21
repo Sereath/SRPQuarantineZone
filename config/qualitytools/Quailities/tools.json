@@ -69,6 +69,11 @@
         "weight": 10,
         "attributes": [
           {
+            "name": "generic.attackDamage",
+            "amount": 0.15,
+            "operation": 2
+          },
+          {
             "name": "generic.attackSpeed",
             "amount": -0.15,
             "operation": 2
@@ -227,7 +232,7 @@
         "attributes": [
           {
             "name": "generic.reachDistance",
-            "amount": 0.5,
+            "amount": 1,
             "operation": 0
           }
         ]
@@ -302,7 +307,12 @@
         "attributes": [
           {
             "name": "generic.attackDamage",
-            "amount": 0.15,
+            "amount": 0.1,
+            "operation": 2
+          },
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.1,
             "operation": 2
           },
           {
@@ -314,11 +324,33 @@
             "name": "generic.reachDistance",
             "amount": 0.5,
             "operation": 0
+          }
+        ]
+      },
+      {
+        "name": "Unexcelled",
+        "color": "gold",
+        "weight": 1,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.2,
+            "operation": 2
           },
           {
             "name": "generic.attackSpeed",
-            "amount": 0.1,
+            "amount": 0.2,
             "operation": 2
+          },
+          {
+            "name": "potioncore.digSpeed",
+            "amount": 0.2,
+            "operation": 2
+          },
+          {
+            "name": "generic.reachDistance",
+            "amount": 1,
+            "operation": 0
           }
         ]
       }

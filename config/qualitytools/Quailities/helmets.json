@@ -140,12 +140,44 @@
           },
           {
             "name": "generic.armorToughness",
-            "amount": 1,
+            "amount": 0.5,
+            "operation": 0
+          },
+          {
+            "name": "generic.maxHealth",
+            "amount": 2,
             "operation": 0
           },
           {
             "name": "generic.luck",
             "amount": 0.5,
+            "operation": 0
+          }
+        ]
+      },
+      {
+        "name": "Immaculate",
+        "color": "gold",
+        "weight": 1,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 1,
+            "operation": 0
+          },
+          {
+            "name": "generic.armorToughness",
+            "amount": 1,
+            "operation": 0
+          },
+          {
+            "name": "generic.maxHealth",
+            "amount": 4,
+            "operation": 0
+          },
+          {
+            "name": "generic.luck",
+            "amount": 1,
             "operation": 0
           }
         ]

@@ -152,18 +152,45 @@
           },
           {
             "name": "generic.armorToughness",
-            "amount": 1,
+            "amount": 0.5,
             "operation": 0
+          },
+          {
+            "name": "generic.movementSpeed",
+            "amount": 0.05,
+            "operation": 2
           },
           {
             "name": "potioncore.stepHeight",
             "amount": 0.5,
+            "operation": 0
+          }
+        ]
+      },
+      {
+        "name": "Immaculate",
+        "color": "gold",
+        "weight": 1,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 1,
+            "operation": 0
+          },
+          {
+            "name": "generic.armorToughness",
+            "amount": 1,
             "operation": 0
           },
           {
             "name": "generic.movementSpeed",
             "amount": 0.1,
             "operation": 2
+          },
+          {
+            "name": "potioncore.stepHeight",
+            "amount": 1,
+            "operation": 0
           }
         ]
       }

@@ -83,7 +83,7 @@
         "attributes": [
           {
             "name": "generic.armor",
-            "amount": 2,
+            "amount": 4,
             "operation": 0
           }
         ]
@@ -95,7 +95,7 @@
         "attributes": [
           {
             "name": "potioncore.magicShielding",
-            "amount": 1,
+            "amount": 2,
             "operation": 0
           }
         ]
@@ -119,13 +119,40 @@
         "attributes": [
           {
             "name": "generic.armor",
-            "amount": 2,
+            "amount": 4,
             "operation": 0
           },
           {
             "name": "generic.movementSpeed",
             "amount": 0.1,
             "operation": 2
+          },
+          {
+            "name": "potioncore.magicShielding",
+            "amount": 2,
+            "operation": 0
+          }
+        ]
+      },
+      {
+        "name": "quality.transcendent.name",
+        "color": "dark_purple",
+        "weight": 1,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 8,
+            "operation": 0
+          },
+          {
+            "name": "generic.movementSpeed",
+            "amount": 0.2,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.magicShielding",
+            "amount": 4,
+            "operation": 0
           }
         ]
       }

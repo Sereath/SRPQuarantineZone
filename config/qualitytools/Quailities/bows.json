@@ -60,11 +60,35 @@
       {
         "name": "quality.powerful.name",
         "color": "aqua",
-        "weight": 5,
+        "weight": 10,
         "attributes": [
           {
             "name": "potioncore.projectileDamage",
             "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "Focused",
+        "color": "light_purple",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 0.15,
+            "operation": 2
+          }
+        ]
+      },
+      {
+        "name": "Unparalleled",
+        "color": "gold",
+        "weight": 1,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 0.2,
             "operation": 2
           }
         ]
