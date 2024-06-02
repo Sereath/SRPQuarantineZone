@@ -1,5 +1,4 @@
 #priority 500
-#reloadable
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;
@@ -123,7 +122,7 @@ recipes.removeByRecipeName("techguns:mibgun");
 recipes.removeByRecipeName("techguns:jetpack");
 recipes.removeByRecipeName("techguns:jetpack_alt");
 
-recipes.remove(<techguns:itemshared:62>);
+//recipes.remove(<techguns:itemshared:62>);
 
 recipes.removeByRecipeName("techguns:itemshared_125_redstone_battery_alt");
 recipes.removeByRecipeName("techguns:itemshared_125_redstone_battery");

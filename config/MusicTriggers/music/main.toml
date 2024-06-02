@@ -106,13 +106,4 @@
 		triggers = [ "dimension-nether" ]
 	[songs.k_ha3713012901_177862]
 		triggers = [ "dimension-nether" ]
-	[songs.k_ha42178043_182115]
-		volume = "0.9"
-		triggers = [ "bloodmoon" "dimension-overworld" ]
-	[songs.k_ha49182111_190687]
-		volume = "0.9"
-		triggers = [ "bloodmoon" "dimension-overworld" ]
-	[songs.k_hev1609250978_367197]
-		volume = "0.9"
-		triggers = [ "bloodmoon" "dimension-overworld" ]
 	[songs.universal]
