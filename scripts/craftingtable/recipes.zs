@@ -170,6 +170,8 @@ recipes.remove(<corpsecomplex:scroll>);
 
 recipes.remove(<apotheosis:prismatic_web>);
 
+recipes.remove(<minecraft:ender_eye>);
+
 //recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 //recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 //recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemVibrantCrystal>, <ore:crystalRestonia>, <ore:itemVibrantCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
@@ -204,3 +206,5 @@ recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pe
 recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:netherStar>, null],[<ore:enderpearl>, <ore:paper>, <ore:enderpearl>], [null, <minecraft:ender_eye>, null]]);
 
 recipes.addShaped(<apotheosis:prismatic_web>, [[null, <ore:netherStar>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
+
+recipes.addShaped(<minecraft:ender_eye>, [[null, <ore:dustBlaze>, null],[null, <ore:enderpearl>, null], [null, <srparasites:lurecomponent1>, null]]);

@@ -222,7 +222,7 @@
 	{
 		"dimension": 1,
 		"mob": "srparasites:warden",
-		"random": 0.0025,
+		"random": 0.00125,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -240,7 +240,7 @@
 	{
 		"dimension": 1,
 		"mob": "srparasites:marauder",
-		"random": 0.00125,
+		"random": 0.000875,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -271,7 +271,7 @@
 	{
 		"dimension": 1,
 		"mob": "srparasites:overseer",
-		"random": 0.000875,
+		"random": 0.000625,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -289,7 +289,7 @@
 	{
 		"dimension": 1,
 		"mob": "srparasites:bomber_light",
-		"random": 0.000875,
+		"random": 0.000625,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -307,7 +307,7 @@
 	{
 		"dimension": 1,
 		"mob": "srparasites:monarch",
-		"random": 0.0025,
+		"random": 0.00125,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -325,11 +325,11 @@
 	{
 		"dimension": 1,
 		"mob": "srparasites:carrier_heavy",
-		"random": 0.00375,
+		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 6,
+			"amount": 4,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -337,7 +337,7 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:carrier_heavy",
-		"random": 0.0025,
+		"random": 0.00125,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -441,11 +441,11 @@
 	{
 		"dimension": 1,
 		"mob": "srparasites:pri_vermin",
-		"random": 0.00375,
+		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 6,
+			"amount": 4,
 			"perchunk": true
 		},
 		"result": "allow"

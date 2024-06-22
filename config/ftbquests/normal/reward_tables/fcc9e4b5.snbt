@@ -13,5 +13,8 @@
 	},
 	{
 		item: "compositegear:composite_helmet"
+	},
+	{
+		item: "techguns:itemshared 1 132"
 	}]
 }

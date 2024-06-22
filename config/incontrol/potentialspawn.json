@@ -213,9 +213,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:carrier_heavy",
-				"weight": 10,
+				"weight": 5,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
