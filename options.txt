@@ -1,6 +1,6 @@
 version:1343
 invertYMouse:false
-mouseSensitivity:0.28169015
+mouseSensitivity:0.2535211
 fov:0.5
 gamma:0.0
 saturation:0.0
@@ -155,6 +155,8 @@ key_key.astikorcarts.desc:0
 key_atlasextras.keybind.togglehud:0
 key_atlasextras.keybind.openatlas:50
 key_tombstone.message.knowledge_of_death:0
+key_bbw.key.mode:50
+key_bbw.key.fluidmode:33:ALT
 key_key.settings_menu:34
 key_key.range:19
 key_key.undo:22

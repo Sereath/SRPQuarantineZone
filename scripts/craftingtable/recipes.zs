@@ -179,7 +179,7 @@ recipes.remove(<minecraft:ender_eye>);
 recipes.addShaped(<minecraft:nether_star> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <minecraft:nether_star>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
 
 //recipes.addShaped(<randomthings:timeinabottle>, [[<ore:gemAmber>, <ore:gemAmber>, <ore:gemAmber>],[<minecraft:diamond_block>, <bountifulbaubles:ringoverclocking>, <minecraft:diamond_block>], [<ore:dustMithril>, <enderio:item_soul_vial>, <ore:dustMithril>]]);
-recipes.addShaped(<randomthings:chunkanalyzer>, [[<ore:netherStar>, <bountifulbaubles:ringoverclocking>, <ore:netherStar>],[<ore:platePlatinum>, <ore:blockGlassHardened>, <ore:platePlatinum>], [<ore:plateAncientDebris>, <ore:platePlatinum>, <ore:plateAncientDebris>]]);
+recipes.addShaped(<randomthings:chunkanalyzer>, [[<thermalfoundation:material:514>, <ore:netherStar>, <thermalfoundation:material:515>],[<ore:platePlatinum>, <ore:blockGlassHardened>, <ore:platePlatinum>], [<ore:plateAncientDebris>, <ore:platePlatinum>, <ore:plateAncientDebris>]]);
 
 recipes.addShaped(<techguns:itemshared:126>, [[<ore:nuggetCopper>, <ore:wireCopper>, <ore:nuggetCopper>],[<ore:nuggetCopper>, <ore:blockGlassColorless>, <ore:nuggetCopper>], [<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>]]);
 recipes.addShaped(<techguns:itemshared:125>, [[<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>],[<ore:dustRedstone>, <techguns:itemshared:126>, <ore:dustRedstone>], [<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>]]);
