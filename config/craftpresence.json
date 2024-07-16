@@ -32,6 +32,12 @@
     "dimensionData": {
       "default": {
         "textOverride": "In the {dimension.name}"
+      },
+      "the_nether": {
+        "textOverride": "In The Nether"
+      },
+      "the_end": {
+        "textOverride": "In The End"
       }
     }
   },
@@ -163,7 +169,7 @@
       "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
       "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
-      "smallImageKey": "{getFirst(server.icon, pack.icon)}",
+      "smallImageKey": "1024srpqz",
       "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
