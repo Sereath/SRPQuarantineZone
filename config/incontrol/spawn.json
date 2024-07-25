@@ -5,9 +5,36 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:zombiepoliceman",
-		"random": 0.0025,
+		"random": 0.00025,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxcount":	{
+			"amount": 4,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:zombiepoliceman",
+		"random": 0.025,
+		"incity": true,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:zombiepoliceman",
+		"random": 0.0025,
+		"seesky": false,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 48,
 		"maxcount":	{
 			"amount": 8,
 			"perchunk": true
@@ -23,9 +50,36 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:zombiesoldier",
-		"random": 0.0025,
+		"random": 0.00025,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxcount":	{
+			"amount": 4,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:zombiesoldier",
+		"random": 0.025,
+		"incity": true,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:zombiesoldier",
+		"random": 0.0025,
+		"seesky": false,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 48,
 		"maxcount":	{
 			"amount": 8,
 			"perchunk": true
@@ -53,6 +107,33 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:zombiefarmer",
+		"random": 0.05,
+		"incity": true,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:zombiefarmer",
+		"random": 0.005,
+		"seesky": false,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 48,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:zombiefarmer",
 		"result": "deny"
 	},
 
@@ -62,6 +143,33 @@
 		"random": 0.005,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:zombieminer",
+		"random": 0.05,
+		"incity": true,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:zombieminer",
+		"random": 0.005,
+		"seesky": false,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 48,
 		"maxcount":	{
 			"amount": 12,
 			"perchunk": true
@@ -109,9 +217,36 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:skeletonsoldier",
-		"random": 0.0025,
+		"random": 0.00025,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxcount":	{
+			"amount": 4,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:skeletonsoldier",
+		"random": 0.025,
+		"incity": true,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:skeletonsoldier",
+		"random": 0.0025,
+		"seesky": false,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 48,
 		"maxcount":	{
 			"amount": 8,
 			"perchunk": true
@@ -127,11 +262,38 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:psychosteve",
-		"random": 0.00125,
+		"random": 0.000125,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 2,
+			"perplayer": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:psychosteve",
+		"random": 0.0125,
+		"incity": true,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
 			"amount": 4,
+			"perplayer": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:psychosteve",
+		"random": 0.00125,
+		"seesky": false,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 48,
+		"maxcount":	{
+			"amount": 2,
 			"perplayer": true
 		},
 		"result": "allow"
@@ -145,8 +307,8 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:supermutantbasic",
-		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
 		"random": 0.00125,
+		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -164,8 +326,8 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:supermutantheavy",
-		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
 		"random": 0.000875,
+		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -183,8 +345,8 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:supermutantelite",
-		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
 		"random": 0.000625,
+		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -214,6 +376,26 @@
 	{
 		"dimension": 1,
 		"mob": "techguns:stormtrooper",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "techguns:bandit",
+		"random": 0.025,
+		"incity": true,
+		"maxtime": 13000,
+		"maxlight": 15,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:bandit",
 		"result": "deny"
 	},
 
@@ -252,8 +434,8 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:marauder",
-		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
 		"random": 0.000125,
+		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -337,11 +519,38 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:carrier_heavy",
-		"random": 0.00125,
+		"random": 0.000125,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 6,
+			"amount": 2,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:carrier_heavy",
+		"random": 0.0125,
+		"incity": true,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 4,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:carrier_heavy",
+		"random": 0.00125,
+		"seesky": false,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 48,
+		"maxcount":	{
+			"amount": 2,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -355,9 +564,36 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:rupter",
-		"random": 0.00375,
+		"random": 0.000375,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxcount":	{
+			"amount": 36,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:rupter",
+		"random": 0.0375,
+		"incity": true,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 36,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:rupter",
+		"random": 0.00375,
+		"seesky": false,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 48,
 		"maxcount":	{
 			"amount": 36,
 			"perchunk": true
@@ -373,9 +609,36 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:sim_human",
-		"random": 0.00375,
+		"random": 0.000375,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxcount":	{
+			"amount": 24,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:sim_human",
+		"random": 0.0375,
+		"incity": true,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 24,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:sim_human",
+		"random": 0.00375,
+		"seesky": false,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 48,
 		"maxcount":	{
 			"amount": 24,
 			"perchunk": true
@@ -391,9 +654,36 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:sim_villager",
-		"random": 0.00375,
+		"random": 0.000375,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxcount":	{
+			"amount": 24,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:sim_villager",
+		"random": 0.0375,
+		"incity": true,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 24,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "srparasites:sim_villager",
+		"random": 0.00375,
+		"seesky": false,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 48,
 		"maxcount":	{
 			"amount": 24,
 			"perchunk": true
@@ -637,6 +927,17 @@
 	{
 		"dimension": 1,
 		"mob": ["srparasites:pri_longarms","srparasites:pri_manducater","srparasites:pri_reeker","srparasites:pri_summoner","srparasites:pri_bolster","srparasites:pri_arachnida"],
+		"result": "deny"
+	},
+
+	{
+		"mob": "srparasites:beckon_siv",
+		"onjoin": true,
+		"mincount": {
+			"amount": 10,
+			"mob": "srparasites:beckon_siv",
+			"perchunk": true
+		},
 		"result": "deny"
 	}
 ]

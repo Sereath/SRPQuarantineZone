@@ -9,7 +9,7 @@
 				"mob": "techguns:zombiepoliceman",
 				"weight": 30,
 				"groupcountmin": 1,
-				"groupcountmax": 5
+				"groupcountmax": 4
 			}
 		]
 	},
@@ -21,7 +21,7 @@
 				"mob": "techguns:zombiesoldier",
 				"weight": 30,
 				"groupcountmin": 1,
-				"groupcountmax": 5
+				"groupcountmax": 4
 			}
 		]
 	},
@@ -33,7 +33,7 @@
 				"mob": "techguns:zombiefarmer",
 				"weight": 60,
 				"groupcountmin": 1,
-				"groupcountmax": 5
+				"groupcountmax": 4
 			}
 		]
 	},
@@ -45,7 +45,7 @@
 				"mob": "techguns:zombieminer",
 				"weight": 60,
 				"groupcountmin": 1,
-				"groupcountmax": 5
+				"groupcountmax": 4
 			}
 		]
 	},
@@ -81,7 +81,7 @@
 				"mob": "techguns:skeletonsoldier",
 				"weight": 30,
 				"groupcountmin": 1,
-				"groupcountmax": 5
+				"groupcountmax": 4
 			}
 		]
 	},
@@ -142,6 +142,18 @@
 				"weight": 15,
 				"groupcountmin": 1,
 				"groupcountmax": 4
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:bandit",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 3
 			}
 		]
 	},
@@ -226,7 +238,7 @@
 				"mob": "srparasites:rupter",
 				"weight": 15,
 				"groupcountmin": 1,
-				"groupcountmax": 18
+				"groupcountmax": 12
 			}
 		]
 	},
@@ -237,7 +249,7 @@
 				"mob": "srparasites:sim_human",
 				"weight": 10,
 				"groupcountmin": 1,
-				"groupcountmax": 12
+				"groupcountmax": 8
 			}
 		]
 	},
@@ -248,7 +260,7 @@
 				"mob": "srparasites:sim_villager",
 				"weight": 10,
 				"groupcountmin": 1,
-				"groupcountmax": 12
+				"groupcountmax": 8
 			}
 		]
 	},
