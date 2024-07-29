@@ -133,6 +133,9 @@ key_vc.key.moveUp:57
 key_vc.key.moveDown:45
 key_vc.key.openInventory:47:ALT
 key_vc.key.dropbomb:0
+key_dshuds.keybind.SelectionBox:48
+key_dshuds.keybind.LightLevel:65
+key_dshuds.keybind.ChunkBorders:67
 key_key.pickup.item:0
 key_key.dismount:42
 key_key.narrator:0
