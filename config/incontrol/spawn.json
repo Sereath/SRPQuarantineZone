@@ -934,8 +934,28 @@
 		"mob": "srparasites:beckon_siv",
 		"onjoin": true,
 		"mincount": {
-			"amount": 10,
+			"amount": 12,
 			"mob": "srparasites:beckon_siv",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "srparasites:fer_enderman",
+		"onjoin": true,
+		"mincount": {
+			"amount": 4,
+			"mob": "srparasites:fer_enderman",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "srparasites:sim_enderman",
+		"onjoin": true,
+		"mincount": {
+			"amount": 4,
+			"mob": "srparasites:sim_enderman",
 			"perchunk": true
 		},
 		"result": "deny"
