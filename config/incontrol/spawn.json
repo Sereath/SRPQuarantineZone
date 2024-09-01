@@ -520,6 +520,7 @@
 		"dimension": 0,
 		"mob": "srparasites:carrier_heavy",
 		"random": 0.000125,
+		"biometype": ["SPOOKY", "DEAD", "DRY", "SANDY"],
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -931,6 +932,36 @@
 	},
 
 	{
+		"mob": "srparasites:beckon_si",
+		"onjoin": true,
+		"mincount": {
+			"amount": 12,
+			"mob": "srparasites:beckon_si",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "srparasites:beckon_sii",
+		"onjoin": true,
+		"mincount": {
+			"amount": 12,
+			"mob": "srparasites:beckon_sii",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "srparasites:beckon_siii",
+		"onjoin": true,
+		"mincount": {
+			"amount": 12,
+			"mob": "srparasites:beckon_siii",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
 		"mob": "srparasites:beckon_siv",
 		"onjoin": true,
 		"mincount": {
@@ -944,7 +975,7 @@
 		"mob": "srparasites:fer_enderman",
 		"onjoin": true,
 		"mincount": {
-			"amount": 4,
+			"amount": 3,
 			"mob": "srparasites:fer_enderman",
 			"perchunk": true
 		},
@@ -954,10 +985,15 @@
 		"mob": "srparasites:sim_enderman",
 		"onjoin": true,
 		"mincount": {
-			"amount": 4,
+			"amount": 3,
 			"mob": "srparasites:sim_enderman",
 			"perchunk": true
 		},
+		"result": "deny"
+	},
+	{
+		"mob": ["srparasites:dispatcher_si","srparasites:dispatcher_sii","srparasites:dispatcher_siii","srparasites:dispatcher_siv"],
+		"onjoin": true,
 		"result": "deny"
 	}
 ]

@@ -142,5 +142,9 @@
 <techguns:itemshared:92>.displayName = "§1Anti Gravity Core";
 <techguns:antigravpack>.displayName = "§1Anti Gravity Device";
 
+<thermalfoundation:material:136>.addTooltip(format.aqua("Reforging material"));
+
+<randomthings:chunkanalyzer>.addTooltip(format.darkGreen("GPS"));
+
 
 //<hbm:crucible>.displayName = "§4Crucible";

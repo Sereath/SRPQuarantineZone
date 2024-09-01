@@ -215,6 +215,13 @@ key_key.music_player_gui:82
 key_key.music_player_toggle:80
 key_key.music_player_next:81
 key_key.music_player_previous:79
+key_key.refinedstorage.focusSearchBar:15
+key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
+key_key.refinedstorage.openWirelessGrid:0
+key_key.refinedstorage.openWirelessCraftingGrid:0
+key_key.refinedstorage.openWirelessFluidGrid:0
+key_key.refinedstorage.openPortableGrid:0
+key_key.refinedstorage.openWirelessCraftingMonitor:0
 key_key.musictriggers.gui:19:ALT
 key_key.nutrition:49
 key_key.arms.desc:0

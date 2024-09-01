@@ -165,7 +165,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:warden",
-				"weight": 3,
+				"weight": 2,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}
@@ -213,7 +213,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:monarch",
-				"weight": 3,
+				"weight": 2,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}
