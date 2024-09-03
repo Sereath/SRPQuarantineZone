@@ -157,7 +157,7 @@ recipes.removeByRecipeName("eplus:table");
 recipes.remove(<pickletweaks:constantan_paxel>);
 recipes.remove(<pickletweaks:aluminum_paxel>);
 
-recipes.remove(<weirdinggadget:weirding_gadget>);
+//recipes.remove(<weirdinggadget:weirding_gadget>);
 
 recipes.remove(<extraalchemy:empty_ring>);
 recipes.remove(<extraalchemy:potion_ring>);
@@ -171,6 +171,13 @@ recipes.remove(<corpsecomplex:scroll>);
 recipes.remove(<apotheosis:prismatic_web>);
 
 recipes.remove(<minecraft:ender_eye>);
+
+recipes.remove(<srparasites:evolutionlure:5>);
+recipes.remove(<srparasites:evolutionlure:4>);
+recipes.remove(<srparasites:evolutionlure:3>);
+recipes.remove(<srparasites:evolutionlure:2>);
+recipes.remove(<srparasites:evolutionlure:1>);
+recipes.remove(<srparasites:evolutionlure>);
 
 //recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 //recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
@@ -201,7 +208,7 @@ recipes.addShaped(<techguns:metalpanel> * 16, [[<minecraft:stone:*>, <magneticra
 recipes.addShaped(<techguns:nethermetal> * 16, [[<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>],[<magneticraft:heavy_plates:6>, <minecraft:nether_brick>, <magneticraft:heavy_plates:6>], [<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>]]);
 recipes.addShaped(<techguns:concrete> * 16, [[<minecraft:concrete:*>, <minecraft:concrete:*>, <minecraft:concrete:*>],[<minecraft:concrete:*>, <magneticraft:heavy_plates:6>, <minecraft:concrete:*>], [<minecraft:concrete:*>, <minecraft:concrete:*>, <minecraft:concrete:*>]]);
 
-recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:netherStar>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
+//recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:netherStar>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
 
 recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:netherStar>, null],[<ore:enderpearl>, <ore:paper>, <ore:enderpearl>], [null, <minecraft:ender_eye>, null]]);
 

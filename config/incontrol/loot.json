@@ -109,9 +109,9 @@
     {
         "mob": "mutantbeasts:mutant_creeper",
         "player": true,
-        "item": ["lootchests:loot_crate","lootchests:loot_crate@1"],
+        "item": ["lootchests:loot_crate","lootchests:loot_crate@1","lootchests:loot_crate@2"],
         "itemcount": "0-1",
-        "random": "0.18"
+        "random": "0.25"
     },
 
     //mutant_enderman
@@ -119,16 +119,30 @@
     {
         "mob": "mutantbeasts:mutant_enderman",
         "player": true,
-        "item": ["lootchests:loot_crate@1","lootchests:loot_crate@2"],
-        "itemcount": "0-1",
-        "random": "0.03"
+        "item": "lootchests:loot_crate",
+        "itemcount": "1",
+        "random": "1.0"
     },
     {
         "mob": "mutantbeasts:mutant_enderman",
         "player": true,
-        "item": ["lootchests:loot_crate","lootchests:loot_crate@1"],
-        "itemcount": "0-1",
-        "random": "0.15"
+        "item": "lootchests:loot_crate@1",
+        "itemcount": "1",
+        "random": "0.5"
+    },
+    {
+        "mob": "mutantbeasts:mutant_enderman",
+        "player": true,
+        "item": "lootchests:loot_crate@2",
+        "itemcount": "1",
+        "random": "0.25"
+    },
+    {
+        "mob": "mutantbeasts:mutant_enderman",
+        "player": true,
+        "item": "lootchests:loot_crate@3",
+        "itemcount": "1",
+        "random": "0.125"
     },
 
     //mutant_skeleton
@@ -138,7 +152,7 @@
         "player": true,
         "item": ["lootchests:loot_crate","lootchests:loot_crate@1"],
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.125"
     },
 
     //mutant_zombie
@@ -148,7 +162,7 @@
         "player": true,
         "item": ["lootchests:loot_crate","lootchests:loot_crate@1"],
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.125"
     },
 
     //SRP
@@ -156,7 +170,7 @@
     {
         "mob": "srparasites:warden",
         "player": true,
-        "item": ["lootchests:loot_crate","lootchests:loot_crate@1"],
+        "item": ["lootchests:loot_crate","lootchests:loot_crate@1","lootchests:loot_crate@2"],
         "itemcount": "0-1",
         "random": "0.15"
     },
@@ -164,7 +178,7 @@
     {
         "mob": "srparasites:marauder",
         "player": true,
-        "item": ["lootchests:loot_crate@1","lootchests:loot_crate@2"],
+        "item": ["lootchests:loot_crate@1","lootchests:loot_crate@2","lootchests:loot_crate@3"],
         "itemcount": "0-1",
         "random": "0.18"
     },
@@ -172,7 +186,7 @@
     {
         "mob": "srparasites:overseer",
         "player": true,
-        "item": ["lootchests:loot_crate@1","lootchests:loot_crate@2"],
+        "item": ["lootchests:loot_crate@1","lootchests:loot_crate@2","lootchests:loot_crate@3"],
         "itemcount": "0-1",
         "random": "0.18"
     },
@@ -180,7 +194,7 @@
     {
         "mob": "srparasites:bomber_light",
         "player": true,
-        "item": ["lootchests:loot_crate@1","lootchests:loot_crate@2"],
+        "item": ["lootchests:loot_crate@1","lootchests:loot_crate@2","lootchests:loot_crate@3"],
         "itemcount": "0-1",
         "random": "0.18"
     },
@@ -188,7 +202,7 @@
     {
         "mob": "srparasites:monarch",
         "player": true,
-        "item": ["lootchests:loot_crate","lootchests:loot_crate@1"],
+        "item": ["lootchests:loot_crate","lootchests:loot_crate@1","lootchests:loot_crate@2"],
         "itemcount": "0-1",
         "random": "0.09"
     },
