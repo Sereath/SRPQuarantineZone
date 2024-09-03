@@ -921,6 +921,16 @@
 		"result": "deny"
 	},
 
+	{
+		"mob": "minecraft:creeper",
+		"mincount": {
+			"amount": 12,
+			"mob": "minecraft:creeper",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
 	//srphack
 
 	{
