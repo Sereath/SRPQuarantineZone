@@ -827,6 +827,15 @@
 		},
 		"result": "deny"
 	},
+	{
+		"mob": "mod_lavacow:banshee",
+		"mincount": {
+			"amount": 5,
+			"mob": "mod_lavacow:banshee",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
 
 	//beecounter
 
@@ -899,7 +908,6 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "minecraft:slime",
 		"onjoin": true,
@@ -910,7 +918,6 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "minecraft:enderman",
 		"mincount": {
@@ -920,12 +927,29 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "minecraft:creeper",
 		"mincount": {
 			"amount": 12,
 			"mob": "minecraft:creeper",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "minecraft:skeleton",
+		"mincount": {
+			"amount": 30,
+			"mob": "minecraft:skeleton",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"mincount": {
+			"amount": 60,
+			"mob": "minecraft:zombie",
 			"perchunk": true
 		},
 		"result": "deny"
