@@ -712,13 +712,13 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:pri_yelloweye",
-		"random": 0.0375,
+		"random": 0.025,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxheight": 254,
 		"minheight": 126,
 		"maxcount":	{
-			"amount": 12,
+			"amount": 6,
 			"perchunk": true
 		},
 		"result": "allow"
