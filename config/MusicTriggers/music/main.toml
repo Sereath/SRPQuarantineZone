@@ -37,7 +37,6 @@
 		priority = "1"
 		resource_name = [ "0" ]
 		identifier = "overworld"
-	[triggers.bloodmoon]
 	[triggers.menu]
 	[triggers.universal]
 		fade_out = "100"
@@ -83,8 +82,6 @@
 		triggers = [ "dead" ]
 	[songs.s_asmd_54921]
 		triggers = [ "dead" ]
-	[songs.t_p_173917]
-		triggers = [ "lowhp" ]
 	[songs.s_sv_58962]
 		triggers = [ "lowhp" ]
 	[songs.aftermath]
