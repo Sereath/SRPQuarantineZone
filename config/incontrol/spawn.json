@@ -979,7 +979,7 @@
 		"mob": "srparasites:beckon_si",
 		"onjoin": true,
 		"mincount": {
-			"amount": 12,
+			"amount": 9,
 			"mob": "srparasites:beckon_si",
 			"perchunk": true
 		},
@@ -989,7 +989,7 @@
 		"mob": "srparasites:beckon_sii",
 		"onjoin": true,
 		"mincount": {
-			"amount": 12,
+			"amount": 7,
 			"mob": "srparasites:beckon_sii",
 			"perchunk": true
 		},
@@ -999,7 +999,7 @@
 		"mob": "srparasites:beckon_siii",
 		"onjoin": true,
 		"mincount": {
-			"amount": 12,
+			"amount": 5,
 			"mob": "srparasites:beckon_siii",
 			"perchunk": true
 		},
@@ -1009,7 +1009,7 @@
 		"mob": "srparasites:beckon_siv",
 		"onjoin": true,
 		"mincount": {
-			"amount": 12,
+			"amount": 3,
 			"mob": "srparasites:beckon_siv",
 			"perchunk": true
 		},
