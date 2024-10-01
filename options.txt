@@ -90,6 +90,7 @@ key_Toggle Customization Overlay | CTRL + ALT + :50
 key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
+key_quark.keybind.lockBuilding:76
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -97,7 +98,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:76
 key_key.spartanweaponry.access_quiver:23
 key_ChatFlow:88
 key_cos.key.opencosarmorinventory:0
@@ -192,6 +192,13 @@ key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:15
 key_key.craftingtweaks.refill_last_stack:15
 key_key.elenaidodge.dodge:-96
+key_key.refinedstorage.focusSearchBar:15
+key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
+key_key.refinedstorage.openWirelessGrid:0
+key_key.refinedstorage.openWirelessCraftingGrid:0
+key_key.refinedstorage.openWirelessFluidGrid:0
+key_key.refinedstorage.openPortableGrid:0
+key_key.refinedstorage.openWirelessCraftingMonitor:0
 key_key.mod_lavacow.special:34
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
@@ -215,13 +222,6 @@ key_key.music_player_gui:82
 key_key.music_player_toggle:80
 key_key.music_player_next:81
 key_key.music_player_previous:79
-key_key.refinedstorage.focusSearchBar:15
-key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
-key_key.refinedstorage.openWirelessGrid:0
-key_key.refinedstorage.openWirelessCraftingGrid:0
-key_key.refinedstorage.openWirelessFluidGrid:0
-key_key.refinedstorage.openPortableGrid:0
-key_key.refinedstorage.openWirelessCraftingMonitor:0
 key_key.musictriggers.gui:19:ALT
 key_key.nutrition:49
 key_key.arms.desc:0
@@ -269,6 +269,27 @@ key_gui.xaero_toggle_dimension:0
 key_key.sort_config:12
 key_key.sort:-98
 key_key.drop:16:ALT
+key_enderio.keybind.inventory:23
+key_enderio.keybind.dsu:0
+key_enderio.keybind.glidertoggle:34
+key_enderio.keybind.soundlocator:0
+key_enderio.keybind.nightvision:25
+key_enderio.keybind.gogglesofrevealing:0
+key_enderio.keybind.stepassist:0
+key_enderio.keybind.speed:0
+key_enderio.keybind.jump:0
+key_enderio.keybind.top:0
+key_enderio.keybind.tnt:0
+key_enderio.keybind.yetawrenchmode:21
+key_enderio.keybind.magnet:0
+key_enderio.keybind.fovreset:0
+key_enderio.keybind.fovunreset:0
+key_enderio.keybind.fovstore:0
+key_enderio.keybind.fovrecall:0
+key_enderio.keybind.fovplus:0
+key_enderio.keybind.fovminus:0
+key_enderio.keybind.fovplusfast:0
+key_enderio.keybind.fovminusfast:0
 key_key.craftpresence.config_keycode.name:0
 soundCategory_master:0.90140843
 soundCategory_music:1.0

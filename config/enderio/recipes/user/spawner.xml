@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+    <recipe name="Spawner, defaults" required="true">
+        <spawning>
+            <entity name="minecraft:villager" costMultiplier="5.0" disabled="false"/>
+        </spawning>
+    </recipe>
+    <recipe name="Spawner, Mimics" required="false">
+        <spawning>
+            <entity name="openblocks:luggage" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="mod_lavacow:mimic" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
+    <recipe name="Spawner, thuttech lift" required="false">
+        <spawning>
+            <entity name="thuttech:lift" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
+    <recipe name="Spawner, Ships" required="false">
+        <spawning>
+            <entity name="vc:entity_thrown_airship" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="vc:entity_airship" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
+    <recipe name="Spawner, Chickens" required="false">
+        <spawning>
+            <entity name="chickens:chickenschicken" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
+</enderio:recipes>

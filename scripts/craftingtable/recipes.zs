@@ -52,6 +52,15 @@ recipes.remove(<randomthings:diviningrod:3>);
 recipes.remove(<randomthings:diviningrod:2>);
 recipes.remove(<randomthings:diviningrod:1>);
 recipes.remove(<randomthings:diviningrod>);
+recipes.remove(<randomthings:advanceditemcollector>);
+recipes.remove(<randomthings:spectrelens>);
+recipes.remove(<randomthings:spectreenergyinjector>);
+recipes.remove(<randomthings:spectrecoil_normal>);
+recipes.remove(<randomthings:spectrecoil_redstone>);
+recipes.remove(<randomthings:spectrecoil_ender>);
+recipes.remove(<randomthings:spectrecharger>);
+recipes.remove(<randomthings:spectrecharger:1>);
+recipes.remove(<randomthings:spectrecharger:2>);
 
 recipes.remove(<waystones:waystone>);
 
@@ -172,13 +181,6 @@ recipes.remove(<apotheosis:prismatic_web>);
 
 recipes.remove(<minecraft:ender_eye>);
 
-recipes.remove(<srparasites:evolutionlure:5>);
-recipes.remove(<srparasites:evolutionlure:4>);
-recipes.remove(<srparasites:evolutionlure:3>);
-recipes.remove(<srparasites:evolutionlure:2>);
-recipes.remove(<srparasites:evolutionlure:1>);
-recipes.remove(<srparasites:evolutionlure>);
-
 //recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 //recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 //recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemVibrantCrystal>, <ore:crystalRestonia>, <ore:itemVibrantCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
@@ -187,6 +189,14 @@ recipes.addShaped(<minecraft:nether_star> * 2, [[<nyx:fallen_star>, <nyx:fallen_
 
 //recipes.addShaped(<randomthings:timeinabottle>, [[<ore:gemAmber>, <ore:gemAmber>, <ore:gemAmber>],[<minecraft:diamond_block>, <bountifulbaubles:ringoverclocking>, <minecraft:diamond_block>], [<ore:dustMithril>, <enderio:item_soul_vial>, <ore:dustMithril>]]);
 recipes.addShaped(<randomthings:chunkanalyzer>, [[<thermalfoundation:material:514>, <ore:netherStar>, <thermalfoundation:material:515>],[<ore:platePlatinum>, <ore:blockGlassHardened>, <ore:platePlatinum>], [<ore:plateAncientDebris>, <ore:platePlatinum>, <ore:plateAncientDebris>]]);
+recipes.addShaped(<randomthings:spectrelens>, [[<randomthings:ingredient:3>, <ore:itemVibrantCrystal>, <randomthings:ingredient:3>],[<ore:itemPulsatingCrystal>, <ore:blockGlassHardenedWhite>, <ore:itemPulsatingCrystal>], [<randomthings:ingredient:3>, <ore:itemVibrantCrystal>, <randomthings:ingredient:3>]]);
+recipes.addShaped(<randomthings:spectreenergyinjector>, [[<enderio:block_reinforced_obsidian>, <randomthings:spectrelens>, <enderio:block_reinforced_obsidian>],[<randomthings:ingredient:12>, <minecraft:beacon>, <randomthings:ingredient:12>], [<enderio:block_reinforced_obsidian>, <randomthings:ingredient:12>, <enderio:block_reinforced_obsidian>]]);
+recipes.addShaped(<randomthings:spectrecoil_normal>, [[<ore:itemEnderCrystal>, <enderio:block_reinforced_obsidian>, <randomthings:ingredient:12>],[<enderio:block_reinforced_obsidian>, <randomthings:ingredient:3>, <enderio:block_reinforced_obsidian>], [<randomthings:ingredient:12>, <enderio:block_reinforced_obsidian>, <ore:itemAttractorCrystal>]]);
+recipes.addShaped(<randomthings:spectrecoil_redstone>, [[<ore:itemAttractorCrystal>, <randomthings:ingredient:12>, <ore:itemPrecientCrystal>],[<randomthings:ingredient:12>, <randomthings:spectrecoil_normal>, <randomthings:ingredient:12>], [<ore:itemPrecientCrystal>, <randomthings:ingredient:12>, <ore:itemAttractorCrystal>]]);
+recipes.addShaped(<randomthings:spectrecoil_ender>, [[<ore:itemWeatherCrystal>, <randomthings:ingredient:12>, <ore:itemPrecientCrystal>],[<randomthings:ingredient:12>, <randomthings:spectrecoil_redstone>, <randomthings:ingredient:12>], [<ore:itemPrecientCrystal>, <randomthings:ingredient:12>, <ore:itemWeatherCrystal>]]);
+recipes.addShaped(<randomthings:spectrecharger>, [[<randomthings:ingredient:12>, <enderio:block_reinforced_obsidian>, <ore:itemEnderCrystal>],[<enderio:block_reinforced_obsidian>, <randomthings:ingredient:3>, <enderio:block_reinforced_obsidian>], [<ore:itemAttractorCrystal>, <enderio:block_reinforced_obsidian>, <randomthings:ingredient:12>]]);
+recipes.addShaped(<randomthings:spectrecharger:1>, [[<ore:itemPrecientCrystal>, <randomthings:ingredient:12>, <ore:itemAttractorCrystal>],[<randomthings:ingredient:12>, <randomthings:spectrecharger>, <randomthings:ingredient:12>], [<ore:itemAttractorCrystal>, <randomthings:ingredient:12>, <ore:itemPrecientCrystal>]]);
+recipes.addShaped(<randomthings:spectrecharger:2>, [[<ore:itemPrecientCrystal>, <randomthings:ingredient:12>, <ore:itemWeatherCrystal>],[<randomthings:ingredient:12>, <randomthings:spectrecharger:1>, <randomthings:ingredient:12>], [<ore:itemWeatherCrystal>, <randomthings:ingredient:12>, <ore:itemPrecientCrystal>]]);
 
 recipes.addShaped(<techguns:itemshared:126>, [[<ore:nuggetCopper>, <ore:wireCopper>, <ore:nuggetCopper>],[<ore:nuggetCopper>, <ore:blockGlassColorless>, <ore:nuggetCopper>], [<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>]]);
 recipes.addShaped(<techguns:itemshared:125>, [[<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>],[<ore:dustRedstone>, <techguns:itemshared:126>, <ore:dustRedstone>], [<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>]]);
@@ -213,5 +223,7 @@ recipes.addShaped(<techguns:concrete> * 16, [[<minecraft:concrete:*>, <minecraft
 recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:netherStar>, null],[<ore:enderpearl>, <ore:paper>, <ore:enderpearl>], [null, <minecraft:ender_eye>, null]]);
 
 recipes.addShaped(<apotheosis:prismatic_web>, [[null, <ore:netherStar>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
+
+recipes.addShaped(<srparasites:nodecompass>, [[<ore:itemPrecientCrystal>, <srparasites:lurecomponent5>, <ore:itemWeatherCrystal>],[<srparasites:living_core>, <nyx:meteor_finder>, <srparasites:living_core>], [<ore:itemWeatherCrystal>, <techguns:itemshared:131>, <ore:itemPrecientCrystal>]]);
 
 recipes.addShaped(<minecraft:ender_eye>, [[null, <ore:dustBlaze>, null],[null, <ore:enderpearl>, null], [null, <srparasites:lurecomponent1>, null]]);

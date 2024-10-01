@@ -142,7 +142,31 @@
 <techguns:itemshared:92>.displayName = "§1Anti Gravity Core";
 <techguns:antigravpack>.displayName = "§1Anti Gravity Device";
 
+
+<enderio:item_dark_steel_helmet>.displayName = "§bDark Helmet";
+<enderio:item_dark_steel_chestplate>.displayName = "§bDark Chestplate";
+<enderio:item_dark_steel_leggings>.displayName = "§bDark Leggings";
+<enderio:item_dark_steel_boots>.displayName = "§bDark Boots";
+<enderio:item_dark_steel_shield>.displayName = "§bDark Shield";
+<enderio:item_dark_steel_sword>.displayName = "§bThe Ender";
+<enderio:item_dark_steel_pickaxe>.displayName = "§bDark Pickaxe";
+<enderio:item_dark_steel_axe>.displayName = "§bDark Axe";
+<enderio:item_dark_steel_bow>.displayName = "§bDark Bow";
+<enderio:item_dark_steel_shears>.displayName = "§bDark Shears";
+
+<enderio:item_end_steel_helmet>.displayName = "§3Ender Helmet";
+<enderio:item_end_steel_chestplate>.displayName = "§3Ender Chestplate";
+<enderio:item_end_steel_leggings>.displayName = "§3Ender Leggings";
+<enderio:item_end_steel_boots>.displayName = "§3Ender Boots";
+<enderio:item_end_steel_shield>.displayName = "§3Ender Shield";
+<enderio:item_end_steel_sword>.displayName = "§3The Ender Mark II";
+<enderio:item_end_steel_pickaxe>.displayName = "§3Ender Pickaxe";
+<enderio:item_end_steel_axe>.displayName = "§3Ender Axe";
+<enderio:item_end_steel_bow>.displayName = "§3Ender Bow";
+
+
 <thermalfoundation:material:136>.addTooltip(format.aqua("Reforging material"));
+
 
 <randomthings:chunkanalyzer>.addTooltip(format.darkGreen("GPS"));
 

@@ -772,6 +772,7 @@
 	},
     
     //roughmobsbossesskycheck
+	
 	{
 		"dimension": 0,
 		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton"],
@@ -866,7 +867,7 @@
 	{
 		"mob": "chickens:chickenschicken",
 		"mincount": {
-			"amount": 15,
+			"amount": 5,
 			"mob": "chickens:chickenschicken",
 			"perchunk": true
 		},
