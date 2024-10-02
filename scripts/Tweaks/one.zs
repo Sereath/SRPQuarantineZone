@@ -17,9 +17,9 @@ import crafttweaker.item.IIngredient;
 <minecraft:stone_hoe>.maxDamage = 65;
 
 <techguns:nightvisiongoggles>.maxDamage = 1200;
-<techguns:jetpack>.maxDamage = 200;
+<techguns:jetpack>.maxDamage = 400;
 <techguns:tacticalmask>.maxDamage = 1200;
-<techguns:antigravpack>.maxDamage = 100;
+<techguns:antigravpack>.maxDamage = 600;
 
 val metalpanel as IItemStack = <techguns:metalpanel>;
 val nethermetal as IItemStack = <techguns:nethermetal>;
