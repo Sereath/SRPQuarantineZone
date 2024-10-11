@@ -147,6 +147,18 @@
 	},
 
 	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "techguns:outcast",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 4
+			}
+		]
+	},
+
+	{
 		"dimension": 0,
 		"mobs":	[
 			{
@@ -167,7 +179,7 @@
 				"mob": "srparasites:warden",
 				"weight": 2,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -179,7 +191,7 @@
 				"mob": "srparasites:marauder",
 				"weight": 2,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -189,9 +201,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:overseer",
-				"weight": 1,
+				"weight": 2,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -201,9 +213,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:bomber_light",
-				"weight": 1,
+				"weight": 2,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -214,6 +226,42 @@
 			{
 				"mob": "srparasites:monarch",
 				"weight": 2,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:bomber_heavy",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:wraith",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:bogle",
+				"weight": 1,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}
@@ -350,7 +398,174 @@
 		"dimension": 1,
 		"mobs":	[
 			{
+				"mob": "srparasites:pri_tozoon",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
 				"mob": "srparasites:pri_arachnida",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:fer_bear",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:fer_cow",
+				"weight": 12,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:fer_horse",
+				"weight": 12,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:fer_human",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:fer_pig",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:fer_sheep",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:fer_villager",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:ada_longarms",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:ada_manducater",
+				"weight": 12,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:ada_reeker",
+				"weight": 12,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:ada_yelloweye",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:ada_summoner",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:ada_bolster",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:ada_arachnida",
 				"weight": 9,
 				"groupcountmin": 1,
 				"groupcountmax": 2

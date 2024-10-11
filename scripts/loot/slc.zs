@@ -43,6 +43,8 @@ common.addItemEntry(<randomthings:diviningrod:3>, 5, 1, [Functions.setCount(1, 1
 common.addItemEntry(<randomthings:diviningrod:8>, 5, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<randomthings:diviningrod:9>, 5, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<randomthings:diviningrod:12>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<pickletweaks:nightvision_goggles>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<pickletweaks:nightvision_goggles_c>, 5, 1, [Functions.setCount(1, 1)], []);
 
 
 //uncommon
@@ -77,6 +79,8 @@ uncommon.addItemEntry(<randomthings:diviningrod:4>, 5, 1, [Functions.setCount(1,
 uncommon.addItemEntry(<randomthings:diviningrod:10>, 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<randomthings:diviningrod:11>, 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<randomthings:diviningrod:13>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<pickletweaks:nightvision_goggles>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<pickletweaks:nightvision_goggles_c>, 5, 1, [Functions.setCount(1, 1)], []);
 
 
 //rare

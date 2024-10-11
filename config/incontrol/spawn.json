@@ -380,6 +380,24 @@
 	},
 
 	{
+		"dimension": 1,
+		"mob": "techguns:outcast",
+		"random": 0.005,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 24,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 1,
+		"mob": "techguns:outcast",
+		"result": "deny"
+	},
+
+	{
 		"dimension": 0,
 		"mob": "techguns:bandit",
 		"random": 0.025,
@@ -408,7 +426,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 2,
+			"amount": 3,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -422,11 +440,11 @@
 	{
 		"dimension": 1,
 		"mob": "srparasites:marauder",
-		"random": 0.000875,
+		"random": 0.00125,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 2,
+			"amount": 3,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -453,11 +471,11 @@
 	{
 		"dimension": 1,
 		"mob": "srparasites:overseer",
-		"random": 0.000625,
+		"random": 0.00125,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 2,
+			"amount": 3,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -471,11 +489,11 @@
 	{
 		"dimension": 1,
 		"mob": "srparasites:bomber_light",
-		"random": 0.000625,
+		"random": 0.00125,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 2,
+			"amount": 3,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -493,7 +511,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 2,
+			"amount": 3,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -501,6 +519,60 @@
 	{
 		"dimension": [1,0],
 		"mob": "srparasites:monarch",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 1,
+		"mob": "srparasites:bomber_heavy",
+		"random": 0.000625,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 2,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 1,
+		"mob": "srparasites:bomber_heavy",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 1,
+		"mob": "srparasites:wraith",
+		"random": 0.000625,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 2,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 1,
+		"mob": "srparasites:wraith",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 1,
+		"mob": "srparasites:bogle",
+		"random": 0.000625,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 2,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 1,
+		"mob": "srparasites:bogle",
 		"result": "deny"
 	},
 
@@ -973,6 +1045,42 @@
 	{
 		"dimension": 1,
 		"mob": ["srparasites:pri_longarms","srparasites:pri_manducater","srparasites:pri_reeker","srparasites:pri_summoner","srparasites:pri_bolster","srparasites:pri_arachnida"],
+		"result": "deny"
+	},
+
+	{
+		"dimension": 1,
+		"mob": ["srparasites:fer_bear","srparasites:fer_cow","srparasites:fer_horse","srparasites:fer_human","srparasites:fer_pig","srparasites:fer_sheep","srparasites:fer_villager"],
+		"random": 0.00375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 6,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 1,
+		"mob": ["srparasites:fer_bear","srparasites:fer_cow","srparasites:fer_horse","srparasites:fer_human","srparasites:fer_pig","srparasites:fer_sheep","srparasites:fer_villager"],
+		"result": "deny"
+	},
+
+	{
+		"dimension": 1,
+		"mob": ["srparasites:ada_longarms","srparasites:ada_manducater","srparasites:ada_reeker","srparasites:ada_yelloweye","srparasites:ada_summoner","srparasites:ada_bolster","srparasites:ada_arachnida"],
+		"random": 0.00375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 1,
+		"mob": ["srparasites:ada_longarms","srparasites:ada_manducater","srparasites:ada_reeker","srparasites:ada_yelloweye","srparasites:ada_summoner","srparasites:ada_bolster","srparasites:ada_arachnida"],
 		"result": "deny"
 	},
 
