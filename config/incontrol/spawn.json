@@ -1037,7 +1037,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 6,
+			"amount": 3,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -1055,7 +1055,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 6,
+			"amount": 3,
 			"perchunk": true
 		},
 		"result": "allow"
