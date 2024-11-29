@@ -8,6 +8,7 @@
 !asm/
 !caches/
 !config/
+!groovy/
 *.ogg
 config/fantasticlib/reference/
 !oresources/
