@@ -417,6 +417,25 @@
 		"result": "deny"
 	},
 
+	{
+		"dimension": 0,
+		"mob": "techguns:attackhelicopter",
+		"random": 0.05,
+		"biometype": "OCEAN",
+		"maxlight": 15,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "techguns:attackhelicopter",
+		"result": "deny"
+	},
+	
     //srp
 
 	{

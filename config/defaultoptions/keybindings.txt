@@ -33,6 +33,7 @@ key_key.hotbar.9:10:NONE
 key_of.key.zoom:46:NONE
 key_Reload Menu | CTRL + ALT + :0:NONE
 key_Toggle Customization Overlay | CTRL + ALT + :50:NONE
+key_key.groovyscript.reload:0:NONE
 key_Toggle Slot Lock:82:NONE
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT

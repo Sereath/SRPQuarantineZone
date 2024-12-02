@@ -16,5 +16,8 @@
 	},
 	{
 		item: "techguns:itemshared 1 132"
+	},
+	{
+		item: "toolbelt:belt"
 	}]
 }

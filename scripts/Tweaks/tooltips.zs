@@ -167,8 +167,10 @@
 
 <thermalfoundation:material:136>.addTooltip(format.aqua("Reforging material"));
 
-
 <randomthings:chunkanalyzer>.addTooltip(format.darkGreen("GPS"));
+
+<improvedbackpacks:backpack>.addTooltip(format.darkGray("Soulbound"));
+<toolbelt:belt>.addTooltip(format.darkGray("Soulbound"));
 
 
 //<hbm:crucible>.displayName = "§4Crucible";

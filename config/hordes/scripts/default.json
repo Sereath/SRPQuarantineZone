@@ -5,5 +5,17 @@
             "hordes:default"
         ],
         "conditions": []
+    },
+    {
+        "function": "hordes:set_spawntable",
+        "value": [
+            "hordes:srp_end"
+        ],
+        "conditions": [
+            {
+                "name": "gamestages:gamestage",
+                "value": "endstage"
+            }
+        ]
     }
 ]
