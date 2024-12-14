@@ -172,5 +172,7 @@
 <improvedbackpacks:backpack>.addTooltip(format.darkGray("Soulbound"));
 <toolbelt:belt>.addTooltip(format.darkGray("Soulbound"));
 
+<minecraft:ender_eye>.addTooltip(format.darkGray("Do Not"));
+
 
 //<hbm:crucible>.displayName = "§4Crucible";
