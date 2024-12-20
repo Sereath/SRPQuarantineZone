@@ -61,7 +61,6 @@ uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:str
 uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:strong_regeneration"}), 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:strong_swiftness"}), 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "extraalchemy:reincarnation_strong"}), 5, 1, [Functions.setCount(1, 1)], []);
-uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:invisibility"}), 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:fire_resistance"}), 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:water_breathing"}), 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<bountifulbaubles:ringoverclocking>, 5, 1, [Functions.setCount(1, 1)], []);
@@ -87,8 +86,6 @@ rare.addLootTableEntry("lt:subway", 10);
 //110
 rare.addItemEntry(<bountifulbaubles:amuletsingluttony>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<bountifulbaubles:crowngold>, 10, 1, [Functions.setCount(1, 1)], []);
-rare.addItemEntry(<bountifulbaubles:amuletsinpride>, 10, 1, [Functions.setCount(1, 1)], []);
-rare.addItemEntry(<bountifulbaubles:amuletsinwrath>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<bountifulbaubles:ringfreeaction>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<bountifulbaubles:brokenblackdragonscale>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<bountifulbaubles:shieldcobalt>, 10, 1, [Functions.setCount(1, 1)], []);
@@ -108,8 +105,11 @@ rare.addItemEntry(<pickletweaks:nightvision_goggles_c>, 10, 1, [Functions.setCou
 mythic.addLootTableEntry("lt:rare", 60);
 mythic.addLootTableEntry("lt:subway", 30);
 //125
+mythic.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:invisibility"}), 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<bountifulbaubles:trinketblackdragonscale>, 20, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<bountifulbaubles:shieldobsidian>, 20, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<bountifulbaubles:amuletsinpride>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<bountifulbaubles:amuletsinwrath>, 10, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<bountifulbaubles:wormholemirror>, 20, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<bountifulbaubles:trinketmixeddragonscale>, 10, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<bountifulbaubles:trinketankhcharm>, 10, 1, [Functions.setCount(1, 1)], []);
@@ -122,7 +122,7 @@ mythic.addItemEntry(<srparasites:weapon_cleaver>, 5, 1, [Functions.setCount(1, 1
 mythic.addItemEntry(<srparasites:weapon_bow>, 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<srparasites:weapon_maul>, 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<srparasites:weapon_lance>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<randomthings:diviningrod:7>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<randomthings:diviningrod:14>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<randomthings:diviningrod:15>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<randomthings:diviningrod:16>, 5, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:7>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:14>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:15>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:16>, 10, 1, [Functions.setCount(1, 1)], []);

@@ -228,5 +228,13 @@ recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:dustBlaze>, null],[<minec
 recipes.addShaped(<apotheosis:prismatic_web>, [[null, <minecraft:ender_eye>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
 
 recipes.addShaped(<srparasites:nodecompass>, [[<ore:itemPrecientCrystal>, <srparasites:lurecomponent5>, <ore:itemWeatherCrystal>],[<srparasites:living_core>, <nyx:meteor_finder>, <srparasites:living_core>], [<ore:itemWeatherCrystal>, <techguns:itemshared:131>, <ore:itemPrecientCrystal>]]);
+recipes.addShaped(<srparasites:armor_helm>, [[<ore:dustMithril>, <ore:netherStar>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_helm>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
+recipes.addShaped(<srparasites:armor_chest>, [[<ore:dustMithril>, <ore:netherStar>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_chest>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
+recipes.addShaped(<srparasites:armor_pants>, [[<ore:dustMithril>, <ore:netherStar>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_pants>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
+recipes.addShaped(<srparasites:armor_boots>, [[<ore:dustMithril>, <ore:netherStar>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_boots>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
+recipes.addShaped(<srparasites:armor_helm_sentient>, [[<ore:dustMithril>, <srparasites:lurecomponent5>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_helm_sentient>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
+recipes.addShaped(<srparasites:armor_chest_sentient>, [[<ore:dustMithril>, <srparasites:lurecomponent5>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_chest_sentient>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
+recipes.addShaped(<srparasites:armor_pants_sentient>, [[<ore:dustMithril>, <srparasites:lurecomponent5>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_pants_sentient>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
+recipes.addShaped(<srparasites:armor_boots_sentient>, [[<ore:dustMithril>, <srparasites:lurecomponent5>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_boots_sentient>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
 
 recipes.addShaped(<minecraft:ender_eye>, [[null, <ore:dustBlaze>, null],[null, <ore:enderpearl>, null], [null, <srparasites:lurecomponent1>, null]]);
