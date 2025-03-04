@@ -159,6 +159,18 @@ recipes.removeByRecipeName("techguns:concrete_0");
 recipes.remove(<tombstone:crafting_ingredient>);
 recipes.remove(<tombstone:crafting_ingredient:1>);
 recipes.remove(<tombstone:book_of_disenchantment>);
+recipes.remove(<tombstone:scroll_buff>);
+recipes.remove(<tombstone:scroll_buff:1>);
+recipes.remove(<tombstone:scroll_buff:2>);
+recipes.remove(<tombstone:scroll_buff:3>);
+recipes.remove(<tombstone:scroll_buff:4>);
+recipes.remove(<tombstone:scroll_buff:5>);
+recipes.remove(<tombstone:scroll_buff:6>);
+recipes.remove(<tombstone:scroll_buff:7>);
+recipes.remove(<tombstone:scroll_buff:8>);
+recipes.remove(<tombstone:book_of_magic_impregnation>);
+
+recipes.remove(<roost:catcher>);
 
 //recipes.remove(<pickletweaks:emerald_apple>);
 //recipes.remove(<pickletweaks:diamond_apple>);
@@ -188,7 +200,10 @@ recipes.addShaped(<minecraft:name_tag> * 2, [[<nyx:fallen_star>, <nyx:fallen_sta
 
 recipes.addShaped(<tombstone:crafting_ingredient>, [[<randomthings:ingredient:2>, <ore:stickWood>, <randomthings:ingredient:2>],[<ore:dustGrave>, <mod_lavacow:curseweave_cloth>, <ore:dustGrave>], [<randomthings:ingredient:2>, <ore:stickWood>, <randomthings:ingredient:2>]]);
 recipes.addShaped(<tombstone:crafting_ingredient:1>, [[null, <randomthings:ingredient:2>, null],[<ore:dustGrave>, <ore:graveMarble>, <ore:dustGrave>], [null, <randomthings:ingredient:2>, null]]);
-recipes.addShaped(<tombstone:book_of_disenchantment>, [[<tombstone:crafting_ingredient:3>, <randomthings:ingredient:2>, <tombstone:crafting_ingredient:3>],[<randomthings:ingredient:2>, <minecraft:book>, <randomthings:ingredient:2>], [<tombstone:crafting_ingredient:3>, <randomthings:ingredient:2>, <tombstone:crafting_ingredient:3>]]);
+recipes.addShaped(<tombstone:book_of_disenchantment>, [[<ore:dustGrave>, <randomthings:ingredient:2>, <ore:dustGrave>],[<randomthings:ingredient:2>, <minecraft:book>, <randomthings:ingredient:2>], [<ore:dustGrave>, <randomthings:ingredient:2>, <ore:dustGrave>]]);
+recipes.addShaped(<tombstone:book_of_magic_impregnation>, [[<ore:dustGrave>, <randomthings:ingredient:2>, <ore:dustGrave>],[<ore:itemWeatherCrystal>, <minecraft:book>, <ore:itemPrecientCrystal>], [<ore:dustGrave>, <randomthings:ingredient:2>, <ore:dustGrave>]]);
+
+recipes.addShaped(<roost:catcher>, [[null, <ore:itemAttractorCrystal>, null],[null, <ore:egg>, null], [<ore:feather>, <ore:stickWood>, <ore:feather>]]);
 
 //recipes.addShaped(<randomthings:timeinabottle>, [[<ore:gemAmber>, <ore:gemAmber>, <ore:gemAmber>],[<minecraft:diamond_block>, <bountifulbaubles:ringoverclocking>, <minecraft:diamond_block>], [<ore:dustMithril>, <enderio:item_soul_vial>, <ore:dustMithril>]]);
 recipes.addShaped(<randomthings:chunkanalyzer>, [[<thermalfoundation:material:514>, <ore:netherStar>, <thermalfoundation:material:515>],[<ore:platePlatinum>, <ore:blockGlassHardened>, <ore:platePlatinum>], [<ore:plateAncientDebris>, <ore:platePlatinum>, <ore:plateAncientDebris>]]);

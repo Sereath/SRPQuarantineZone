@@ -199,6 +199,7 @@ key_key.refinedstorage.openWirelessFluidGrid:0
 key_key.refinedstorage.openPortableGrid:0
 key_key.refinedstorage.openWirelessCraftingMonitor:0
 key_key.mod_lavacow.special:34
+key_key.mod_lavacow.down:44
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_Open Backpack:52
