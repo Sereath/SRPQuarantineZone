@@ -189,6 +189,8 @@ recipes.remove(<corpsecomplex:scroll>);
 recipes.remove(<apotheosis:prismatic_web>);
 recipes.remove(<apotheosis:scrap_tome>);
 
+recipes.remove(<engineersdecor:factory_placer>);
+
 recipes.remove(<minecraft:ender_eye>);
 
 //recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);

@@ -1,1 +1,40 @@
-[]
+[
+    {
+        "dimension": [0],
+        "block": ["environmentaltech:void_ore_miner_cont_1","environmentaltech:void_ore_miner_cont_2","environmentaltech:void_ore_miner_cont_3","environmentaltech:void_ore_miner_cont_4","environmentaltech:void_ore_miner_cont_5","environmentaltech:void_ore_miner_cont_6"],
+        "maxheight": 48,
+        "message": "Miner ready to be assembled.",
+        "result": "allow"
+    },
+    {
+        "block": ["environmentaltech:void_ore_miner_cont_1","environmentaltech:void_ore_miner_cont_2","environmentaltech:void_ore_miner_cont_3","environmentaltech:void_ore_miner_cont_4","environmentaltech:void_ore_miner_cont_5","environmentaltech:void_ore_miner_cont_6"],
+        "message": "Insufficient depth.",
+        "result": "deny"
+    },
+
+    {
+        "dimension": [0],
+        "block": ["environmentaltech:void_res_miner_cont_1","environmentaltech:void_res_miner_cont_2","environmentaltech:void_res_miner_cont_3","environmentaltech:void_res_miner_cont_4","environmentaltech:void_res_miner_cont_5","environmentaltech:void_res_miner_cont_6"],
+        "maxheight": 48,
+        "message": "Miner ready to be assembled.",
+        "result": "allow"
+    },
+    {
+        "block": ["environmentaltech:void_res_miner_cont_1","environmentaltech:void_res_miner_cont_2","environmentaltech:void_res_miner_cont_3","environmentaltech:void_res_miner_cont_4","environmentaltech:void_res_miner_cont_5","environmentaltech:void_res_miner_cont_6"],
+        "message": "Insufficient depth.",
+        "result": "deny"
+    },
+
+    {
+        "dimension": [0],
+        "block": ["environmentaltech:void_botanic_miner_cont_1","environmentaltech:void_botanic_miner_cont_2","environmentaltech:void_botanic_miner_cont_3","environmentaltech:void_botanic_miner_cont_4","environmentaltech:void_botanic_miner_cont_5","environmentaltech:void_botanic_miner_cont_6"],
+        "maxheight": 48,
+        "message": "Miner ready to be assembled.",
+        "result": "allow"
+    },
+    {
+        "block": ["environmentaltech:void_botanic_miner_cont_1","environmentaltech:void_botanic_miner_cont_2","environmentaltech:void_botanic_miner_cont_3","environmentaltech:void_botanic_miner_cont_4","environmentaltech:void_botanic_miner_cont_5","environmentaltech:void_botanic_miner_cont_6"],
+        "message": "Insufficient depth.",
+        "result": "deny"
+    }
+]
