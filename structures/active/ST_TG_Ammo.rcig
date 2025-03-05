@@ -293,6 +293,226 @@
           }
         }
       }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:material",
+        "damage": 198,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:material",
+        "damage": 199,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 9,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 60,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 9,
+      "item": {
+        "id": "minecraft:gunpowder",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:slime_ball",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:material",
+        "damage": 192,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:material",
+        "damage": 195,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:material",
+        "damage": 224,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "jaopca:item_nuggetquartz",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 97,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.020207388326525688,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "jaopca:item_nuggettitanium",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0068187713623047,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 55,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 64,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 33,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 34,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 35,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 36,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 130,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 42,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 43,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 44,
+        "count": 1
+      }
     }
   ],
   "dependencyExpression": ""

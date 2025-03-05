@@ -13,7 +13,11 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "Creative": {
+            "Energy": {
+              "nbtType": "int",
+              "nbt": 2000000
+            },
+            "RSControl": {
               "nbtType": "byte",
               "nbt": 0
             },
@@ -21,13 +25,9 @@
               "nbtType": "byte",
               "nbt": 0
             },
-            "RSControl": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "Facing": {
-              "nbtType": "byte",
-              "nbt": 2
+            "Send": {
+              "nbtType": "int",
+              "nbt": 1000
             },
             "SideCache": {
               "nbtType": "byteArray",
@@ -40,15 +40,15 @@
                 1
               ]
             },
-            "Energy": {
-              "nbtType": "int",
-              "nbt": 2000000
+            "Creative": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Facing": {
+              "nbtType": "byte",
+              "nbt": 2
             },
             "Recv": {
-              "nbtType": "int",
-              "nbt": 1000
-            },
-            "Send": {
               "nbtType": "int",
               "nbt": 1000
             }
@@ -67,7 +67,11 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "Creative": {
+            "Energy": {
+              "nbtType": "int",
+              "nbt": 8000000
+            },
+            "RSControl": {
               "nbtType": "byte",
               "nbt": 0
             },
@@ -75,13 +79,9 @@
               "nbtType": "byte",
               "nbt": 1
             },
-            "RSControl": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "Facing": {
-              "nbtType": "byte",
-              "nbt": 2
+            "Send": {
+              "nbtType": "int",
+              "nbt": 4000
             },
             "SideCache": {
               "nbtType": "byteArray",
@@ -94,15 +94,15 @@
                 1
               ]
             },
-            "Energy": {
-              "nbtType": "int",
-              "nbt": 8000000
+            "Creative": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Facing": {
+              "nbtType": "byte",
+              "nbt": 2
             },
             "Recv": {
-              "nbtType": "int",
-              "nbt": 4000
-            },
-            "Send": {
               "nbtType": "int",
               "nbt": 4000
             }
@@ -121,7 +121,11 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "Creative": {
+            "Energy": {
+              "nbtType": "int",
+              "nbt": 18000000
+            },
+            "RSControl": {
               "nbtType": "byte",
               "nbt": 0
             },
@@ -129,13 +133,9 @@
               "nbtType": "byte",
               "nbt": 2
             },
-            "RSControl": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "Facing": {
-              "nbtType": "byte",
-              "nbt": 2
+            "Send": {
+              "nbtType": "int",
+              "nbt": 9000
             },
             "SideCache": {
               "nbtType": "byteArray",
@@ -148,15 +148,15 @@
                 1
               ]
             },
-            "Energy": {
-              "nbtType": "int",
-              "nbt": 18000000
+            "Creative": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Facing": {
+              "nbtType": "byte",
+              "nbt": 2
             },
             "Recv": {
-              "nbtType": "int",
-              "nbt": 9000
-            },
-            "Send": {
               "nbtType": "int",
               "nbt": 9000
             }
@@ -175,7 +175,11 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "Creative": {
+            "Energy": {
+              "nbtType": "int",
+              "nbt": 32000000
+            },
+            "RSControl": {
               "nbtType": "byte",
               "nbt": 0
             },
@@ -183,13 +187,9 @@
               "nbtType": "byte",
               "nbt": 3
             },
-            "RSControl": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "Facing": {
-              "nbtType": "byte",
-              "nbt": 2
+            "Send": {
+              "nbtType": "int",
+              "nbt": 16000
             },
             "SideCache": {
               "nbtType": "byteArray",
@@ -202,15 +202,15 @@
                 1
               ]
             },
-            "Energy": {
-              "nbtType": "int",
-              "nbt": 32000000
+            "Creative": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Facing": {
+              "nbtType": "byte",
+              "nbt": 2
             },
             "Recv": {
-              "nbtType": "int",
-              "nbt": 16000
-            },
-            "Send": {
               "nbtType": "int",
               "nbt": 16000
             }
@@ -229,7 +229,11 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "Creative": {
+            "Energy": {
+              "nbtType": "int",
+              "nbt": 50000000
+            },
+            "RSControl": {
               "nbtType": "byte",
               "nbt": 0
             },
@@ -237,13 +241,9 @@
               "nbtType": "byte",
               "nbt": 4
             },
-            "RSControl": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "Facing": {
-              "nbtType": "byte",
-              "nbt": 2
+            "Send": {
+              "nbtType": "int",
+              "nbt": 25000
             },
             "SideCache": {
               "nbtType": "byteArray",
@@ -256,15 +256,15 @@
                 1
               ]
             },
-            "Energy": {
-              "nbtType": "int",
-              "nbt": 50000000
+            "Creative": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Facing": {
+              "nbtType": "byte",
+              "nbt": 2
             },
             "Recv": {
-              "nbtType": "int",
-              "nbt": 25000
-            },
-            "Send": {
               "nbtType": "int",
               "nbt": 25000
             }
@@ -273,57 +273,13 @@
       }
     },
     {
-      "weight": 0.004506520461291075,
+      "weight": 0.020207388326525688,
       "min": 1,
-      "max": 1,
+      "max": 2,
       "item": {
-        "id": "thermalexpansion:cell",
+        "id": "nyx:meteor_finder",
         "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "Creative": {
-              "nbtType": "byte",
-              "nbt": 1
-            },
-            "Level": {
-              "nbtType": "byte",
-              "nbt": 4
-            },
-            "RSControl": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "Facing": {
-              "nbtType": "byte",
-              "nbt": 2
-            },
-            "SideCache": {
-              "nbtType": "byteArray",
-              "nbt": [
-                2,
-                2,
-                2,
-                2,
-                2,
-                2
-              ]
-            },
-            "Energy": {
-              "nbtType": "int",
-              "nbt": 50000000
-            },
-            "Recv": {
-              "nbtType": "int",
-              "nbt": 25000
-            },
-            "Send": {
-              "nbtType": "int",
-              "nbt": 25000
-            }
-          }
-        }
+        "count": 1
       }
     },
     {
@@ -561,6 +517,10 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 30
+            },
             "camo": {
               "nbtType": "byte",
               "nbt": 0
@@ -568,10 +528,6 @@
             "ammovariant": {
               "nbtType": "string",
               "nbt": "default"
-            },
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 30
             }
           }
         }
@@ -588,6 +544,10 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 30
+            },
             "camo": {
               "nbtType": "byte",
               "nbt": 0
@@ -595,10 +555,6 @@
             "ammovariant": {
               "nbtType": "string",
               "nbt": "default"
-            },
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 30
             }
           }
         }
@@ -615,6 +571,10 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 40
+            },
             "camo": {
               "nbtType": "byte",
               "nbt": 0
@@ -622,10 +582,6 @@
             "ammovariant": {
               "nbtType": "string",
               "nbt": "default"
-            },
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 40
             }
           }
         }
@@ -642,6 +598,10 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 12
+            },
             "camo": {
               "nbtType": "byte",
               "nbt": 0
@@ -649,10 +609,6 @@
             "ammovariant": {
               "nbtType": "string",
               "nbt": "default"
-            },
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 12
             }
           }
         }
@@ -669,6 +625,10 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 8
+            },
             "camo": {
               "nbtType": "byte",
               "nbt": 0
@@ -676,10 +636,6 @@
             "ammovariant": {
               "nbtType": "string",
               "nbt": "default"
-            },
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 8
             }
           }
         }
@@ -696,6 +652,10 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 10
+            },
             "camo": {
               "nbtType": "byte",
               "nbt": 0
@@ -703,10 +663,6 @@
             "ammovariant": {
               "nbtType": "string",
               "nbt": "default"
-            },
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 10
             }
           }
         }
@@ -723,6 +679,10 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 1
+            },
             "camo": {
               "nbtType": "byte",
               "nbt": 0
@@ -730,10 +690,6 @@
             "ammovariant": {
               "nbtType": "string",
               "nbt": "default"
-            },
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 1
             }
           }
         }
@@ -750,6 +706,10 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 4
+            },
             "camo": {
               "nbtType": "byte",
               "nbt": 0
@@ -757,10 +717,6 @@
             "ammovariant": {
               "nbtType": "string",
               "nbt": "default"
-            },
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 4
             }
           }
         }

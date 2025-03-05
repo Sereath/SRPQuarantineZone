@@ -143,14 +143,6 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "camo": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "ammovariant": {
-              "nbtType": "string",
-              "nbt": "default"
-            },
             "ammo": {
               "nbtType": "short",
               "nbt": 300
@@ -158,6 +150,14 @@
             "miningHead": {
               "nbtType": "int",
               "nbt": 0
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
             }
           }
         }
@@ -174,14 +174,6 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "camo": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "ammovariant": {
-              "nbtType": "string",
-              "nbt": "default"
-            },
             "ammo": {
               "nbtType": "short",
               "nbt": 300
@@ -189,6 +181,14 @@
             "miningHead": {
               "nbtType": "int",
               "nbt": 0
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
             }
           }
         }
@@ -395,14 +395,6 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "camo": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "ammovariant": {
-              "nbtType": "string",
-              "nbt": "default"
-            },
             "ammo": {
               "nbtType": "short",
               "nbt": 300
@@ -410,9 +402,27 @@
             "miningHead": {
               "nbtType": "int",
               "nbt": 0
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
             }
           }
         }
+      }
+    },
+    {
+      "weight": 2.0475566387176514,
+      "min": 1,
+      "max": 9,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
       }
     }
   ],
