@@ -62,6 +62,10 @@ recipes.remove(<randomthings:spectrecharger:2>);
 
 recipes.remove(<waystones:waystone>);
 
+recipes.remove(<environmentaltech:modifier_creative_flight>);
+recipes.remove(<environmentaltech:modifier_flight_speed>);
+recipes.remove(<environmentaltech:modifier_invisibility>);
+
 recipes.remove(<openblocks:generic>);
 
 recipes.removeByRecipeName("techguns:m4_alt");
@@ -188,6 +192,8 @@ recipes.remove(<corpsecomplex:scroll>);
 
 recipes.remove(<apotheosis:prismatic_web>);
 recipes.remove(<apotheosis:scrap_tome>);
+
+recipes.remove(<extendedcrafting:handheld_table>);
 
 recipes.remove(<engineersdecor:factory_placer>);
 
