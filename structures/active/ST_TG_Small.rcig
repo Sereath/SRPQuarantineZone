@@ -143,13 +143,13 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 300
-            },
             "miningHead": {
               "nbtType": "int",
               "nbt": 0
+            },
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 300
             },
             "camo": {
               "nbtType": "byte",
@@ -174,13 +174,13 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 300
-            },
             "miningHead": {
               "nbtType": "int",
               "nbt": 0
+            },
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 300
             },
             "camo": {
               "nbtType": "byte",
@@ -197,7 +197,7 @@
     {
       "weight": 0.25986868143081665,
       "min": 1,
-      "max": 16,
+      "max": 8,
       "item": {
         "id": "techguns:fraggrenade",
         "damage": 0,
@@ -207,7 +207,7 @@
     {
       "weight": 0.1442086547613144,
       "min": 1,
-      "max": 6,
+      "max": 2,
       "item": {
         "id": "techguns:basicmachine",
         "damage": 3,
@@ -217,7 +217,7 @@
     {
       "weight": 0.1442086547613144,
       "min": 1,
-      "max": 3,
+      "max": 2,
       "item": {
         "id": "techguns:itemshared",
         "damage": 99,
@@ -227,7 +227,7 @@
     {
       "weight": 0.1442086547613144,
       "min": 1,
-      "max": 3,
+      "max": 2,
       "item": {
         "id": "techguns:itemshared",
         "damage": 100,
@@ -237,7 +237,7 @@
     {
       "weight": 0.1442086547613144,
       "min": 1,
-      "max": 3,
+      "max": 2,
       "item": {
         "id": "techguns:itemshared",
         "damage": 101,
@@ -247,7 +247,7 @@
     {
       "weight": 0.1442086547613144,
       "min": 1,
-      "max": 3,
+      "max": 2,
       "item": {
         "id": "techguns:itemshared",
         "damage": 102,
@@ -395,13 +395,13 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 300
-            },
             "miningHead": {
               "nbtType": "int",
               "nbt": 0
+            },
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 300
             },
             "camo": {
               "nbtType": "byte",
@@ -422,6 +422,16 @@
       "item": {
         "id": "minecraft:web",
         "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 9,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 62,
         "count": 1
       }
     }
