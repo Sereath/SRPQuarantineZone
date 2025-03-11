@@ -19,5 +19,8 @@
 	},
 	{
 		item: "toolbelt:belt"
+	},
+	{
+		item: "minecraft:compass"
 	}]
 }

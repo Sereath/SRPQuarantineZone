@@ -1,0 +1,1 @@
+item('srpqz:trace').Item.setMaxStackSize(8)

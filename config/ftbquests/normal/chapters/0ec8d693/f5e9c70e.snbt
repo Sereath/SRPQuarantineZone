@@ -1,0 +1,32 @@
+{
+	title: "§aTips",
+	icon: "srparasites:weapon_sword_sentient",
+	x: 3.0d,
+	y: -0.5d,
+	text: [
+		"		No more lava bucketing everything without risk, get some tongs or mitts before doing so.",
+		"",
+		"		Debug info has been disabled, grab a compass if you want to see the coordinates on screen.",
+		"",
+		"		Get an Antique Atlas if you want both the coordinates and a minimap on screen.",
+		"",
+		"		Mana Infused Ingots are the universal material for reforging your equipment."
+	],
+	tasks: [{
+		uid: "018c1e5c",
+		type: "checkmark"
+	},
+	{
+		uid: "e74757c7",
+		type: "item",
+		items: [{
+			item: "srpqz:trace"
+		}],
+		consume_items: 1b
+	}],
+	rewards: [{
+		uid: "6e916b58",
+		type: "choice",
+		table: 0
+	}]
+}

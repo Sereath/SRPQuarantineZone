@@ -1,0 +1,32 @@
+{
+	title: "§aTips",
+	icon: "srparasites:weapon_axe_sentient",
+	x: 0.0d,
+	y: -0.5d,
+	text: [
+		"		You will retain your equipped armour and hand items upon death. Everything else will be stored in a tombstone.",
+		"",
+		"		You can dodge! Press the forward button on your mouse.",
+		"",
+		"		If music stops playing. Press Alt + R to reload its configurations.",
+		"",
+		"		Press NUM 0 to lock/unlock a hotbar slot."
+	],
+	tasks: [{
+		uid: "091ca1e0",
+		type: "checkmark"
+	},
+	{
+		uid: "3acc85fe",
+		type: "item",
+		items: [{
+			item: "srpqz:trace"
+		}],
+		consume_items: 1b
+	}],
+	rewards: [{
+		uid: "7778d112",
+		type: "choice",
+		table: 0
+	}]
+}

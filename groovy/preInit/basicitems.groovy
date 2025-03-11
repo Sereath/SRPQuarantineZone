@@ -1,0 +1,1 @@
+content.createItem("trace").register()
