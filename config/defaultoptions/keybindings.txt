@@ -80,7 +80,7 @@ key_vc.key.moveUp:57:NONE
 key_vc.key.moveDown:45:NONE
 key_vc.key.openInventory:47:ALT
 key_vc.key.dropbomb:0:NONE
-key_dshuds.keybind.SelectionBox:48:NONE
+key_dshuds.keybind.SelectionBox:77:NONE
 key_dshuds.keybind.LightLevel:65:NONE
 key_dshuds.keybind.ChunkBorders:67:NONE
 key_key.pickup.item:0:NONE
@@ -102,7 +102,7 @@ key_key.aquaacrobatics.toggle_crawling:0:NONE
 key_key.astikorcarts.desc:0:NONE
 key_atlasextras.keybind.togglehud:0:NONE
 key_atlasextras.keybind.openatlas:50:NONE
-key_tombstone.message.knowledge_of_death:0:NONE
+key_tombstone.message.knowledge_of_death:72:NONE
 key_bbw.key.mode:50:NONE
 key_bbw.key.fluidmode:33:ALT
 key_key.settings_menu:34:NONE
@@ -225,11 +225,11 @@ key_gui.xaero_toggle_dimension:0:NONE
 key_key.sort_config:12:NONE
 key_key.sort:-98:NONE
 key_key.drop:16:ALT
-key_enderio.keybind.inventory:23:NONE
+key_enderio.keybind.inventory:23:CONTROL
 key_enderio.keybind.dsu:0:NONE
 key_enderio.keybind.glidertoggle:34:NONE
 key_enderio.keybind.soundlocator:0:NONE
-key_enderio.keybind.nightvision:25:NONE
+key_enderio.keybind.nightvision:25:CONTROL
 key_enderio.keybind.gogglesofrevealing:0:NONE
 key_enderio.keybind.stepassist:0:NONE
 key_enderio.keybind.speed:0:NONE
