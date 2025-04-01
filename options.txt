@@ -91,7 +91,6 @@ key_key.groovyscript.reload:0
 key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
-key_quark.keybind.lockBuilding:76
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -99,6 +98,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:76
 key_key.spartanweaponry.access_quiver:23
 key_ChatFlow:88
 key_cos.key.opencosarmorinventory:0
@@ -201,7 +201,7 @@ key_key.refinedstorage.openWirelessCraftingMonitor:0
 key_key.mod_lavacow.special:34
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
-key_Open Backpack:52
+key_Open Backpack:51
 key_key.inventoryhud.toggle:0
 key_key.inventoryhud.openconfig:24
 key_key.inventoryhud.togglepot:0
@@ -216,7 +216,7 @@ key_key.jeiutilities.pickBookmark:-98
 key_key.jeiutilities.transferRecipe:17:CONTROL
 key_key.jeiutilities.transferRecipeMax:20:CONTROL
 key_key.toggleLiquids:75
-key_key.toggleVisible:71
+key_key.toggleVisible:0
 key_key.music_player_gui:82
 key_key.music_player_toggle:80
 key_key.music_player_next:81
@@ -235,9 +235,9 @@ key_key.toolbelt.open:55
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_key.toolbelt.slot:47:CONTROL
-key_key.travelersbackpack.inventory:51
-key_key.travelersbackpack.toggle_tank:49
-key_key.travelersbackpack.cycle_tool:44
+key_key.travelersbackpack.inventory:52
+key_key.travelersbackpack.toggle_tank:73
+key_key.travelersbackpack.cycle_tool:71
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
 key_keybind.universaltweaks.dismount:42
 key_key.push_to_talk:0
