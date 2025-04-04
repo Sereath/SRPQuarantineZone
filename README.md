@@ -3,7 +3,7 @@
 Welcome to our SRP survival modpack!
 
 Featuring Scape and Run: Parasites, Techguns, Magneticraft, Thermal,
-Ender IO, Industrial Renewal and The Lost Cities.
+Ender IO, Environmental Tech, Industrial Renewal and The Lost Cities.
 
 Over 200 days of havoc.
 
