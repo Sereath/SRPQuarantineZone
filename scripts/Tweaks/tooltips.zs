@@ -175,24 +175,24 @@
 
 <minecraft:ender_eye>.addTooltip(format.darkGray("Do Not"));
 
-<environmentaltech:void_ore_miner_cont_1>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_2>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_3>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_4>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_5>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_6>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_1>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_2>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_3>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_4>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_5>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_6>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_1>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_2>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_3>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_4>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_5>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_6>.addTooltip(format.darkGreen("Overworld only [0]. Must be placed no higher than 48 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_1>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_2>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_3>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_4>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_5>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_6>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_1>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_2>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_3>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_4>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_5>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_6>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_1>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_2>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_3>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_4>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_5>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_6>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
 
 
 //<hbm:crucible>.displayName = "§4Crucible";

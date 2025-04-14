@@ -940,7 +940,7 @@
 	{
 		"mob": "mod_lavacow:enigmoth",
 		"mincount": {
-			"amount": 5,
+			"amount": 1,
 			"mob": "mod_lavacow:enigmoth",
 			"perchunk": true
 		},
@@ -949,7 +949,7 @@
 	{
 		"mob": "mod_lavacow:enigmoth_larva",
 		"mincount": {
-			"amount": 5,
+			"amount": 1,
 			"mob": "mod_lavacow:enigmoth_larva",
 			"perchunk": true
 		},
