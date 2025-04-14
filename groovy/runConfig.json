@@ -3,11 +3,9 @@
   "packId": "srpqz",
   "version": "1.0.0",
   "debug": false,
-  "classes": {
-    "preInit": []
-  },
   "loaders": {
     "preInit": [
+      "classes/",
       "preInit/"
     ],
     "postInit": [

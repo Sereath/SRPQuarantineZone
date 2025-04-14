@@ -50,3 +50,6 @@ parasiterubble.hardness = 5;
 
 val miaglass as IItemStack = <mia:armored_glass>;
 miaglass.hardness = 3;
+
+val thutecb as IItemStack = <thuttech:lift:1>;
+thutecb.hardness = 17;
