@@ -91,6 +91,7 @@ key_key.groovyscript.reload:0
 key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
+key_quark.keybind.lockBuilding:76
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -98,7 +99,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:76
 key_key.spartanweaponry.access_quiver:23
 key_ChatFlow:88
 key_cos.key.opencosarmorinventory:0
@@ -269,7 +269,7 @@ key_gui.xaero_reverse_entity_radar:0
 key_gui.xaero_toggle_manual_cave_mode:0
 key_gui.xaero_alternative_list_players:0
 key_gui.xaero_toggle_tracked_players:0
-key_gui.xaero_minimap_settings:21
+key_gui.xaero_minimap_settings:0
 key_gui.xaero_open_map:50
 key_gui.xaero_open_settings:0
 key_gui.xaero_map_zoom_in:0

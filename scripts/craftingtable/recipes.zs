@@ -197,6 +197,8 @@ recipes.remove(<extendedcrafting:handheld_table>);
 
 recipes.remove(<engineersdecor:factory_placer>);
 
+recipes.remove(<industrialrenewal:chunk_loader>);
+
 recipes.remove(<minecraft:ender_eye>);
 
 //recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);

@@ -16,6 +16,8 @@ import crafttweaker.item.IIngredient;
 <minecraft:stone_axe>.maxDamage = 65;
 <minecraft:stone_hoe>.maxDamage = 65;
 
+<minecraft:elytra>.maxDamage = 30;
+
 <techguns:nightvisiongoggles>.maxDamage = 1200;
 <techguns:jetpack>.maxDamage = 400;
 <techguns:tacticalmask>.maxDamage = 1200;

@@ -2,7 +2,7 @@
 !mixinbooter-10.5
 !mod-director-launchwrapper-1.8.3
 !Red-Core-MC-1.8-1.12-0.6
-+Fugue-0.18.4
++Fugue-0.18.5
 AAInfo-1.0.1
 AIReducer-1.12.2-0.3.0
 Alfheim-1.5
@@ -33,7 +33,6 @@ bilingualname-2.0
 bogosorter-1.4.10
 Bookshelf-1.12.2-2.3.590
 Bountiful Baubles-1.12.2-0.1.8
-Bountiful-1.12.2-2.2.3
 BringMeTheRings-0.4
 BuildingGadgets-2.8.4
 Bundles-1.2.3
@@ -141,7 +140,7 @@ itemzoom_1.12.2-1.11
 IvToolkit-1.3.3-1.12
 JAOPCA-1.12.2-2.2.8.106
 JEI-Utilities-1.12.2-0.2.12
-jei_area_fixer-2.1.0
+jei_area_fixer-2.2.0
 jepb-1.12-1.2.1
 jetif-1.12.2-1.5.2
 justenoughmagiculture-1.12.2-1.2.1
@@ -292,7 +291,6 @@ TreeChop-1.12.2-0.14.7
 tumbleweed-1.12-0.4.7
 UniDict-1.12.2-3.0.10
 Unifine-1.12.2-0.1.0
-UniLib-1.0.5+1.12.2-forge
 Unique Enchantments Base-1.12.2-1.1.4
 Unique Enchantments-1.12.2-2.1.4
 UniversalTweaks-1.12.2-1.14.0
@@ -300,7 +298,7 @@ valkyrielib-1.12.2-2.0.20.1
 vc-1.12.2-5.10-final
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
-voicechat-forge-1.12.2-2.5.29
+voicechat-forge-1.12.2-2.5.30
 WanionLib-1.12.2-2.91
 Waystones_1.12.2-4.1.0
 Well-Mod-v1.0.1-mc1.12.2
