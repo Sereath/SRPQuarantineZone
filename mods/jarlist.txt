@@ -291,6 +291,7 @@ TreeChop-1.12.2-0.14.7
 tumbleweed-1.12-0.4.7
 UniDict-1.12.2-3.0.10
 Unifine-1.12.2-0.1.0
+UniLib-1.0.6+1.12.2-forge
 Unique Enchantments Base-1.12.2-1.1.4
 Unique Enchantments-1.12.2-2.1.4
 UniversalTweaks-1.12.2-1.14.0
