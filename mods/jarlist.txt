@@ -28,7 +28,7 @@ BetterMineshaftsForge-1.12.2-2.2.1
 BetterSpartanArchery-1.12.2-1.4.1-1.2a
 BetterStronghold -0.1
 BetterThirdPerson-Forge-1.12.2-1.9.0
-BHMenu-Forge-1.12.2-2.4.4
+BHMenu-Forge-1.12.2-2.4.5
 bilingualname-2.1
 bogosorter-1.5.0
 Bookshelf-1.12.2-2.3.590
@@ -63,7 +63,7 @@ corpsecomplex-1.12.2-1.0.12.0
 CosmeticArmorReworked-1.12.2-v5a
 cosmeticbeds-1.12.2-1.0.2.2
 CraftingTweaks_1.12.2-9.0.1
-CraftPresence-2.5.4+1.12.2-forge
+CraftPresence-2.6.2+1.12.2-forge
 CraftTweaker2-1.12-4.1.20.709
 CreativeCore_v1.10.71_mc1.12.2
 CTM-MC1.12.2-1.0.2.31
@@ -110,12 +110,12 @@ FTBQuests-1202.9.0.15
 FTBUtilities-5.4.1.131
 FullscreenWindowed-1.12-1.6.0
 Future-MC-0.2.21
-futurefireproof-1.12.2-1.2.2
+futurefireproof-1.12.2-1.2.3
 fxcontrol-1.12-0.1.15
 GamblingStyle-v1.1.3-1.12.2
 GameStages-1.12.2-2.0.123
 groovyscript-1.3.1
-growthcraft-1.12.2-4.3.0
+growthcraft-1.12.2-4.4.0
 HadEnoughItems_1.12.2-4.29.8
 Highlighter-1.12.2-forge-1.1.7
 hitindication-1.12.2-1.4
@@ -225,13 +225,14 @@ RealFirstPerson2-1.12.2-1.3.2
 RecurrentComplex-1.4.8.6
 RedstoneFlux-1.12-2.1.1.1-universal
 RefinedRelocation_1.12.2-4.2.37
-RenderLib-1.12.2-1.4.3
+RenderLib-1.12.2-1.4.5
 replant1.12.2-1.0.0
 ResourceLoader-MC1.12.1-1.5.3
 ResourceReloader-1.0.2.5
 respawntimer-1.12.2-2.0.2.0
 RLMixins-1.2.19
 RLTweaker-1.12.2-0.7.4
+RoguelikeDungeonsFnarEdition-1.12.2-2.4.6
 roost-1.12.2-2.0.10
 rotm-1.12.2-1.1.4
 RotN-Tweaker-0.0.1
@@ -290,7 +291,7 @@ TreeChop-1.12.2-0.14.7
 tumbleweed-1.12-0.4.7
 UniDict-1.12.2-3.0.10
 Unifine-1.12.2-0.1.0
-UniLib-1.0.6+1.12.2-forge
+UniLib-1.1.1+1.12.2-forge
 Unique Enchantments Base-1.12.2-1.1.4
 Unique Enchantments-1.12.2-2.1.4
 UniversalTweaks-1.12.2-1.14.0
@@ -304,12 +305,13 @@ Waystones_1.12.2-4.1.0
 Well-Mod-v1.0.1-mc1.12.2
 Wither-Config-1.2.1
 worldprimer-1.12.2-0.6.0-dev.20200122.211517
-WorseHurtTimer-1.12.2-1.5.0.1
+WorseHurtTimer-1.12.2-1.5.0.3
 WrapUp-1.12-1.1.3
-XaerosWorldMap_1.39.4_Forge_1.12
+XaerosWorldMap_1.39.12_Forge_1.12
 Xaeros_Minimap_FP24.2.0_Forge_1.12
 XL-Food-Mod-1.12.2-1.9.2
 xnet-1.12-1.8.2
 YARCF-0.14(1.12.2)
+zspacket-0.0.1
 [MC-1.12.2] Default Key Setup v1.0.0.5 - 2024-12-14
 [MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1
