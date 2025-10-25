@@ -1,6 +1,7 @@
 {
   "packName": "SRP: Quarantine Zone",
   "packId": "srpqz",
+  "author": "SRPQZ, Sereath",
   "version": "1.0.0",
   "debug": false,
   "loaders": {

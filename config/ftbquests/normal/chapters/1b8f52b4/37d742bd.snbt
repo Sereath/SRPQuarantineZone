@@ -1,0 +1,24 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "ebbfefe6",
+		type: "dimension",
+		title: "The End",
+		icon: "minecraft:end_portal_frame",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "78f2c5cb",
+		type: "gamestage",
+		icon: "srparasites:itemtab",
+		auto: "no_toast",
+		stage: "endstage"
+	},
+	{
+		uid: "f265f78e",
+		type: "command",
+		command: "/playsound srparasites:canra.special master @p",
+		player_command: 1b
+	}]
+}
