@@ -34,6 +34,7 @@ bogosorter-1.5.0
 Bookshelf-1.12.2-2.3.590
 Bountiful Baubles-1.12.2-0.1.8
 BringMeTheRings-0.4
+brokenwings-3.0.0
 BuildingGadgets-2.8.4
 Bundles-1.2.3
 Caliper-1.12.2-1.1.44
@@ -63,7 +64,7 @@ corpsecomplex-1.12.2-1.0.12.0
 CosmeticArmorReworked-1.12.2-v5a
 cosmeticbeds-1.12.2-1.0.2.2
 CraftingTweaks_1.12.2-9.0.1
-CraftPresence-2.6.2+1.12.2-forge
+CraftPresence-2.7.0+1.12.2-forge
 CraftTweaker2-1.12-4.1.20.709
 CreativeCore_v1.10.71_mc1.12.2
 CTM-MC1.12.2-1.0.2.31
@@ -98,6 +99,7 @@ FantasticLib-1.12.2.047
 FarmingForBlockheads_1.12.2-3.1.28
 Fish's Undead Rising-1.4.2
 Fixeroo-2.1-ActuallyWorksNowEdition
+flare-0.7.0
 foamfix-0.10.15-1.12.2
 forcedresourcepacks-1.1
 Forgelin-Continuous-2.2.20.0
@@ -254,7 +256,6 @@ SnowRealMagic-1.12.2-0.7.4
 solcarrot-1.12.2-1.8.4
 SoundFilters-0.12.1_for_1.12
 Soviet+Era+0.6
-spark-forge1122
 SpartanNetherite-1.12.2-1.2.1
 SpartanShields-1.12.2-1.5.5
 SpartanWeaponry-1.12.2-1.6.0
@@ -291,7 +292,7 @@ TreeChop-1.12.2-0.14.7
 tumbleweed-1.12-0.4.7
 UniDict-1.12.2-3.0.10
 Unifine-1.12.2-0.1.0
-UniLib-1.1.1+1.12.2-forge
+UniLib-1.2.0+1.12.2-forge
 Unique Enchantments Base-1.12.2-1.1.4
 Unique Enchantments-1.12.2-2.1.4
 UniversalTweaks-1.12.2-1.14.0
