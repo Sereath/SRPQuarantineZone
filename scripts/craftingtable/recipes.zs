@@ -24,6 +24,9 @@ recipes.remove(<buildinggadgets:destructiontool>);
 //recipes.remove(<buildinggadgets:exchangertool>);
 //recipes.remove(<buildinggadgets:copypastetool>);
 
+recipes.remove(<darkutils:charm_gluttony>);
+//recipes.remove(<darkutils:charm_portal>);
+
 recipes.remove(<randomthings:spectreanchor>);
 recipes.remove(<randomthings:chunkanalyzer>);
 recipes.remove(<randomthings:timeinabottle>);
@@ -159,6 +162,8 @@ recipes.removeByRecipeName("techguns:metalpanel_0");
 recipes.removeByRecipeName("techguns:nethermetal_0");
 recipes.removeByRecipeName("techguns:concrete_0");
 
+recipes.remove(<chisel:tyrian>);
+
 //recipes.removeByRecipeName("tombstone:enchanted_grave_key");
 recipes.remove(<tombstone:crafting_ingredient>);
 recipes.remove(<tombstone:crafting_ingredient:1>);
@@ -245,6 +250,8 @@ recipes.addShaped(<techguns:jumppack>, [[<ore:nuggetSteel>, null, <ore:nuggetSte
 recipes.addShaped(<techguns:metalpanel> * 16, [[<minecraft:stone:*>, <magneticraft:heavy_plates:6>, <minecraft:stone:*>],[<magneticraft:heavy_plates:6>, <minecraft:stone:*>, <magneticraft:heavy_plates:6>], [<minecraft:stone:*>, <minecraft:stone:*>, <minecraft:stone:*>]]);
 recipes.addShaped(<techguns:nethermetal> * 16, [[<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>],[<magneticraft:heavy_plates:6>, <minecraft:nether_brick>, <magneticraft:heavy_plates:6>], [<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>]]);
 recipes.addShaped(<techguns:concrete> * 16, [[<minecraft:concrete:*>, <minecraft:concrete:*>, <minecraft:concrete:*>],[<minecraft:concrete:*>, <magneticraft:heavy_plates:6>, <minecraft:concrete:*>], [<minecraft:concrete:*>, <minecraft:concrete:*>, <minecraft:concrete:*>]]);
+
+recipes.addShaped(<chisel:tyrian> * 16, [[<ore:platePlatinum>, <chisel:basalt2:7>, <ore:platePlatinum>],[<chisel:basalt2:7>, <ore:platePlatinum>, <chisel:basalt2:7>], [<extendedcrafting:material:48>, <ore:platePlatinum>, <extendedcrafting:material:48>]]);
 
 //recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:netherStar>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
 
