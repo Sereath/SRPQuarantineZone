@@ -89,6 +89,11 @@ key_Reload Menu | CTRL + ALT + :0:NONE:
 key_Toggle Customization Overlay | CTRL + ALT + :50:NONE:
 key_Toggle Slot Lock:82:NONE:
 key_Take Panorama Screenshot:25:NONE:
+key_flare.key.start_sampling:0:NONE:
+key_flare.key.stop_sampling:0:NONE:
+key_flare.key.start_client_sampling:0:NONE:
+key_flare.key.stop_client_sampling:0:NONE:
+key_flare.key.open_tick_tracking_menu:0:NONE:
 key_keybind.baublesinventory:18:ALT:56
 key_quark.keybind.lockBuilding:76:NONE:
 key_quark.keybind.dropoff:0:NONE:
@@ -101,13 +106,13 @@ key_quark.keybind.chestExtract:0:NONE:
 key_key.spartanweaponry.access_quiver:23:NONE:
 key_ChatFlow:88:NONE:
 key_cos.key.opencosarmorinventory:0:NONE:
+key_keybind.endermodpacktweaks.toggle:0:NONE:
 key_Toggle Magnetism Suppressor:49:NONE:
 key_key.ftbutilities.nbt:49:NONE:
 key_key.ftbutilities.trash:211:NONE:
 key_key.ftbquests.quests:36:NONE:
 key_key.moreoverlays.lightoverlay.desc:65:NONE:
 key_key.moreoverlays.chunkbounds.desc:67:NONE:
-key_neat.keybind.toggle:0:NONE:
 key_openblocks.keybind.vario_switch:0:NONE:
 key_openblocks.keybind.vario_vol_up:0:NONE:
 key_openblocks.keybind.vario_vol_down:0:NONE:
@@ -133,6 +138,7 @@ key_vc.key.moveUp:57:NONE:
 key_vc.key.moveDown:45:NONE:
 key_vc.key.openInventory:43:NONE:
 key_vc.key.dropbomb:0:NONE:
+key_key.delivery.store:48:NONE:
 key_dshuds.keybind.SelectionBox:77:NONE:
 key_dshuds.keybind.LightLevel:65:NONE:
 key_dshuds.keybind.ChunkBorders:67:NONE:
@@ -171,10 +177,10 @@ key_key.sethorse.desc:25:NONE:
 key_key.callhorse.desc:80:NONE:
 key_key.showstats.desc:37:NONE:
 key_key.carry.desc:42:NONE:
+key_key.cofh.multimode:47:NONE:
 key_Options Gui:23:NONE:
 key_key.clienttweaks.disable_step_assist:0:NONE:
 key_key.clienttweaks.hide_offhand_item:0:NONE:
-key_key.cofh.multimode:47:NONE:
 key_key.craftingtweaks.rotate:0:NONE:
 key_key.craftingtweaks.rotate_counter_clockwise:0:NONE:
 key_key.craftingtweaks.balance:0:NONE:
