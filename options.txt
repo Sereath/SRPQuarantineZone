@@ -243,6 +243,7 @@ key_key.travelersbackpack.inventory:52:NONE:
 key_key.travelersbackpack.toggle_tank:73:NONE:
 key_key.travelersbackpack.cycle_tool:71:NONE:
 key_keybind.universaltweaks.clear_toasts:11:NONE:
+key_keybind.universaltweaks.dismount:42:NONE:
 key_key.push_to_talk:0:NONE:
 key_key.whisper:0:NONE:
 key_key.mute_microphone:50:NONE:

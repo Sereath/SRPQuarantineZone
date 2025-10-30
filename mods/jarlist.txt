@@ -243,7 +243,6 @@ rsgauges-1.12.2-1.2.8
 rustic-1.1.7
 SBM-BoneTorch-1.12.2-0.0.1b12
 Scannable-MC1.12.2-1.6.3.26
-ScreenshotToClipboard-1.12.2-1.0.1
 SereneSeasons-1.12.2-1.2.18-universal
 SereneTweaks-1.0
 SetBonus-1.12.2.020
