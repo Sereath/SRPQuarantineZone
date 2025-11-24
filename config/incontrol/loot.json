@@ -34,6 +34,14 @@
         "random": "0.03125"
     },
 
+    {
+        "mob": "techguns:attackhelicopter",
+        "player": true,
+        "item": ["lootchests:loot_crate","lootchests:loot_crate@1"],
+        "itemcount": "0-1",
+        "random": "0.03125"
+    },
+
     //bosszombie
 
     {
@@ -102,7 +110,7 @@
         "player": true,
         "item": ["lootchests:loot_crate","lootchests:loot_crate@1"],
         "itemcount": "0-1",
-        "random": "0.125"
+        "random": "0.25"
     },
 
     //mutant_zombie

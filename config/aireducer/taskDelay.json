@@ -1,8 +1,18 @@
 {
+  "minecraft:bat": 6,
+  "minecraft:donkey": 10,
   "minecraft:pig": 10,
-  "minecraft:villager": 10,
-  "minecraft:rabbit": 6,
+  "minecraft:llama": 10,
   "minecraft:sheep": 10,
+  "minecraft:squid": 10,
+  "minecraft:skeleton_horse": 10,
+  "minecraft:mule": 10,
+  "minecraft:villager": 10,
   "minecraft:cow": 10,
-  "minecraft:chicken": 10
+  "minecraft:zombie_horse": 10,
+  "mysticalworld:entity_clam": 10,
+  "minecraft:chicken": 10,
+  "minecraft:wolf": 6,
+  "minecraft:horse": 10,
+  "minecraft:rabbit": 6
 }
