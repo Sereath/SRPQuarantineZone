@@ -88,14 +88,13 @@ key_of.key.zoom:46:NONE:
 key_Reload Menu | CTRL + ALT + :0:NONE:
 key_Toggle Customization Overlay | CTRL + ALT + :50:NONE:
 key_Toggle Slot Lock:82:NONE:
-key_Take Panorama Screenshot:25:NONE:
+key_Take Panorama Screenshot:25:ALT:56
 key_flare.key.start_sampling:0:NONE:
 key_flare.key.stop_sampling:0:NONE:
 key_flare.key.start_client_sampling:0:NONE:
 key_flare.key.stop_client_sampling:0:NONE:
 key_flare.key.open_tick_tracking_menu:0:NONE:
 key_keybind.baublesinventory:18:ALT:56
-key_quark.keybind.lockBuilding:76:NONE:
 key_quark.keybind.dropoff:0:NONE:
 key_quark.keybind.changeHotbar:0:NONE:
 key_quark.keybind.chestSort:0:NONE:
@@ -103,6 +102,7 @@ key_quark.keybind.chestDropoff:0:NONE:
 key_quark.keybind.chestMerge:0:NONE:
 key_quark.keybind.chestRestock:0:NONE:
 key_quark.keybind.chestExtract:0:NONE:
+key_quark.keybind.lockBuilding:76:NONE:
 key_key.spartanweaponry.access_quiver:23:NONE:
 key_ChatFlow:88:NONE:
 key_cos.key.opencosarmorinventory:0:NONE:
