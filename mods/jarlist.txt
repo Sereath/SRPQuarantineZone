@@ -72,6 +72,7 @@ CurseOfDisintegration-1.12.2-1.1.1
 customfov-1.12.2-1.0.1
 customnausea-1.12.2-1.0
 CustomStartingGear-1.12-1.2.0.9-universal
+cyberware-1.12.2-0.2.11.29
 darkness-forge-1.12.x-0.5.0
 DarkUtils-1.12.2-1.8.230
 DefaultOptions_1.12.2-9.2.8

@@ -196,6 +196,7 @@ key_key.craftingtweaks.decompressStack:0:NONE:
 key_key.craftingtweaks.decompressAll:0:NONE:
 key_key.craftingtweaks.refill_last:15:NONE:
 key_key.craftingtweaks.refill_last_stack:15:NONE:
+key_cyberware.keybinds.menu:19:NONE:
 key_key.elenaidodge.dodge:-96:NONE:
 key_key.refinedstorage.focusSearchBar:15:NONE:
 key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL:29
