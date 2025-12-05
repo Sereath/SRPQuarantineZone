@@ -435,6 +435,37 @@
 		"mob": "techguns:attackhelicopter",
 		"result": "deny"
 	},
+
+	{
+		"dimension": -1,
+		"mob": "cyberware:cyberzombie",
+		"random": 0.025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 8,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "cyberware:cyberzombie",
+		"random": 0.025,
+		"incity": true,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 8,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [-1,0],
+		"mob": "cyberware:cyberzombie",
+		"result": "deny"
+	},
 	
     //srp
 

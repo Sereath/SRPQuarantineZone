@@ -182,6 +182,18 @@
 		]
 	},
 
+	{
+		"dimension": [0,-1],
+		"mobs":	[
+			{
+				"mob": "cyberware:cyberzombie",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 4
+			}
+		]
+	},
+
 	//srp
 
 	{
