@@ -1,5 +1,5 @@
-#Wed Aug 03 03:28:18 CDT 2022
-shaderPack=Builders_Modded_Shaders_V2.8.2_S_Version.zip
+#Sun Feb 15 23:29:49 CST 2026
+shaderPack=
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
