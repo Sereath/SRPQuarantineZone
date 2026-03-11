@@ -103,7 +103,6 @@ FarmingForBlockheads_1.12.2-3.1.28
 Fish's Undead Rising-1.4.2
 Fixeroo-2.3.6
 flare-0.7.0
-foamfix-0.10.15-1.12.2
 Forgelin-Continuous-2.3.10.0
 FpsReducer-mc1.12.2-1.20
 FriendlyFire-1.12.2-1.5.10
@@ -206,7 +205,6 @@ openmodularturrets-1.12.2-3.1.14-382
 OpticManager_v1.1.10_mc1.12.2
 OptiFine_1.12.2_HD_U_G5
 OreLib-1.12.2-3.6.0.1
-oreveins-1.12.2-2.1
 overloadedarmorbar-1.0.4g
 panoramica_forge_1.1.2_MC_1.12-1.12.2
 particleculling-1.12.2-v1.4.3
@@ -296,9 +294,9 @@ Unique Enchantments Base-1.12.2-1.1.4
 Unique Enchantments-1.12.2-2.1.4
 UniversalTweaks-1.12.2-1.17.0
 valkyrielib-1.12.2-2.0.20.1
-vc-1.12.2-5.10-final
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
+vintagefix-0.6.2
 voicechat-forge-1.12.2-2.6.12
 WanionLib-1.12.2-2.91
 Waystones_1.12.2-4.1.0
