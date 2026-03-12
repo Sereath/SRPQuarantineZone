@@ -208,6 +208,11 @@ recipes.remove(<minecraft:ender_eye>);
 //recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 //recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemVibrantCrystal>, <ore:crystalRestonia>, <ore:itemVibrantCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 
+recipes.removeByRecipeName("srpmeshi:living_helm");
+recipes.removeByRecipeName("srpmeshi:living_chest");
+recipes.removeByRecipeName("srpmeshi:living_leggings");
+recipes.removeByRecipeName("srpmeshi:living_boots");
+
 recipes.addShaped(<minecraft:nether_star> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <minecraft:nether_star>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
 recipes.addShaped(<minecraft:name_tag> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <minecraft:name_tag>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
 
