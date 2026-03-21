@@ -30,6 +30,11 @@
             <entity name="mutantbeasts:mutant_zombie" costMultiplier="100.0" disabled="true" soulvial="false"/>
         </spawning>
     </recipe>
+    <recipe name="Spawner, Cyberware" required="false">
+        <spawning>
+            <entity name="cyberware:cyberzombie" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
     <recipe name="Spawner, SRP" required="false">
         <spawning>
             <entity name="srparasites:hi_blaze" costMultiplier="100.0" disabled="true" soulvial="false"/>
