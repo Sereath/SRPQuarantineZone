@@ -293,7 +293,7 @@ Unifine-1.12.2-0.1.0
 UniLib-1.2.1+1.12.2-forge
 Unique Enchantments Base-1.12.2-1.1.4
 Unique Enchantments-1.12.2-2.1.4
-UniversalTweaks-1.12.2-1.17.0
+UniversalTweaks-1.12.2-1.19.1
 valkyrielib-1.12.2-2.0.20.1
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
