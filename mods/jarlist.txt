@@ -80,7 +80,7 @@ DefaultOptions_1.12.2-9.2.8
 DefaultWorldGenerator-port-1.12-2.3
 delivery-1.12.2-1.6.2
 detailedhp_1.1.0_MC_1.12-1.12.2
-dldungeonsjbg-1.14.14-MC1.12.2
+dldungeonsjbg-1.14.16-MC1.12.2
 DynamicSurroundings-1.12.2-3.6.2.1
 DynamicSurroundingsHuds-1.12.2-3.6.0.0
 dynviewdist-1.12-1.3
@@ -296,7 +296,7 @@ UniversalTweaks-1.12.2-1.19.1
 valkyrielib-1.12.2-2.0.20.1
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
-vintagefix-0.6.2
+vintagefix-0.7.0
 voicechat-forge-1.12.2-2.6.16
 WanionLib-1.12.2-2.91
 Waystones_1.12.2-4.1.0
