@@ -1,16 +1,16 @@
 {
 	title: "§aTips",
 	icon: "srparasites:weapon_axe_sentient",
-	x: 0.0d,
-	y: -0.5d,
+	x: 2.5d,
+	y: -1.0d,
 	text: [
-		"		You will retain your equipped armour and hand items upon death. Everything else will be stored in a tombstone.",
+		"		Tongs or mitts are required for handling hot liquids.",
 		"",
-		"		You can dodge! Press the forward button on your mouse.",
+		"		Mana Infused Ingots are the universal material for reforging your equipment.",
 		"",
-		"		If music stops playing. Press Alt + R to reload its configurations.",
+		"		Debug info has been disabled.",
 		"",
-		"		Press NUM 0 to lock/unlock a hotbar slot."
+		"		§8If music stops playing. Press Alt + R to reload its configurations."
 	],
 	tasks: [{
 		uid: "091ca1e0",

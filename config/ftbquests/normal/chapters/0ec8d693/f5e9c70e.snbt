@@ -1,16 +1,16 @@
 {
 	title: "§aTips",
 	icon: "srparasites:weapon_sword_sentient",
-	x: 3.0d,
-	y: -0.5d,
+	x: 1.5d,
+	y: 0.5d,
 	text: [
-		"		No more lava bucketing everything without risk, get some tongs or mitts before doing so.",
+		"		You can dodge! Press the forward button on your mouse.",
 		"",
-		"		Debug info has been disabled, grab a compass if you want to see the coordinates on screen.",
+		"		You will retain your equipped armour and hand items upon death. Everything else will be stored in a tombstone.",
 		"",
-		"		Get an Antique Atlas if you want both the coordinates and a minimap on screen.",
+		"		In general, several core mechanics have been revised.",
 		"",
-		"		Mana Infused Ingots are the universal material for reforging your equipment."
+		"		§8Press NUM 0 to lock/unlock a hotbar slot."
 	],
 	tasks: [{
 		uid: "018c1e5c",
