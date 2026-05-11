@@ -197,6 +197,9 @@ recipes.remove(<corpsecomplex:scroll>);
 recipes.remove(<apotheosis:prismatic_web>);
 recipes.remove(<apotheosis:scrap_tome>);
 
+recipes.remove(<spartanweaponry:material>);
+recipes.remove(<spartanweaponry:material:1>);
+
 recipes.remove(<extendedcrafting:handheld_table>);
 
 recipes.remove(<engineersdecor:factory_placer>);
@@ -262,6 +265,9 @@ recipes.addShaped(<chisel:tyrian> * 16, [[<ore:platePlatinum>, <chisel:basalt2:7
 recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:dustBlaze>, null],[<minecraft:rotten_flesh>, <ore:paper>, <minecraft:rotten_flesh>], [null, <ore:enderpearl>, null]]);
 
 recipes.addShaped(<apotheosis:prismatic_web>, [[null, <minecraft:ender_eye>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
+
+recipes.addShaped(<spartanweaponry:material>, [[null, <ore:string>, null],[null, <ore:stickWood>, null], [null, <improvedbackpacks:tanned_leather>, null]]);
+recipes.addShaped(<spartanweaponry:material:1>, [[<improvedbackpacks:tanned_leather>, <ore:stickWood>, <ore:string>],[<ore:string>, <ore:stickWood>, <improvedbackpacks:tanned_leather>], [<improvedbackpacks:tanned_leather>, <ore:stickWood>, <ore:string>]]);
 
 recipes.addShaped(<srparasites:nodecompass>, [[<ore:itemPrecientCrystal>, <srparasites:lurecomponent5>, <ore:itemWeatherCrystal>],[<srparasites:living_core>, <nyx:meteor_finder>, <srparasites:living_core>], [<ore:itemWeatherCrystal>, <techguns:itemshared:131>, <ore:itemPrecientCrystal>]]);
 recipes.addShaped(<srparasites:armor_helm>, [[<ore:dustMithril>, <ore:netherStar>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_helm>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
