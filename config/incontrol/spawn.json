@@ -1056,6 +1056,29 @@
 		"result": "deny"
 	},
 
+    //tgcounter
+
+	{
+		"mob": "techguns:zombiesoldier",
+		"onjoin": true,
+		"mincount": {
+			"amount": 20,
+			"mob": "techguns:zombiesoldier",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "techguns:skeletonsoldier",
+		"onjoin": true,
+		"mincount": {
+			"amount": 20,
+			"mob": "techguns:skeletonsoldier",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	
 	//vanillamobcounter
 
 	{
@@ -1107,7 +1130,7 @@
 	{
 		"mob": "minecraft:zombie",
 		"mincount": {
-			"amount": 60,
+			"amount": 30,
 			"mob": "minecraft:zombie",
 			"perchunk": true
 		},
