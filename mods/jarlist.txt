@@ -80,7 +80,7 @@ DefaultOptions_1.12.2-9.2.8
 DefaultWorldGenerator-port-1.12-2.3
 delivery-1.12.2-1.6.2
 detailedhp_1.1.0_MC_1.12-1.12.2
-dldungeonsjbg-1.14.16-MC1.12.2
+dldungeonsjbg-1.14.17-MC1.12.2
 DynamicSurroundings-1.12.2-3.6.2.1
 DynamicSurroundingsHuds-1.12.2-3.6.0.0
 dynviewdist-1.12-1.3
@@ -118,7 +118,7 @@ futurefireproof-1.12.2-1.2.4
 fxcontrol-1.12-0.1.15
 GamblingStyle-v1.1.3-1.12.2
 GameStages-1.12.2-2.0.123
-groovyscript-1.3.4
+groovyscript-1.4.3
 growthcraft-1.12.2-4.4.0
 HadEnoughItems_1.12.2-4.29.15
 Highlighter-1.12.2-forge-1.1.7
@@ -143,7 +143,7 @@ itemzoom_1.12.2-1.11
 IvToolkit-1.3.3-1.12
 JAOPCA-1.12.2-2.2.8.106
 JEI-Utilities-1.12.2-0.2.13
-jei_area_fixer-2.3.0
+jei_area_fixer-2.4.0
 jepb-1.12-1.2.1
 jetif-1.12.2-1.5.2
 justenoughmagiculture-1.12.2-1.2.2
@@ -297,7 +297,7 @@ valkyrielib-1.12.2-2.0.20.1
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
 vintagefix-0.7.0
-voicechat-forge-1.12.2-2.6.17
+voicechat-forge-1.12.2-2.6.18
 WanionLib-1.12.2-2.91
 Waystones_1.12.2-4.1.0
 Well-Mod-v1.0.1-mc1.12.2
