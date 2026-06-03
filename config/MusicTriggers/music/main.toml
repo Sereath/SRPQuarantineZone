@@ -7,14 +7,6 @@
 		level = "48"
 		priority = "4"
 		identifier = "underground"
-	[[triggers.time]]
-		priority = "3"
-		time_bundle = "night"
-		identifier = "night"
-	[[triggers.time]]
-		priority = "2"
-		time_bundle = "day"
-		identifier = "day"
 	[triggers.dead]
 		priority = "15"
 	[triggers.lowhp]
@@ -42,7 +34,7 @@
 		fade_out = "100"
 		persistence = "0"
 		trigger_delay = "0"
-		song_delay = "3000:6000"
+		song_delay = "6000:12000"
 		start_delay = "0"
 		stop_delay = "0"
 		fade_in = "100"
@@ -55,27 +47,30 @@
 		triggers = [ "dimension-overworld" "height-underground" ]
 	[[songs.k_ha15_137070]]
 		volume = "1.3"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.k_ha16_137109]
 		volume = "1.1"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.k_ha54scl_194737]
 		volume = "0.9"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.k_ha67_203738]
-		triggers = [ "dimension-overworld" "time-night" ]
+		volume = "0.9"
+		triggers = [ "dimension-overworld" ]
 	[songs.k_ha70_13052513_211495]
-		triggers = [ "dimension-overworld" "time-night" ]
+		volume = "0.9"
+		triggers = [ "dimension-overworld" ]
 	[[songs.k_ha50121369_192433]]
 		volume = "1.3"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.t_etmbl_277192]
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.t_se1_178113]
-		triggers = [ "dimension-overworld" "time-night" ]
+		volume = "0.9"
+		triggers = [ "dimension-overworld" ]
 	[songs.thunderdreams]
 		volume = "0.9"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.k_ha41h13022800_180964]
 		triggers = [ "height-inVoid" ]
 	[songs.t_ct_172641]
@@ -83,6 +78,7 @@
 	[songs.s_asmd_54921]
 		triggers = [ "dead" ]
 	[songs.s_sv_58962]
+		volume = "0.9"
 		triggers = [ "lowhp" ]
 	[songs.aftermath]
 		triggers = [ "menu" ]
