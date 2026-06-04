@@ -51,6 +51,8 @@ val parasiterubble as IItemStack = <srparasites:parasiterubble>;
 parasiterubble.hardness = 5;
 val chisel_tyrian as IItemStack = <chisel:tyrian>;
 chisel_tyrian.hardness = 21;
+val qzlayer1 as IItemStack = <srpqz:layer1>;
+qzlayer1.hardness = 18;
 
 val miaglass as IItemStack = <mia:armored_glass>;
 miaglass.hardness = 3;
