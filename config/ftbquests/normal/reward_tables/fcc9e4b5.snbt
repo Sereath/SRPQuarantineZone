@@ -22,5 +22,11 @@
 	},
 	{
 		item: "minecraft:compass"
+	},
+	{
+		title: "Silver coins 8+",
+		item: "srpqz:silver",
+		count: 8,
+		random_bonus: 8
 	}]
 }
