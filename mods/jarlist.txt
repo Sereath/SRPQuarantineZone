@@ -2,7 +2,7 @@
 !mixinbooter-10.7
 !mod-director-launchwrapper-1.9.1
 !Red-Core-MC-1.8-1.12-0.7.1
-+Fugue-0.23.4
++Fugue-0.23.6
 AAInfo-1.0.1
 AIReducer-1.12.2-0.3.0
 Alfheim-1.6
@@ -104,7 +104,7 @@ FarmingForBlockheads_1.12.2-3.1.28
 Fish's Undead Rising-1.4.2
 Fixeroo-2.3.7
 flare-0.8.0
-Forgelin-Continuous-2.3.20.0
+Forgelin-Continuous-2.4.0.0
 FpsReducer-mc1.12.2-1.20
 FriendlyFire-1.12.2-1.5.10
 Frozen-Fiend-1.5.3
