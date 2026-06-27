@@ -194,5 +194,9 @@
 <environmentaltech:void_botanic_miner_cont_5>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
 <environmentaltech:void_botanic_miner_cont_6>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
 
+<cyberware:beacon>.addTooltip(format.gold("Spawns limited to the Nether"));
+<cyberware:beacon_large>.addTooltip(format.gold("Spawns limited to the Nether"));
+<cyberware:radio_post>.addTooltip(format.gold("Spawns limited to the Nether"));
+
 
 //<hbm:crucible>.displayName = "§4Crucible";

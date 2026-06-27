@@ -18,6 +18,20 @@
         "itemcount": "1-2/2-4/4-8",
         "random": "0.6"
     },
+    {
+        "mod": "techguns",
+        "player": true,
+        "item": "srpqz:silver",
+        "itemcount": "1-2/2-3/3-4",
+        "random": "0.125"
+    },
+    {
+        "mob": ["techguns:bandit","techguns:cyberdemon","techguns:psychosteve","techguns:supermutantbasic","techguns:supermutantheavy","techguns:supermutantelite","techguns:stormtrooper","techguns:zombiepigmansoldier"],
+        "player": true,
+        "item": "srpqz:silver",
+        "itemcount": "1-2/2-3/3-4",
+        "random": "0.25"
+    },
 
     {
         "mob": "techguns:outcast",
