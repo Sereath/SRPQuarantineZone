@@ -1,7 +1,4 @@
 [
-
-	//techguns
-
 	{
 		"dimension": 0,
 		"mobs":	[
@@ -194,7 +191,6 @@
 		]
 	},
 
-	//srp
 
 	{
 		"dimension": [0,1],
@@ -361,7 +357,6 @@
 		]
 	},
 
-	//srphack
 
 	{
 		"dimension": 1,

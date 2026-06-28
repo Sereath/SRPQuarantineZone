@@ -1,7 +1,4 @@
 [
-
-	//techguns
-
 	{
 		"dimension": 0,
 		"mob": "techguns:zombiepoliceman",
@@ -467,7 +464,6 @@
 		"result": "deny"
 	},
 	
-    //srp
 
 	{
 		"dimension": 1,
@@ -883,7 +879,6 @@
 		"result": "deny"
 	},
 
-	//srpbeckonsskycheck
 
 	{
 		"dimension": 0,
@@ -893,7 +888,6 @@
 		"result": "deny"
 	},
     
-    //roughmobsbossesskycheck
 	
 	{
 		"dimension": 0,
@@ -903,7 +897,6 @@
 		"result": "deny"
 	},
     
-    //fishundeadmobcounter
 
 	{
 		"mob": "mod_lavacow:raven",
@@ -987,7 +980,6 @@
 		"result": "deny"
 	},
 
-	//beecounter
 
 	{
 		"mob": "futuremc:bee",
@@ -999,7 +991,6 @@
 		"result": "deny"
 	},
 
-	//mutantbeastscounter
 
 	{
 		"mob": "mutantbeasts:mutant_enderman",
@@ -1020,7 +1011,6 @@
 		"result": "deny"
 	},
 
-	//chickenscounter
 
 	{
 		"mob": "chickens:chickenschicken",
@@ -1032,7 +1022,6 @@
 		"result": "deny"
 	},
 
-	//salmoncounter
 
 	{
 		"mob": "oe:salmon",
@@ -1044,7 +1033,6 @@
 		"result": "deny"
 	},
 
-	//quarkcounter
 
 	{
 		"mob": "quark:stoneling",
@@ -1056,7 +1044,6 @@
 		"result": "deny"
 	},
 
-    //tgcounter
 
 	{
 		"mob": "techguns:zombiesoldier",
@@ -1079,7 +1066,6 @@
 		"result": "deny"
 	},
 	
-	//vanillamobcounter
 
 	{
 		"mob": "minecraft:bat",
@@ -1137,7 +1123,6 @@
 		"result": "deny"
 	},
 
-	//srphack
 
 	{
 		"dimension": 1,

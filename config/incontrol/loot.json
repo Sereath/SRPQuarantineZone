@@ -1,6 +1,4 @@
 [
-    //zombie
-
     {
         "mob": "minecraft:zombie",
         "player": true,
@@ -9,7 +7,6 @@
         "random": "0.15"
     },
 
-    //techguns
 
     {
         "mod": "techguns",
@@ -56,7 +53,6 @@
         "random": "0.03125"
     },
 
-    //bosszombie
 
     {
         "mob": "roughmobsrevamped:bosszombie",
@@ -66,7 +62,6 @@
         "random": "1.0"
     },
 
-    //bossskeleton
 
     {
         "mob": "roughmobsrevamped:bossskeleton",
@@ -76,7 +71,6 @@
         "random": "1.0"
     },
 
-    //mutant_creeper
 
     {
         "mob": "mutantbeasts:mutant_creeper",
@@ -86,7 +80,6 @@
         "random": "0.25"
     },
 
-    //mutant_enderman
 
     {
         "mob": "mutantbeasts:mutant_enderman",
@@ -117,7 +110,6 @@
         "random": "0.125"
     },
 
-    //mutant_skeleton
 
     {
         "mob": "mutantbeasts:mutant_skeleton",
@@ -127,7 +119,6 @@
         "random": "0.25"
     },
 
-    //mutant_zombie
 
     {
         "mob": "mutantbeasts:mutant_zombie",
@@ -137,7 +128,6 @@
         "random": "0.125"
     },
 
-    //srp
 
     {
         "mob": "srparasites:warden",
@@ -179,7 +169,6 @@
         "random": "0.09"
     },
 
-    //srr
 
     {
         "mod": "srrevenants",
@@ -189,7 +178,6 @@
         "random": "0.6"
     },
 
-    //ender_dragon
 
     {
         "mob": "minecraft:ender_dragon",
@@ -199,7 +187,6 @@
         "random": "0.27"
     },
 
-    //wither
 
     {
         "mob": "minecraft:wither",
@@ -209,7 +196,6 @@
         "random": "0.18"
     },
 
-    //skeletonking
 
     {
         "mob": "mod_lavacow:skeletonking",
