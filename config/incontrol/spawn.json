@@ -882,16 +882,7 @@
 
 	{
 		"dimension": 0,
-		"mob": ["srparasites:beckon_si","srparasites:beckon_sii","srparasites:beckon_siii","srparasites:beckon_siv"],
-		"onjoin": true,
-		"seesky": false,
-		"result": "deny"
-	},
-    
-	
-	{
-		"dimension": 0,
-		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton"],
+		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton","srparasites:beckon_si","srparasites:beckon_sii","srparasites:beckon_siii","srparasites:beckon_siv"],
 		"onjoin": true,
 		"seesky": false,
 		"result": "deny"
@@ -1046,21 +1037,10 @@
 
 
 	{
-		"mob": "techguns:zombiesoldier",
+		"mob": ["techguns:zombiesoldier","techguns:skeletonsoldier"],
 		"onjoin": true,
 		"mincount": {
-			"amount": 20,
-			"mob": "techguns:zombiesoldier",
-			"perchunk": true
-		},
-		"result": "deny"
-	},
-	{
-		"mob": "techguns:skeletonsoldier",
-		"onjoin": true,
-		"mincount": {
-			"amount": 20,
-			"mob": "techguns:skeletonsoldier",
+			"amount": 30,
 			"perchunk": true
 		},
 		"result": "deny"
@@ -1081,7 +1061,6 @@
 		"onjoin": true,
 		"mincount": {
 			"amount": 30,
-			"mob": "minecraft:slime",
 			"perchunk": true
 		},
 		"result": "deny"
@@ -1105,19 +1084,9 @@
 		"result": "deny"
 	},
 	{
-		"mob": "minecraft:skeleton",
+		"mob": ["minecraft:skeleton","minecraft:zombie"],
 		"mincount": {
 			"amount": 30,
-			"mob": "minecraft:skeleton",
-			"perchunk": true
-		},
-		"result": "deny"
-	},
-	{
-		"mob": "minecraft:zombie",
-		"mincount": {
-			"amount": 30,
-			"mob": "minecraft:zombie",
 			"perchunk": true
 		},
 		"result": "deny"
@@ -1179,61 +1148,19 @@
 	},
 
 	{
-		"mob": "srparasites:beckon_si",
+		"mob": ["srparasites:beckon_si","srparasites:beckon_sii","srparasites:beckon_siii","srparasites:beckon_siv"],
 		"onjoin": true,
 		"mincount": {
-			"amount": 9,
-			"mob": "srparasites:beckon_si",
+			"amount": 8,
 			"perchunk": true
 		},
 		"result": "deny"
 	},
 	{
-		"mob": "srparasites:beckon_sii",
+		"mob": ["srparasites:fer_enderman","srparasites:sim_enderman"],
 		"onjoin": true,
 		"mincount": {
-			"amount": 7,
-			"mob": "srparasites:beckon_sii",
-			"perchunk": true
-		},
-		"result": "deny"
-	},
-	{
-		"mob": "srparasites:beckon_siii",
-		"onjoin": true,
-		"mincount": {
-			"amount": 5,
-			"mob": "srparasites:beckon_siii",
-			"perchunk": true
-		},
-		"result": "deny"
-	},
-	{
-		"mob": "srparasites:beckon_siv",
-		"onjoin": true,
-		"mincount": {
-			"amount": 3,
-			"mob": "srparasites:beckon_siv",
-			"perchunk": true
-		},
-		"result": "deny"
-	},
-	{
-		"mob": "srparasites:fer_enderman",
-		"onjoin": true,
-		"mincount": {
-			"amount": 3,
-			"mob": "srparasites:fer_enderman",
-			"perchunk": true
-		},
-		"result": "deny"
-	},
-	{
-		"mob": "srparasites:sim_enderman",
-		"onjoin": true,
-		"mincount": {
-			"amount": 3,
-			"mob": "srparasites:sim_enderman",
+			"amount": 8,
 			"perchunk": true
 		},
 		"result": "deny"
