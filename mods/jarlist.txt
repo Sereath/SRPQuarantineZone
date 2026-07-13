@@ -2,7 +2,7 @@
 !mixinbooter-10.7
 !mod-director-launchwrapper-1.9.1
 !Red-Core-MC-1.8-1.12-0.7.1
-+Fugue-0.23.6
++Fugue-0.23.7
 AAInfo-1.0.1
 AIReducer-1.12.2-0.3.0
 Alfheim-1.6
@@ -13,7 +13,7 @@ Apotheosis-1.12.2-1.12.5
 AppleCore-mc1.12.2-3.4.0
 AppleSkin-mc1.12-1.0.14
 AquaAcrobatics-1.15.4
-ArmoredArms-v1.5.1-1.12.2-release
+ArmoredArms-v1.5.3-1.12.2-release
 assetmover-2.5
 astikorcarts-1.12.2-0.1.2.8
 Atlas-Lib-1.12.2-1.1.10
