@@ -260,7 +260,7 @@ SpartanWeaponry-1.12.2-1.6.1
 SpawnerControl-1.6.3b
 specialai-1.1.0_for_mc1.12.2
 SRMonstress-1.12.2v1.0.2
-SRParasites-1.12.2v1.9.21
+SRParasites-1.10.7
 srpmeshi-1.8
 SRRevenants-1.12.2v1.0.2
 startuptimer-1.1.0

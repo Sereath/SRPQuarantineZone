@@ -64,6 +64,7 @@
     "minecraft:taiga_hills": "PINES_HILLS",
     "minecraft:void": "END_VOID",
     "randomthings:spectral": "PLAINS",
-    "srparasites:biome_parasite": "PLAINS"
+    "srparasites:biomeparasite_harlequin": "PLAINS",
+    "srparasites:biomeparasite_shrouded": "PLAINS"
   }
 }
