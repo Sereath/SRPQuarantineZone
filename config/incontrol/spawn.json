@@ -1005,7 +1005,7 @@
 
 	{
 		"dimension": 1,
-		"mob": ["srparasites:fer_bear","srparasites:fer_cow","srparasites:fer_horse","srparasites:fer_human","srparasites:fer_pig","srparasites:fer_sheep","srparasites:fer_villager"],
+		"mob": ["srparasites:fer_bear","srparasites:fer_cow","srparasites:fer_horse","srparasites:fer_human","srparasites:fer_pig","srparasites:fer_sheep","srparasites:fer_villager","srparasites:fer_wolf"],
 		"random": 0.00375,
 		"maxlight": 7,
 		"minlight": 0,
@@ -1017,13 +1017,13 @@
 	},
 	{
 		"dimension": 1,
-		"mob": ["srparasites:fer_bear","srparasites:fer_cow","srparasites:fer_horse","srparasites:fer_human","srparasites:fer_pig","srparasites:fer_sheep","srparasites:fer_villager"],
+		"mob": ["srparasites:fer_bear","srparasites:fer_cow","srparasites:fer_horse","srparasites:fer_human","srparasites:fer_pig","srparasites:fer_sheep","srparasites:fer_villager","srparasites:fer_wolf"],
 		"result": "deny"
 	},
 
 	{
 		"dimension": 1,
-		"mob": ["srparasites:ada_longarms","srparasites:ada_manducater","srparasites:ada_reeker","srparasites:ada_yelloweye","srparasites:ada_summoner","srparasites:ada_bolster","srparasites:ada_arachnida"],
+		"mob": ["srparasites:ada_longarms","srparasites:ada_manducater","srparasites:ada_reeker","srparasites:ada_yelloweye","srparasites:ada_summoner","srparasites:ada_bolster","srparasites:ada_arachnida","srparasites:ada_vermin"],
 		"random": 0.00375,
 		"maxlight": 7,
 		"minlight": 0,
@@ -1035,7 +1035,7 @@
 	},
 	{
 		"dimension": 1,
-		"mob": ["srparasites:ada_longarms","srparasites:ada_manducater","srparasites:ada_reeker","srparasites:ada_yelloweye","srparasites:ada_summoner","srparasites:ada_bolster","srparasites:ada_arachnida"],
+		"mob": ["srparasites:ada_longarms","srparasites:ada_manducater","srparasites:ada_reeker","srparasites:ada_yelloweye","srparasites:ada_summoner","srparasites:ada_bolster","srparasites:ada_arachnida","srparasites:ada_vermin"],
 		"result": "deny"
 	},
 

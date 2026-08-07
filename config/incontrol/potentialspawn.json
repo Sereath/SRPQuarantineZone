@@ -513,6 +513,17 @@
 			}
 		]
 	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:fer_wolf",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
 
 	{
 		"dimension": 1,
@@ -585,6 +596,17 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:ada_arachnida",
+				"weight": 9,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "srparasites:ada_vermin",
 				"weight": 9,
 				"groupcountmin": 1,
 				"groupcountmax": 2
