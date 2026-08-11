@@ -22,8 +22,8 @@ val rarePool = rareTable.addPool("rare", 1, 18, 1, 2);
  
 //==== High Rise Loot ====
 //gen-320
-highRisePool.addItemEntry(<minecraft:web>, 80, 1, [Functions.setCount(1, 16)], []);
-highRisePool.addItemEntry(<minecraft:slime_ball>, 80, 1, [Functions.setCount(1, 8)], []);
+highRisePool.addItemEntry(<minecraft:web>, 80, 1, [Functions.setCount(1, 8)], []);
+highRisePool.addItemEntry(<minecraft:slime_ball>, 80, 1, [Functions.setCount(1, 4)], []);
 highRisePool.addItemEntry(<techguns:itemshared:62>, 80, 1, [Functions.setCount(1, 4)], []);
 highRisePool.addItemEntry(<techguns:itemshared:63>, 80, 1, [Functions.setCount(1, 4)], []);
 //leather-270
@@ -52,8 +52,8 @@ highRisePool.addItemEntry(<techguns:minigun>, 10, 1, [Functions.setCount(1, 1)],
  
 //==== Basement Loot ====
 //gen-320
-basementPool.addItemEntry(<minecraft:web>, 80, 1, [Functions.setCount(1, 16)], []);
-basementPool.addItemEntry(<minecraft:slime_ball>, 80, 1, [Functions.setCount(1, 8)], []);
+basementPool.addItemEntry(<minecraft:web>, 80, 1, [Functions.setCount(1, 8)], []);
+basementPool.addItemEntry(<minecraft:slime_ball>, 80, 1, [Functions.setCount(1, 4)], []);
 basementPool.addItemEntry(<techguns:itemshared:62>, 80, 1, [Functions.setCount(1, 4)], []);
 basementPool.addItemEntry(<techguns:itemshared:63>, 80, 1, [Functions.setCount(1, 4)], []);
 //leather-120
@@ -109,8 +109,8 @@ basementPool.addItemEntry(<techguns:glider>, 10, 1, [Functions.setCount(1, 1)], 
 
 //==== Subway Loot ====
 //gen-320
-subwayPool.addItemEntry(<minecraft:web>, 80, 1, [Functions.setCount(1, 16)], []);
-subwayPool.addItemEntry(<minecraft:slime_ball>, 80, 1, [Functions.setCount(1, 8)], []);
+subwayPool.addItemEntry(<minecraft:web>, 80, 1, [Functions.setCount(1, 8)], []);
+subwayPool.addItemEntry(<minecraft:slime_ball>, 80, 1, [Functions.setCount(1, 4)], []);
 subwayPool.addItemEntry(<techguns:itemshared:62>, 80, 1, [Functions.setCount(1, 4)], []);
 subwayPool.addItemEntry(<techguns:itemshared:63>, 80, 1, [Functions.setCount(1, 4)], []);
 //tgtools-120
@@ -159,8 +159,8 @@ subwayPool.addItemEntry(<randomthings:chunkanalyzer>, 20, 1, [Functions.setCount
 
 //==== Generic Loot ====
 //gen-320
-genericPool.addItemEntry(<minecraft:web>, 80, 1, [Functions.setCount(1, 16)], []);
-genericPool.addItemEntry(<minecraft:slime_ball>, 80, 1, [Functions.setCount(1, 8)], []);
+genericPool.addItemEntry(<minecraft:web>, 80, 1, [Functions.setCount(1, 8)], []);
+genericPool.addItemEntry(<minecraft:slime_ball>, 80, 1, [Functions.setCount(1, 4)], []);
 genericPool.addItemEntry(<techguns:itemshared:62>, 80, 1, [Functions.setCount(1, 4)], []);
 genericPool.addItemEntry(<techguns:itemshared:63>, 80, 1, [Functions.setCount(1, 4)], []);
 //copper-390
@@ -238,8 +238,8 @@ genericPool.addItemEntry(<techguns:fraggrenade>, 20, 1, [Functions.setCount(1, 3
 
 //==== Rare Loot ====
 //gen-320
-rarePool.addItemEntry(<minecraft:web>, 80, 1, [Functions.setCount(1, 16)], []);
-rarePool.addItemEntry(<minecraft:slime_ball>, 80, 1, [Functions.setCount(1, 8)], []);
+rarePool.addItemEntry(<minecraft:web>, 80, 1, [Functions.setCount(1, 8)], []);
+rarePool.addItemEntry(<minecraft:slime_ball>, 80, 1, [Functions.setCount(1, 4)], []);
 rarePool.addItemEntry(<techguns:itemshared:62>, 80, 1, [Functions.setCount(1, 4)], []);
 rarePool.addItemEntry(<techguns:itemshared:63>, 80, 1, [Functions.setCount(1, 4)], []);
 //platinum-630
