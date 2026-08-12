@@ -194,9 +194,6 @@ recipes.remove(<pickletweaks:nightvision_goggles>);
 
 recipes.remove(<corpsecomplex:scroll>);
 
-recipes.remove(<apotheosis:prismatic_web>);
-recipes.remove(<apotheosis:scrap_tome>);
-
 recipes.remove(<spartanweaponry:material>);
 recipes.remove(<spartanweaponry:material:1>);
 
@@ -268,8 +265,6 @@ recipes.addShaped(<chisel:tyrian> * 16, [[<ore:platePlatinum>, <chisel:basalt2:7
 //recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:netherStar>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
 
 recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:dustBlaze>, null],[<minecraft:rotten_flesh>, <ore:paper>, <minecraft:rotten_flesh>], [null, <ore:enderpearl>, null]]);
-
-recipes.addShaped(<apotheosis:prismatic_web>, [[null, <minecraft:ender_eye>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
 
 recipes.addShaped(<spartanweaponry:material>, [[null, <ore:string>, null],[null, <ore:stickWood>, null], [null, <improvedbackpacks:tanned_leather>, null]]);
 recipes.addShaped(<spartanweaponry:material:1>, [[<improvedbackpacks:tanned_leather>, <ore:stickWood>, <ore:string>],[<ore:string>, <ore:stickWood>, <improvedbackpacks:tanned_leather>], [<improvedbackpacks:tanned_leather>, <ore:stickWood>, <ore:string>]]);

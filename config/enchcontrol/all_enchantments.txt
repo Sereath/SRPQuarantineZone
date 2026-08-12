@@ -1,0 +1,129 @@
+mod name - enchantment name - enchantment registry name
+Brewin' And Chewin' Legacy - Algae Clearing - brewinandchewinlegacy:algae_clearing
+Charm - Curse Break - charm:curse_break
+Charm - Salvage - charm:salvage
+Charm - Homing - charm:homing
+Charm - Curse of Clumsiness - charm:clumsiness_curse
+Charm - Magnetic - charm:magnetic
+Charm - Curse of Harming - charm:harming_curse
+Charm - Curse of Rusting - charm:rusting_curse
+Charm - Curse of Haunting - charm:haunting_curse
+CoFH Core - Leech - cofhcore:leech
+CoFH Core - Holding - cofhcore:holding
+CoFH Core - Multishot - cofhcore:multishot
+CoFH Core - Insight - cofhcore:insight
+CoFH Core - Vorpal - cofhcore:vorpal
+CoFH Core - Smashing - cofhcore:smashing
+CoFH Core - Smelting - cofhcore:smelting
+CoFH Core - Soulbound - cofhcore:soulbound
+Corail Tombstone - Shadow Step - tombstone:shadow_step
+Corail Tombstone - Magic Siphon - tombstone:magic_siphon
+Corail Tombstone - Tombstone Soulbound - tombstone:soulbound
+Corail Tombstone - Curse of Bones - tombstone:curse_of_bones
+Corail Tombstone - Plague Bringer - tombstone:plague_bringer
+Corail Tombstone - Spectral Conjurer - tombstone:spectral_conjurer
+Corail Tombstone - Blessing - tombstone:blessing
+Ender IO - Soulbound - enderio:soulbound
+Ender IO - Repellent - enderio:repellent
+Ender IO - Shimmer - enderio:shimmer
+Ender IO - Decay - enderio:witherweapon
+Ender IO - Withering - enderio:witherarrow
+EnderCore - XP Boost - endercore:xpboost
+EnderCore - Auto-Smelt - endercore:autosmelt
+Farmer's Delight Legacy - Backstabbing - farmersdelight:backstabbing
+Fish's Undead Rising - Poisonous - mod_lavacow:poisonous
+Fish's Undead Rising - Corrosive - mod_lavacow:corrosive
+Fish's Undead Rising - Lifesteal - mod_lavacow:lifesteal
+Future Fireproof - Fireproof - futurefireproof:fireproof
+Living Enchantment - Living - livingenchantment:enchantment.living
+Minecraft - Flame - minecraft:flame
+Minecraft - Projectile Protection - minecraft:projectile_protection
+Minecraft - Aqua Affinity - minecraft:aqua_affinity
+Minecraft - Punch - minecraft:punch
+Minecraft - Sharpness - minecraft:sharpness
+Minecraft - Silk Touch - minecraft:silk_touch
+Minecraft - Sweeping Edge - minecraft:sweeping
+Minecraft - Unbreaking - minecraft:unbreaking
+Minecraft - Mending - minecraft:mending
+Minecraft - Protection - minecraft:protection
+Minecraft - Knockback - minecraft:knockback
+Minecraft - Luck of the Sea - minecraft:luck_of_the_sea
+Minecraft - Blast Protection - minecraft:blast_protection
+Minecraft - Power - minecraft:power
+Minecraft - Feather Falling - minecraft:feather_falling
+Minecraft - Curse of Binding - minecraft:binding_curse
+Minecraft - Depth Strider - minecraft:depth_strider
+Minecraft - Bane of Arthropods - minecraft:bane_of_arthropods
+Minecraft - Fire Protection - minecraft:fire_protection
+Minecraft - Lure - minecraft:lure
+Minecraft - Infinity - minecraft:infinity
+Minecraft - Respiration - minecraft:respiration
+Minecraft - Looting - minecraft:looting
+Minecraft - Efficiency - minecraft:efficiency
+Minecraft - Curse of Vanishing - minecraft:vanishing_curse
+Minecraft - Thorns - minecraft:thorns
+Minecraft - Smite - minecraft:smite
+Minecraft - Fire Aspect - minecraft:fire_aspect
+Minecraft - Fortune - minecraft:fortune
+Minecraft - Frost Walker - minecraft:frost_walker
+Nyx - Lunar Shield - nyx:lunar_shield
+Nyx - Lunar Edge - nyx:lunar_edge
+Oceanic Expanse - Waterjet - oe:is_wet
+Oceanic Expanse - Nor's Rebound - oe:rebound
+Oceanic Expanse - Loyalty - oe:loyalty
+Oceanic Expanse - Riptide - oe:riptide
+Oceanic Expanse - Mob Stomp - oe:mobstomp
+Oceanic Expanse - Channeling - oe:channeling
+Oceanic Expanse - Impaling - oe:is_watermob
+OpenBlocks - Unstable - openblocks:explosive
+OpenBlocks - Last Stand - openblocks:last_stand
+OpenBlocks - Flim Flam - openblocks:flim_flam
+Random Things - Magnetic - randomthings:magnetic
+Spartan Shields - Spikes - spartanshields:ssenchspikes
+Spartan Weaponry - Propulsion - spartanweaponry:propulsion
+Spartan Weaponry - Razors Edge - spartanweaponry:razors_edge
+Spartan Weaponry - Sharpshooter - spartanweaponry:sharpshooter
+Spartan Weaponry - Rapid Load - spartanweaponry:rapid_load
+Spartan Weaponry - Lucky Throw - spartanweaponry:lucky_throw
+Spartan Weaponry - Return - spartanweaponry:return
+Spartan Weaponry - Hydrodynamic - spartanweaponry:hydrodynamic
+Spartan Weaponry - Expanse - spartanweaponry:expanse
+Spartan Weaponry - Incendiary - spartanweaponry:incendiary
+Spartan Weaponry - Spreadshot - spartanweaponry:spreadshot
+Spartan Weaponry - Supercharge - spartanweaponry:supercharge
+Unique Enchantments - Nature's Grace - uniquee:naturesgrace
+Unique Enchantments - Ender Eyes - uniquee:ender_eyes
+Unique Enchantments - Ameliorated Smite - uniquee:undead
+Unique Enchantments - Cloud Walker - uniquee:cloudwalker
+Unique Enchantments - Vitae - uniquee:vitae
+Unique Enchantments - Spartan Weapon - uniquee:spartanweapon
+Unique Enchantments - Phoenix's Blessing - uniquee:phoenixs_blessing
+Unique Enchantments - Ifrit's Grace - uniquee:ifrits_grace
+Unique Enchantments - Sage's Blessing - uniquee:sages_blessing
+Unique Enchantments - Focus Impact - uniquee:focus_impact
+Unique Enchantments - Ares Blessing - uniquee:aresblessing
+Unique Enchantments - Swift - uniquee:swift
+Unique Enchantments - Perpetual Strike - uniquee:perpetualstrike
+Unique Enchantments - Ameliorated Sharpness - uniquee:all
+Unique Enchantments - Alchemist's Grace - uniquee:alchemistsgrace
+Unique Enchantments - Midas Blessing - uniquee:midas_blessing
+Unique Enchantments - Momentum - uniquee:momentum
+Unique Enchantments - Ender Mending - uniquee:ender_mending
+Unique Enchantments - Ameliorated Bane of Arthropod - uniquee:arthropods
+Unique Enchantments - Endest Reap - uniquee:endest_reap
+Unique Enchantments - Ender's Markmen - uniquee:endermarksmen
+Unique Enchantments - Pestilence's Odium - uniquee:pestilences_odium
+Unique Enchantments - Bone Crusher - uniquee:bone_crusher
+Unique Enchantments - Warrior's Grace - uniquee:warriorsgrace
+Unique Enchantments - Berserker - uniquee:berserk
+Unique Enchantments - Death's Odium - uniquee:deaths_odium
+Unique Enchantments - Treasurer's Eyes - uniquee:treasurers_eyes
+Unique Enchantments - Icarus Aegis - uniquee:icarus_aegis
+Unique Enchantments - Fast Food - uniquee:fastfood
+Unique Enchantments - Range - uniquee:ranged
+Unique Enchantments - Climate Tranquility - uniquee:climate_tranquility
+Unique Enchantments - Grimoire - uniquee:grimoire
+Unique Enchantments - Ender Librarian - uniquee:ender_librarian
+Unique Enchantments - Swift Blade - uniquee:swiftblade
+Unique Enchantments - Smart Ass - uniquee:smart_ass
+Unique Enchantments - Ecological - uniquee:ecological
