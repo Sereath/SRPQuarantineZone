@@ -147,9 +147,16 @@ key_key.jei.showUses:22:NONE:
 key_key.jei.recipeBack:14:NONE:
 key_key.jei.previousPage:201:NONE:
 key_key.jei.nextPage:209:NONE:
+key_key.hei.previousCategory:201:SHIFT:42
+key_key.hei.nextCategory:209:SHIFT:42
 key_key.jei.bookmark:59:NONE:
+key_key.hei.bookmarkToTop:30:SHIFT:42
+key_key.hei.bookmarkNewGroup:30:CONTROL:29
+key_key.hei.bookmarkNewGroupToTop:0:NONE:
 key_key.hei.toggleBookmarkOverlay:0:NONE:
 key_key.hei.crafting:0:NONE:
+key_key.hei.moveGroupUp:200:SHIFT:42
+key_key.hei.moveGroupDown:208:SHIFT:42
 key_key.aquaacrobatics.toggle_crawling:0:NONE:
 key_key.astikorcarts.desc:40:NONE:
 key_atlasextras.keybind.togglehud:0:NONE:
