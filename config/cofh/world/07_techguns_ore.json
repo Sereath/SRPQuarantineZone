@@ -1,19 +1,18 @@
 {
-	"dependencies": "thermalfoundation",
 	"populate": {
-		"mana": {
+		"titanium": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "thermalfoundation:ore",
-					"metadata": 8
+					"name": "techguns:basicore",
+					"metadata": 3
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 4
+				"cluster-size": 1
 			},
 			"cluster-count": 1,
 			"min-height": 2,
-			"max-height": 16,
+			"max-height": 8,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {

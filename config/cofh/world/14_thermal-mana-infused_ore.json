@@ -1,7 +1,7 @@
 {
 	"dependencies": "thermalfoundation",
 	"populate": {
-		"mana": {
+		"umana": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -11,15 +11,15 @@
 				"material": "minecraft:stone",
 				"cluster-size": 4
 			},
-			"cluster-count": 1,
+			"cluster-count": 4,
 			"min-height": 2,
-			"max-height": 16,
+			"max-height": 240,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+					3
 				]
 			}
 		}

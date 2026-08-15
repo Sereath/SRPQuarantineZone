@@ -1,0 +1,12 @@
+{
+    "name": "critters",
+    "mobs": [
+        "minecraft:*",
+        "techguns:*",
+        "mod_lavacow:*",
+        "mutantbeasts:*",
+        "srmonstress:*",
+        "srparasites:*",
+        "srrevenants:*"
+    ]
+}

@@ -14,5 +14,10 @@
       "player": true,
       "multxp": 1.25,
       "mintime": 13000
+    },
+	{
+      "dimension": "3",
+      "player": true,
+      "multxp": 1.25
     }
 ]

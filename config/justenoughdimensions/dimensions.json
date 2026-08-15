@@ -1,0 +1,38 @@
+{
+    "dimensions": [
+        {
+            "dim": 3,
+            "biome": "biometweaker:ancient_underground",
+            "dimensiontype": {
+                "id": 3,
+                "name": "Ancient",
+                "suffix": "_dim3",
+                "keeploaded": false,
+                "worldprovider": "WorldProviderSurfaceJED",
+                "require_exact_match": true
+            },
+            "chunkgenerator": "com.noobanidus.superflatcaves.ChunkGeneratorFlatCaves",
+            "worldinfo_onetime": {
+                "generatorName": "flat",
+                "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake",
+                "GameRules": {
+                    "doDaylightCycle": "false"
+                },
+                "DayTime": 18000
+            },
+            "jed": {
+                "SpawnPointSearchType": {
+                    "type": "cavern",
+                    "min_y": 244,
+                    "max_y": 252
+                },
+                "CanRespawnHere": false,
+                "RespawnDimension": 0,
+                "CanSleepHere": "deny",
+                "SkyColor": "133700",
+                "SkyRenderType": 1,
+                "SkyDisableFlags": 7
+            }
+        }
+	]
+}

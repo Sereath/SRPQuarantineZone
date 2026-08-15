@@ -175,24 +175,24 @@
 
 <minecraft:ender_eye>.addTooltip(format.darkGray("Do Not"));
 
-<environmentaltech:void_ore_miner_cont_1>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_2>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_3>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_4>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_5>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_6>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_1>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_2>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_3>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_4>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_5>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_6>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_1>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_2>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_3>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_4>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_5>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_6>.addTooltip(format.darkGreen("Overworld only [0].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_1>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_2>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_3>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_4>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_5>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_6>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_1>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_2>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_3>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_4>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_5>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_6>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_1>.addTooltip(format.darkGreen("Overworld & Abyss only [0,3].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_2>.addTooltip(format.darkGreen("Overworld & Abyss only [0,3].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_3>.addTooltip(format.darkGreen("Overworld & Abyss only [0,3].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_4>.addTooltip(format.darkGreen("Overworld & Abyss only [0,3].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_5>.addTooltip(format.darkGreen("Overworld & Abyss only [0,3].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_6>.addTooltip(format.darkGreen("Overworld & Abyss only [0,3].\n- Must be placed no higher than 48 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
 
 <cyberware:beacon>.addTooltip(format.gold("Spawns limited to the Nether"));
 <cyberware:beacon_large>.addTooltip(format.gold("Spawns limited to the Nether"));

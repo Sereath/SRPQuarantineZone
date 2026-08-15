@@ -37,6 +37,10 @@
       },
       "the_end": {
         "textOverride": "In The End"
+      },
+      "ancient": {
+        "textOverride": "In the Abyss",
+        "iconOverride": "skeleton"
       }
     }
   },

@@ -1,6 +1,7 @@
 {
   "version": 2,
   "data": {
+    "biometweaker:ancient_underground": "PLAINS",
     "minecraft:beaches": "SHORE",
     "minecraft:birch_forest": "BIRCH",
     "minecraft:birch_forest_hills": "BIRCH_HILLS",
