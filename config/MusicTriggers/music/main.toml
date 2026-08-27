@@ -58,30 +58,30 @@
 		triggers = [ "dimension-nether" ]
 	[songs.k_ha3813020300_179029]
 		triggers = [ "dimension-nether" ]
-	[songs.k_ha15_137070]
+	[[songs.k_ha15_137070]]
 		volume = "1.3"
 		triggers = [ "dimension-overworld" ]
-	[songs.k_ha16_137109]
+	[[songs.k_ha16_137109]]
 		volume = "1.1"
 		triggers = [ "dimension-overworld" ]
-	[songs.k_ha50121369_192433]
+	[[songs.k_ha50121369_192433]]
 		volume = "1.3"
 		triggers = [ "dimension-overworld" ]
-	[songs.k_ha54scl_194737]
+	[[songs.k_ha54scl_194737]]
 		volume = "0.9"
 		triggers = [ "dimension-overworld" ]
-	[songs.k_ha67_203738]
+	[[songs.k_ha67_203738]]
 		volume = "0.9"
 		triggers = [ "dimension-overworld" ]
-	[songs.k_ha70_13052513_211495]
+	[[songs.k_ha70_13052513_211495]]
 		volume = "0.9"
 		triggers = [ "dimension-overworld" ]
-	[songs.t_etmbl_277192]
+	[[songs.t_etmbl_277192]]
 		triggers = [ "dimension-overworld" ]
-	[songs.t_se1_178113]
+	[[songs.t_se1_178113]]
 		volume = "0.9"
 		triggers = [ "dimension-overworld" ]
-	[songs.thunderdreams]
+	[[songs.thunderdreams]]
 		volume = "0.9"
 		triggers = [ "dimension-overworld" ]
 	[songs.aftermath]
@@ -130,4 +130,30 @@
 		triggers = [ "menu" ]
 	[songs.r_unsteady]
 		triggers = [ "menu" ]
+	[[songs.k_ha15_137070]]
+		volume = "1.3"
+		triggers = [ "dimension-abyss" ]
+	[[songs.k_ha16_137109]]
+		volume = "1.1"
+		triggers = [ "dimension-abyss" ]
+	[[songs.k_ha50121369_192433]]
+		volume = "1.3"
+		triggers = [ "dimension-abyss" ]
+	[[songs.k_ha54scl_194737]]
+		volume = "0.9"
+		triggers = [ "dimension-abyss" ]
+	[[songs.k_ha67_203738]]
+		volume = "0.9"
+		triggers = [ "dimension-abyss" ]
+	[[songs.k_ha70_13052513_211495]]
+		volume = "0.9"
+		triggers = [ "dimension-abyss" ]
+	[[songs.t_etmbl_277192]]
+		triggers = [ "dimension-abyss" ]
+	[[songs.t_se1_178113]]
+		volume = "0.9"
+		triggers = [ "dimension-abyss" ]
+	[[songs.thunderdreams]]
+		volume = "0.9"
+		triggers = [ "dimension-abyss" ]
 	[songs.universal]
