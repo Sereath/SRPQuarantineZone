@@ -108,7 +108,7 @@ FarmingForBlockheads_1.12.2-3.1.28
 Fish's Undead Rising-1.4.2
 Fixeroo-2.3.7
 flare-0.8.0
-Forgelin-Continuous-2.4.0.0
+Forgelin-Continuous-2.4.10.0
 FpsReducer-mc1.12.2-1.20
 FriendlyFire-1.12.2-1.5.10
 Frozen-Fiend-1.5.3
