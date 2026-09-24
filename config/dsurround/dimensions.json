@@ -1,7 +1,7 @@
 {
     "dimensions": [
         {
-            "dimId": 10,
+            "dimId": 3,
             "haze": true,
             "weather": true,
             "fog": true
