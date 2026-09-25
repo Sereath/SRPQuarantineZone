@@ -31,6 +31,7 @@ mods.Delivery.Store.addTrade(<minecraft:leather>, store_General).addItem(silverC
 mods.Delivery.Store.addTrade(<minecraft:wool>, store_General).addItem(silverCoin * 6);
 mods.Delivery.Store.addTrade(<minecraft:sand>, store_General).addItem(silverCoin * 1);
 mods.Delivery.Store.addTrade(<randomthings:chunkanalyzer>, store_General).addItem(silverCoin * 64).addItem(silverCoin * 64).addItem(silverCoin * 64).addItem(<nyx:meteor_shard> * 48);
+mods.Delivery.Store.addTrade(<magneticraft:heavy_plates:6>, store_General).addItem(silverCoin * 4);
 
 //melee
 mods.Delivery.Store.addTrade(<compositegear:composite_sword>, store_Melee).addItem(silverCoin * 3);
@@ -74,6 +75,13 @@ mods.Delivery.Store.addTrade(<techguns:netherblaster>, store_Ranged).addItem(sil
 mods.Delivery.Store.addTrade(<techguns:biogun>, store_Ranged).addItem(silverCoin * 64).addItem(silverCoin * 32);
 mods.Delivery.Store.addTrade(<techguns:lmg>, store_Ranged).addItem(silverCoin * 64).addItem(silverCoin * 64).addItem(silverCoin * 64).addItem(<nyx:meteor_shard> * 2);
 mods.Delivery.Store.addTrade(<techguns:minigun>, store_Ranged).addItem(silverCoin * 64).addItem(silverCoin * 64).addItem(silverCoin * 64).addItem(<nyx:meteor_shard> * 3);
+
+mods.Delivery.Store.addTrade(<techguns:itemshared> * 16, store_Ranged).addItem(silverCoin * 1);
+mods.Delivery.Store.addTrade(<techguns:itemshared:2> * 8, store_Ranged).addItem(silverCoin * 2);
+mods.Delivery.Store.addTrade(<techguns:itemshared:1> * 16, store_Ranged).addItem(silverCoin * 3);
+mods.Delivery.Store.addTrade(<techguns:itemshared:3> * 16, store_Ranged).addItem(silverCoin * 4);
+mods.Delivery.Store.addTrade(<techguns:itemshared:5> * 8, store_Ranged).addItem(silverCoin * 6);
+mods.Delivery.Store.addTrade(<techguns:itemshared:27> * 4, store_Ranged).addItem(silverCoin * 12);
 
 //magic
 mods.Delivery.Store.addTrade(<minecraft:splash_potion>.withTag({Potion: "potioncore:strong_revival"}), store_Magic).addItem(silverCoin * 6);
