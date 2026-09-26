@@ -2,6 +2,7 @@ import net.minecraftforge.event.world.BlockEvent.BreakEvent
 import net.minecraft.util.ResourceLocation
 
 def extraExhaustion = [
+    (new ResourceLocation("minecraft", "obsidian")): 2.0f,
     (new ResourceLocation("dimstack", "bedrock")): 4.0f,
     (new ResourceLocation("srpqz", "layer1")): 8.0f
 ]
