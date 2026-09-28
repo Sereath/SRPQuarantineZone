@@ -1,0 +1,40 @@
+{
+  enabled: true
+  dimensions: [ 0 ]
+  biomes: {
+    types: [ "SPOOKY", "DEAD", "DRY", "SANDY" ]
+  }
+  replaceableBlocks: [ "stone", "dirt", "grass", "air", "sand", "sandstone" ]
+  replaceDecorators: false
+  tunnels: {
+    count: 5
+    height: [ 4, 96 ]
+    systemChance: 0.025
+    noiseYReduction: false
+    distance: 320
+    resizeBranches: true
+    scale: {
+      startVal: 4
+      startValRandFactor: 0.7
+      randFactor: 0.45
+    }
+    stretch: {
+      startVal: 0.35
+      randFactor: 0.25
+    }
+    dYaw: {
+      factor: 0.45
+      randFactor: 3
+    }
+    dPitch: {
+      factor: 0.4
+      randFactor: 3
+    }
+  }
+  caveBlocks: [
+    {
+      states: chisel:basalt:9
+      height: [ 0, 250 ]
+    }
+  ]
+}

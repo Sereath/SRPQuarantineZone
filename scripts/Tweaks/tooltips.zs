@@ -174,6 +174,7 @@
 <minecraft:compass>.addTooltip(format.darkGray("Soulbound"));
 
 <minecraft:ender_eye>.addTooltip(format.darkGray("Do Not"));
+<minecraft:obsidian>.displayName = "§fRaw Obsidian";
 
 <environmentaltech:void_ore_miner_cont_1>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
 <environmentaltech:void_ore_miner_cont_2>.addTooltip(format.darkGreen("Abyss only [3].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
