@@ -69,6 +69,7 @@ recipes.remove(<waystones:warp_stone>);
 recipes.remove(<environmentaltech:modifier_creative_flight>);
 recipes.remove(<environmentaltech:modifier_flight_speed>);
 recipes.remove(<environmentaltech:modifier_invisibility>);
+recipes.remove(<environmentaltech:modifier_speed>);
 
 recipes.remove(<openblocks:generic>);
 
