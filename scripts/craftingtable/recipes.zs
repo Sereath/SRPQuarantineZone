@@ -258,11 +258,11 @@ recipes.addShaped(<techguns:itemshared:90>, [[<techguns:itemshared:60>, <techgun
 recipes.addShaped(<techguns:itemshared:91>, [[<mod_lavacow:curseweave_cloth>, <ore:plateElectrum>, <mod_lavacow:curseweave_cloth>],[<mod_lavacow:curseweave_cloth>, <ore:plateElectrum>, <mod_lavacow:curseweave_cloth>], [<mod_lavacow:curseweave_cloth>, <ore:plateElectrum>, <mod_lavacow:curseweave_cloth>]]);
 recipes.addShaped(<techguns:jumppack>, [[<ore:nuggetSteel>, null, <ore:nuggetSteel>],[<thermalfoundation:material:352>, <techguns:itemshared:90>, <thermalfoundation:material:352>], [<techguns:itemshared:23>, null, <techguns:itemshared:23>]]);
 
-recipes.addShaped(<techguns:metalpanel> * 16, [[<minecraft:stone:*>, <minecraft:stone:*>, <minecraft:stone:*>],[<magneticraft:heavy_plates:6>, <minecraft:stone:*>, <magneticraft:heavy_plates:6>], [<minecraft:stone:*>, <minecraft:stone:*>, <minecraft:stone:*>]]);
-recipes.addShaped(<techguns:nethermetal> * 16, [[<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>],[<magneticraft:heavy_plates:6>, <minecraft:nether_brick>, <magneticraft:heavy_plates:6>], [<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>]]);
-recipes.addShaped(<techguns:concrete> * 16, [[<minecraft:concrete:*>, <minecraft:concrete:*>, <minecraft:concrete:*>],[<minecraft:concrete:*>, <magneticraft:heavy_plates:6>, <minecraft:concrete:*>], [<minecraft:concrete:*>, <minecraft:concrete:*>, <minecraft:concrete:*>]]);
+recipes.addShaped(<techguns:metalpanel> * 48, [[<minecraft:stone:*>, <minecraft:stone:*>, <minecraft:stone:*>],[<magneticraft:heavy_plates:6>, <minecraft:stone:*>, <magneticraft:heavy_plates:6>], [<minecraft:stone:*>, <minecraft:stone:*>, <minecraft:stone:*>]]);
+recipes.addShaped(<techguns:nethermetal> * 48, [[<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>],[<magneticraft:heavy_plates:6>, <minecraft:nether_brick>, <magneticraft:heavy_plates:6>], [<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>]]);
+recipes.addShaped(<techguns:concrete> * 48, [[<minecraft:concrete:*>, <minecraft:concrete:*>, <minecraft:concrete:*>],[<minecraft:concrete:*>, <magneticraft:heavy_plates:6>, <minecraft:concrete:*>], [<minecraft:concrete:*>, <minecraft:concrete:*>, <minecraft:concrete:*>]]);
 
-recipes.addShaped(<chisel:tyrian> * 16, [[<ore:platePlatinum>, <chisel:basalt2:7>, <ore:platePlatinum>],[<chisel:basalt2:7>, <ore:platePlatinum>, <chisel:basalt2:7>], [<extendedcrafting:material:48>, <ore:platePlatinum>, <extendedcrafting:material:48>]]);
+recipes.addShaped(<chisel:tyrian> * 48, [[<ore:platePlatinum>, <chisel:basalt2:7>, <ore:platePlatinum>],[<chisel:basalt2:7>, <ore:platePlatinum>, <chisel:basalt2:7>], [<extendedcrafting:material:48>, <ore:platePlatinum>, <extendedcrafting:material:48>]]);
 
 //recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:netherStar>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
 

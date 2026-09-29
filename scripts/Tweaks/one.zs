@@ -50,7 +50,7 @@ eioro.hardness = 18;
 val parasiterubble as IItemStack = <srparasites:parasiterubble>;
 parasiterubble.hardness = 5;
 val chisel_tyrian as IItemStack = <chisel:tyrian>;
-chisel_tyrian.hardness = 21;
+chisel_tyrian.hardness = 30;
 val qzlayer1 as IItemStack = <srpqz:layer1>;
 qzlayer1.hardness = 18;
 
