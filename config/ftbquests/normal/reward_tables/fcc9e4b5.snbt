@@ -24,9 +24,9 @@
 		item: "minecraft:compass"
 	},
 	{
-		title: "Silver coins 8+",
+		title: "Silver coins 12-48",
 		item: "srpqz:silver",
-		count: 8,
-		random_bonus: 8
+		count: 12,
+		random_bonus: 36
 	}]
 }
